@@ -15,7 +15,7 @@ class WalmartSpider(scrapy.Spider):
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
-        start_url = 'https://www.walmart.com/browse/976759?athcpid=7cbe8a0a-c5fe-4839-a851-edb3ec71638c&athpgid=AthenaContentPage&athznid=athenaModuleZone&athmtid=AthenaItemCarousel&athtvid=4&athena=true&page=3&affinityOverride=default'
+        start_url = 'https://www.walmart.com/browse/976759?page=4&affinityOverride=default'
         yield scrapy.Request(url=start_url, callback=self.parse)
 
     def parse(self, response):
@@ -40,37 +40,31 @@ class WalmartSpider(scrapy.Spider):
             # Check for sale price
             sale_price_whole = product.css('div[data-automation-id="product-price"] span.f3::text').get()
             if sale_price_whole and sale_price_whole.strip().lower() == 'now':
-                sale_price_whole = product.css('div[data-automation-id="product-price"] span.f2::text').get()
-                sale_price_fraction = product.css('div[data-automation-id="product-price"] span.f6.f5-l:not([style*="margin-right:2px"])::text').get()
-                item['sale_price'] = f"{sale_price_whole}.{sale_price_fraction}" if sale_price_whole and sale_price_fraction else 'N/A'
+                sale_price = product.css('div[data-automation-id="product-price"] span.w_iUH7::text').get()
+                item['sale_price'] = sale_price.strip('current price Now $') if sale_price else 'N/A'
                 original_price = product.css('div[data-automation-id="product-price"] div.gray.strike::text').get()
-                item['price'] = original_price.strip() if original_price else 'N/A'
+                item['price'] = original_price.strip('$') if original_price else 'N/A'
                 price_per_unit = product.css('div[data-automation-id="product-price"] div.gray:last-of-type::text').get()
                 item['price_per_unit'] = price_per_unit.strip() if price_per_unit else 'N/A'
             else:
-                sale_price_whole = None
-                sale_price_fraction = None
                 item['sale_price'] = 'N/A'
-                price_whole = product.css('div[data-automation-id="product-price"] span.f2::text').get()
-                price_fraction = product.css('div[data-automation-id="product-price"] span.f6.f5-l:not([style*="margin-right:2px"])::text').get()
-                item['price'] = f"{price_whole}.{price_fraction}" if price_whole and price_fraction else 'N/A'
+                original_price = product.css('div[data-automation-id="product-price"] span.w_iUH7::text').get()
+                item['price'] = original_price.strip('current price $') if original_price else 'N/A'
                 price_per_unit = product.css('div[data-automation-id="product-price"] div.gray::text').get()
                 item['price_per_unit'] = price_per_unit.strip() if price_per_unit else 'N/A'
-
-            
 
             item['date'] = datetime.now().strftime('%Y-%m-%d')
             logging.info(f"Scraped item: {item}")
             yield item
 
         # Follow pagination links
-        next_page = sel.css('a.paginator-btn-next::attr(href)').get()
+        next_page = sel.css('a[data-testid="NextPage"]::attr(href)').get()
         if next_page is not None:
-            logging.info(f"Following next page: {next_page}")
-            yield response.follow(next_page, self.parse)
+            next_page_url = response.urljoin(next_page)
+            logging.info(f"Following next page: {next_page_url}")
+            yield scrapy.Request(url=next_page_url, callback=self.parse)
         else:
             logging.info("No next page found")
 
     def closed(self, reason):
         self.driver.quit()
-
