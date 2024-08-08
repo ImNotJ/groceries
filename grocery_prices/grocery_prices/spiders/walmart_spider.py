@@ -15,8 +15,12 @@ class WalmartSpider(scrapy.Spider):
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
-        start_url = 'https://www.walmart.com/browse/976759?page=4&affinityOverride=default'
-        yield scrapy.Request(url=start_url, callback=self.parse)
+        base_url = 'https://www.walmart.com/browse/976759?page={page}&affinityOverride=default'
+        total_pages = 2
+
+        for page in range(1, total_pages + 1):
+            url = base_url.format(page=page)
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -56,15 +60,6 @@ class WalmartSpider(scrapy.Spider):
             item['date'] = datetime.now().strftime('%Y-%m-%d')
             logging.info(f"Scraped item: {item}")
             yield item
-
-        # Follow pagination links
-        next_page = sel.css('a[data-testid="NextPage"]::attr(href)').get()
-        if next_page is not None:
-            next_page_url = response.urljoin(next_page)
-            logging.info(f"Following next page: {next_page_url}")
-            yield scrapy.Request(url=next_page_url, callback=self.parse)
-        else:
-            logging.info("No next page found")
 
     def closed(self, reason):
         self.driver.quit()
