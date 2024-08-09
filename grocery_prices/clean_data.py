@@ -13,7 +13,7 @@ print(df.head())
 df = df[df['item_name'].notna() & (df['item_name'] != 'N/A')]
 
 # 2. Remove quotation marks from item names
-df['item_name'] = df['item_name'].str.replace('"', '')
+df['item_name'] = df['item_name'].str.replace(r'^"|"$', '', regex=True)
 
 # 3. Convert price columns to numeric, handling non-numeric values
 df['price'] = pd.to_numeric(df['price'], errors='coerce')
@@ -34,7 +34,10 @@ def split_price_per_unit(value):
         ppu_unit = match.group(2).strip()
         if ppu_unit.startswith("¢/"):
             price_per_unit /= 100
+            price_per_unit = round(price_per_unit, 3)
             ppu_unit = ppu_unit[2:]  # Remove "¢/"
+            if ppu_unit.startswith("fl"):
+                ppu_unit = "fl oz"
         elif ppu_unit.startswith("/"):
             ppu_unit = ppu_unit[1:]  # Remove "/"
         return pd.Series([price_per_unit, ppu_unit])
