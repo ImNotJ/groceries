@@ -18,7 +18,7 @@ class WalmartSpider(scrapy.Spider):
     def start_requests(self):
         # First request to the specific link
         initial_url = 'https://www.walmart.com/browse/976759?athcpid=7cbe8a0a-c5fe-4839-a851-edb3ec71638c&athpgid=AthenaContentPage&athznid=athenaModuleZone&athmtid=AthenaItemCarousel&athtvid=4&athena=true'
-        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 3, 'initial': True})
+        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 26, 'initial': True})
 
     def parse(self, response):
         self.driver.get(response.url)
