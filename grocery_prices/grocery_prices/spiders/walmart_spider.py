@@ -1,4 +1,5 @@
 import scrapy
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,18 +16,15 @@ class WalmartSpider(scrapy.Spider):
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
-        base_url = 'https://www.walmart.com/browse/976759?page={page}&affinityOverride=default'
-        total_pages = 2
-
-        for page in range(1, total_pages + 1):
-            url = base_url.format(page=page)
-            yield scrapy.Request(url=url, callback=self.parse)
+        # First request to the specific link
+        initial_url = 'https://www.walmart.com/browse/976759?athcpid=7cbe8a0a-c5fe-4839-a851-edb3ec71638c&athpgid=AthenaContentPage&athznid=athenaModuleZone&athmtid=AthenaItemCarousel&athtvid=4&athena=true'
+        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 3, 'initial': True})
 
     def parse(self, response):
         self.driver.get(response.url)
         
         # Allow JavaScript to load content
-        self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(10) 
 
         sel = Selector(text=self.driver.page_source)
 
@@ -60,6 +58,32 @@ class WalmartSpider(scrapy.Spider):
             item['date'] = datetime.now().strftime('%Y-%m-%d')
             logging.info(f"Scraped item: {item}")
             yield item
+
+        # Close the current browser window
+        self.driver.quit()
+
+        # Get the current page number and total pages from meta
+        current_page = response.meta['page']
+        total_pages = response.meta['total_pages']
+        initial = response.meta.get('initial', False)
+
+        # Increment the page number
+        next_page = current_page + 1
+
+        # Check if there are more pages to scrape
+        if initial or next_page <= total_pages:
+            # Introduce a delay before making the next request
+            time.sleep(300)
+            
+            # Reinitialize the driver
+            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+            
+            # Construct the next page URL
+            base_url = 'https://www.walmart.com/browse/976759?page={page}&affinityOverride=default'
+            next_url = base_url.format(page=next_page)
+            
+            # Make a new request for the next page
+            yield scrapy.Request(url=next_url, callback=self.parse, meta={'page': next_page, 'total_pages': total_pages})
 
     def closed(self, reason):
         self.driver.quit()
