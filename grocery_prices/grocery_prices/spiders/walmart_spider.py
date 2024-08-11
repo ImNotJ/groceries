@@ -18,7 +18,7 @@ class WalmartSpider(scrapy.Spider):
     def start_requests(self):
         # First request to the specific link
         initial_url = 'https://www.walmart.com/browse/food/great-value-food/976759_7128585_9834661'
-        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 25, 'initial': True})
+        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 1, 'initial': True})
 
     def parse(self, response):
         self.driver.get(response.url)
