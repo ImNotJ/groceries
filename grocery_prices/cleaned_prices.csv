@@ -1,1017 +1,955 @@
 date,item_name,price,price_per_unit,store,ppu_unit
-2024-08-09,"Almond Breeze Unsweetened Vanilla Almond Milk, 96 fl oz",4.56,0.048,Walmart,fl oz
-2024-08-09,"FunPops Freezer Ice Pops, 2 oz, 36 Count Bag, Variety Pack",2.98,0.041,Walmart,oz
-2024-08-09,"Jimmy Dean Meat Lovers Breakfast Bowl, 7 oz (Frozen)",2.97,0.381,Walmart,oz
-2024-08-09,"OH SNAP! Dilly Bites, 3.25FL oz",1.47,0.445,Walmart,fl oz
-2024-08-09,"Fresh Strawberries, 1 lb Container",2.48,0.155,Walmart,oz
-2024-08-09,"Fresh Whole Russet Potatoes , 5lb bag",3.58,0.716,Walmart,lb
-2024-08-09,"Fresh Banana Fruit, Each",0.24,0.5,Walmart,lb
-2024-08-09,ReadyWise 100 Serving Emergency Food Supply Bucket,69.99,0.724,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Chicken Flavor Soup, 3 Oz, 12 Count Shelf Stable Package",3.68,0.102,Walmart,oz
-2024-08-09,Great Value Fully Cooked Chicken Nuggets 32oz Frozen,5.97,0.187,Walmart,oz
-2024-08-09,"Jimmy Dean Sausage Egg & Cheese Croissant Sandwich, 36 oz, 8 Count (Frozen)",10.97,0.305,Walmart,oz
-2024-08-09,"Hershey's Milk Chocolate Candy, Bars 1.55 oz, 6 Count",6.48,0.578,Walmart,oz
-2024-08-09,Great Value Patties Shredded Seasoned Poatato Hash Brown,3.42,0.132,Walmart,oz
-2024-08-09,"Dios Mio Coffee By Sofia Vergara, Premium Colombian Pods for Keurig K-Cup Brewers, Medium Roast , 22 count",17.99,N/A,Walmart,N/A
-2024-08-09,"Great Value Sweet Cream Salted Butter, 16 oz",3.98,0.249,Walmart,oz
-2024-08-09,"Bar S Classic Franks, 12 oz, 8 Count",1.18,1.57,Walmart,lb
-2024-08-09,Great Value Spaghetti 16oz,0.98,0.061,Walmart,oz
-2024-08-09,"Great Value Garlic Texas Toast, 11.25 oz, 8 Count",2.24,0.199,Walmart,oz
-2024-08-09,"Great Value Large White Eggs, 18 Count",3.22,0.179,Walmart,count
-2024-08-09,"Fresh Hass Avocados, Each",0.94,N/A,Walmart,N/A
-2024-08-09,"King's Hawaiian Original Hawaiian Sweet Dinner Rolls, 12 Count, 12 Oz",4.68,0.39,Walmart,oz
-2024-08-09,"Chobani Non-Fat Greek Yogurt, Hero Batch Vanilla with Mixed Berry 4PK Cup",3.98,0.188,Walmart,oz
-2024-08-09,"All Natural* 73% Lean/27% Fat Ground Beef, 1 lb Roll",4.94,4.94,Walmart,lb
-2024-08-09,"Great Value White Sandwich Bread, 20 oz",1.42,0.071,Walmart,oz
-2024-08-09,"Fresh Roma Tomato, Each",0.21,0.98,Walmart,lb
-2024-08-09,"Great Value Pure Granulated Sugar, 4 lb",3.14,0.049,Walmart,oz
-2024-08-09,"Dios Mio Coffee by Sofia Vergara, Premium Ground Colombian Coffee, Medium Roast, 42oz, Bag",34.7,N/A,Walmart,N/A
-2024-08-09,"Great Value Finely Shredded Fiesta Blend Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,"Great Value Whole Vitamin D Milk, Gallon, Plastic, Jug, 128 Fl Oz",2.85,0.022,Walmart,fl oz
-2024-08-09,Great Value Taters Seasoned and Shredded Potatoes,3.42,0.093,Walmart,oz
-2024-08-09,"Tina's Red Hot Beef Burrito, 4oz, Packaged Burrito, 1 Count (Frozen), Plastic Film",0.58,0.145,Walmart,oz
-2024-08-09,"Smucker's Uncrustables Peanut Butter & Grape Jelly Sandwiches, 2 oz, 10 count (Frozen)",9.48,0.474,Walmart,oz
-2024-08-09,"Mission Super Soft Soft Taco Flour Tortillas, 17.5 oz, 10 Count",2.78,0.159,Walmart,oz
-2024-08-09,"Great Value Frozen Broccoli Florets, 12 oz Steamable Bag",1.16,0.097,Walmart,oz
-2024-08-09,"LOVE CORN Variety Pack | Sea Salt, BBQ, Cheezy | 0.7oz, 18 Bags",18.99,N/A,Walmart,N/A
-2024-08-09,"Great Value Milk Whole Vitamin D, Half Gallon, Plastic, Jug, 64oz",1.72,0.027,Walmart,fl oz
-2024-08-09,"Great Value Vegetable Oil, 48 fl oz",3.97,0.083,Walmart,fl oz
-2024-08-09,"Great Value Butter Flavor Flaky Jumbo Biscuits, 8 Count",1.87,0.117,Walmart,oz
-2024-08-09,Ultimate Electrolytes Powder Hydration Drink - Quick Replenishing Hydration Powder Electrolyte Drink Mix with 8 Key Electrolytes and Antioxidants - Vegan Gluten Free Keto Friendly Blend (Berry Splash),11.99,N/A,Walmart,N/A
-2024-08-09,"Boneless, Skinless Chicken Breasts, 4.7-6.1 lb Tray",12.18,2.67,Walmart,lb
-2024-08-09,"Uarter Cake Decorating Supplies Kit,  290pcs  Cake Decorating Supplies for Beginners and Cake Lovers, Cake Decorating Kit with Stainless Steel Piping Tips, Scraper, Spatula, Puff Nozzles",23.29,N/A,Walmart,N/A
-2024-08-09,"Marketside Fresh Organic Bananas, Bunch",2.08,0.74,Walmart,lb
-2024-08-09,"VitaCup Genius Keto Coffee Pods w/ MCT Oil Compatible w/ K-Cup Brewers, 10 ct",14.99,1.2,Walmart,ea
-2024-08-09,"Victor Allen's Coffee Caramel Macchiato Flavored, Medium Roast, 42 Count, Single Serve Coffee Pods for Keurig K-Cup Brewers",26.09,0.621,Walmart,ea
-2024-08-09,"Great Value Finely Shredded Mild Cheddar Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,Amos Peelerz Gummies Peelable Mango Candy Resealable 2.19oz Bag (Pack of 3),14.99,N/A,Walmart,N/A
-2024-08-09,"Lakanto Mixed Candied Nuts Simple Glazed - No Sugar Added, Sweetened with Monk Fruit, 3 Net Carbs, Keto Diet Friendly, Vegan, On the Go Snack Anytime - Simple Glazed",12.99,N/A,Walmart,N/A
-2024-08-09,"Great Value 1% Low-fat Chocolate Milk Gallon, Plastic, Jug, 128 Fl Oz",2.85,0.022,Walmart,fl oz
-2024-08-09,"Great Value White Round Top Bread Loaf, 20 oz",1.42,0.071,Walmart,oz
-2024-08-09,"Dunkin' Hazelnut Ground Coffee, 12 Ounce Bag (Pack of 6)",44.97,N/A,Walmart,N/A
-2024-08-09,"HFU Liver Detox Tea, Liver Cleanse Tea for Liver Support, 42 Tea Bags Herbal Tea, Includes Milk Thistle, Turmeric & Fennel",13.25,N/A,Walmart,N/A
-2024-08-09,"Great Value Frozen Mixed Vegetables, 12 oz Steamable Bag",0.98,0.082,Walmart,oz
-2024-08-09,236 Pcs Cake Decorating Kit: Piping Bags & Tips Set with 42 Icing Tips/4 Russian Tips/Frosting Bags/Chocolate Bomb Mold - Cake Decorating Supplies Baking Tools with Storage Box,30.98,N/A,Walmart,N/A
-2024-08-09,"VitaCup Slim Coffee Pods Compatible w/ Keurig K-Cup Brewers, 10 Ct",14.99,2.92,Walmart,oz
-2024-08-09,"Great Value, Large White Eggs, 12 Count",2.18,0.182,Walmart,count
-2024-08-09,"Rice Krispies Treats Original Chewy Crispy Marshmallow Squares, Ready-to-Eat, 16 Count",4.82,0.389,Walmart,oz
-2024-08-09,New Zealand Honey Co. Raw Manuka Honey UMF 28+ | MGO 1450+ 4.4 oz,163.88,N/A,Walmart,N/A
-2024-08-09,"Marketside Fresh Spinach, 10 oz Bag, Fresh",1.98,0.198,Walmart,ounces
-2024-08-09,"Victor Allen's Coffee 100% Colombian Whole Bean Coffee, Medium Roast, 2.5lb Bag",28.19,N/A,Walmart,N/A
-2024-08-09,"Fresh Yellow Peach, Each",1.49,N/A,Walmart,N/A
-2024-08-09,"Fresh Seedless Watermelon, Each",4.98,N/A,Walmart,N/A
-2024-08-09,"Fresh Clementines, 3 lb. Bag",4.98,1.32,Walmart,lb
-2024-08-09,Fresh Sweet Corn on the Cob (1 each),0.5,N/A,Walmart,N/A
-2024-08-09,"Fresh Red Seedless Grapes, Bag (2.25 lbs/Bag Est.)",5.81,N/A,Walmart,N/A
-2024-08-09,"Fresh Pineapple, Each",2.18,N/A,Walmart,N/A
-2024-08-09,"The Ginger People Lemon & Cayenne Ginger Rescue Shots  Immunity Boosting, Caffeine Free Energy, Digestive Heath Drink, 2 Fl Oz (Pack of 12)",28.89,N/A,Walmart,N/A
-2024-08-09,"Victor Allen's Coffee French Vanilla Flavored, Medium Roast, Whole Bean, 2.5lb Bag",21.14,N/A,Walmart,N/A
-2024-08-09,"Fresh Honeycrisp Apples, 3 lb Bag",5.74,1.91,Walmart,lb
-2024-08-09,"Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, Family Size, 18.8 oz",4.93,0.236,Walmart,oz
-2024-08-09,"Jiffy Corn Muffin Mix, 8.5 oz",0.62,0.073,Walmart,oz
-2024-08-09,"Fresh Cut and Harvested Produce Asparagus, Bunch",3.23,N/A,Walmart,N/A
-2024-08-09,"Minute Maid Fruit Punch Real Fruit Juice Drink, 59 fl oz Carton",2.08,0.035,Walmart,fl oz
-2024-08-09,"Chef Boyardee Mini Beef Ravioli Canned Pasta, 15 oz",1.18,0.067,Walmart,oz
-2024-08-09,Lay's Classic Potato Chips 8 Ounce,3.0,0.25,Walmart,oz
-2024-08-09,"Great Value 100% Apple Juice, 96 fl oz",2.84,0.03,Walmart,fl oz
-2024-08-09,Idahoan Buttery Homestyle Mashed Potatoes,1.44,0.36,Walmart,oz
-2024-08-09,"Dunkin' French Vanilla Ground Coffee, 12 Ounce Bag (Pack of 6)",44.97,N/A,Walmart,N/A
-2024-08-09,"Fresh Lemon, Each",0.68,N/A,Walmart,N/A
-2024-08-09,Little Debbie Family Pack Oatmeal Creme Pies,2.68,0.165,Walmart,oz
-2024-08-09,"Fresh Lime, Each",0.25,N/A,Walmart,N/A
-2024-08-09,"Chef Boyardee Beefaroni, Microwave Pasta, Canned Food, 15 oz",1.18,0.067,Walmart,oz
-2024-08-09,1lb Baby Peeled Carrots,1.32,0.083,Walmart,oz
-2024-08-09,"Heinz Tomato Ketchup, 32 oz Bottle",4.76,0.124,Walmart,oz
-2024-08-09,"Coca-Cola Soda Pop, 2 Liters Bottle",2.68,0.04,Walmart,fl oz
-2024-08-09,"Tea Zone Taro Powder Mix for Boba Bubble Tea, Slush, Smoothies 2.2 lbs",21.0,N/A,Walmart,N/A
-2024-08-09,"Kool-Aid Unsweetened Blue Raspberry Lemonade Artificially Flavored Powdered Drink Mix, 0.22 oz. Packet",0.36,1.64,Walmart,oz
-2024-08-09,"Fresh Green Onions Bunch, Each",0.98,N/A,Walmart,N/A
-2024-08-09,"Honey Nut Cheerios Heart Healthy Gluten Free Breakfast Cereal, Family Size, 18.8oz",4.93,0.236,Walmart,oz
-2024-08-09,"Thomas' Plain Bagels, 6 count, Soft Pre-sliced Bagels, 20 oz Bag",3.97,0.199,Walmart,oz
-2024-08-09,"Doritos Nacho Cheese Tortilla Snack Chips,Party Size, 14.5 oz Bag",5.94,N/A,Walmart,N/A
-2024-08-09,"Pringles Snack Stacks Potato Crisps Chips, BBQ Flavored, 5.5 Oz",2.24,0.364,Walmart,oz
-2024-08-09,"Fresh Cucumber, Each",0.64,N/A,Walmart,N/A
-2024-08-09,"Fresh Broccoli Crowns, Each",1.26,1.68,Walmart,lb
-2024-08-09,"Great Value Garlic Powder, 3.4 oz",1.12,0.329,Walmart,oz
-2024-08-09,"Fresh Green Bell Pepper, Each",0.86,N/A,Walmart,N/A
-2024-08-09,"Clear American Black Cherry Sparkling Water, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Great Value Sweet Cream Unsalted Butter Sticks, 4 Count,16 oz",3.98,0.249,Walmart,oz
-2024-08-09,"Freshness Guaranteed Sliced White Mushrooms, 8 oz",1.97,0.246,Walmart,oz
-2024-08-09,"Fresh Zucchini Squash, Each",0.87,1.38,Walmart,lb
-2024-08-09,"Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count",5.36,0.008,Walmart,fl oz
-2024-08-09,"Lunchables Ham & American Cheese Cracker Stackers Kids Lunch Snack, 3.2 oz Tray",1.87,0.525,Walmart,oz
-2024-08-09,"Great Value Tomato Basil Garlic Pasta Sauce, 24 oz",1.67,0.07,Walmart,oz
-2024-08-09,"Great Value Crinkle Cut French Fried Potatoes, 32 oz Bag (Frozen)",2.97,0.093,Walmart,oz
-2024-08-09,"Great Value Hamburger Buns, 8 Count, 11 oz",1.46,0.133,Walmart,oz
-2024-08-09,"Fresh Cilantro, Bunch",0.57,0.143,Walmart,oz
-2024-08-09,"Great Value Meat-Based Chicken Broth, 32 oz Carton, Ready-to-Serve, Shelf-Stable/Ambient, Gluten-Free",1.37,0.043,Walmart,oz
-2024-08-09,"All Natural* 93% Lean/7% Fat Lean Ground Beef, 1 lb Tray",7.77,7.77,Walmart,lb
-2024-08-09,"Freshness Guaranteed Traditional Rotisserie, Whole, 36 oz, 19g of Protein per 3oz serving (Hot)",6.97,2.65,Walmart,lb
-2024-08-09,"Great Value Purified Drinking Water, 16.9 fl oz, 24 Count",3.64,0.009,Walmart,fl oz
-2024-08-09,"Kraft Singles American Cheese Slices, 24 Ct Pk",4.98,0.311,Walmart,oz
-2024-08-09,"Great Value 4% Milkfat Minimum Small Curd Cottage Cheese, 24 oz",2.94,0.123,Walmart,oz
-2024-08-09,"Great Value Grated Parmesan Cheese, 8 oz Bottle",2.98,0.373,Walmart,oz
-2024-08-09,"Great Value Hot Dog Buns, White, 11 oz, 8 Count",1.46,0.133,Walmart,oz
-2024-08-09,Great Value Milk 2% Reduced Fat Gallon Plastic Jug,2.85,0.022,Walmart,fl oz
-2024-08-09,"Hillshire Farm Beef Smoked Sausage, 12 oz",3.98,5.31,Walmart,lb
-2024-08-09,"Great Value Original Sour Cream, 16 oz Tub",1.97,0.123,Walmart,oz
-2024-08-09,"Fresh Iceberg Lettuce, Each",1.88,N/A,Walmart,N/A
-2024-08-09,"Great Value Half & Half, 32 fl oz",2.97,0.093,Walmart,fl oz
-2024-08-09,"Great Value Saltine Crackers, 16 oz, 4 Count",1.74,0.109,Walmart,oz
-2024-08-09,"Great Value Cream Cheese 8 oz, 2 Count",3.44,0.215,Walmart,oz
-2024-08-09,"Great Value Chunk Light Tuna in Water, 5 oz, 4 Pack",3.22,0.161,Walmart,oz
-2024-08-09,"Banquet Chicken Pot Pie, Frozen Pot Pie Dinner, 7 oz (frozen)",1.0,0.143,Walmart,oz
-2024-08-09,"Great Value Golden Sweet Whole Kernel Corn, Canned Corn, 15 oz Can",0.64,0.043,Walmart,oz
-2024-08-09,"Great Value Black Beans, 15 oz Can",0.86,0.057,Walmart,oz
-2024-08-09,"Kool-Aid Unsweetened Tropical Punch Artificially Flavored Powdered Drink Mix, 0.16 oz. Packet",0.36,2.25,Walmart,oz
-2024-08-09,"Great Value Cut Green Beans, Canned Green Beans, 14.5 oz Can",0.64,0.044,Walmart,oz
-2024-08-09,"Marketside Tri-Color Cole Slaw, 16 oz Bag, Fresh",2.24,0.123,Walmart,oz
-2024-08-09,"Great Value Everyday Paper Plate, 9"", 100ct, Patterned",5.54,5.54,Walmart,100
-2024-08-09,"Great Value Original Taco Seasoning Mix, 1 oz",0.47,0.47,Walmart,oz
-2024-08-09,"Freshness Guaranteed French Bakery Bread Loaf, 14 oz, 1 Count",1.47,0.071,Walmart,oz
-2024-08-09,"Great Value Honey Wheat Bread, 20 oz",1.87,0.094,Walmart,oz
-2024-08-09,"Great Value Original Pepperoni Slices, 6 oz",2.78,7.32,Walmart,lb
-2024-08-09,GREAT VALUE SWEET PEAS 15OZ,0.64,0.043,Walmart,oz
-2024-08-09,"Fresh Green Cabbage, Each",3.48,N/A,Walmart,N/A
-2024-08-09,"Great Value Honey Graham Crackers, 14.4 oz",2.22,0.154,Walmart,oz
-2024-08-09,"Jack's Frozen Pizza, Pepperoni Original Thin Crust Pizza with Marinara Sauce, 14.4 oz (Frozen)",3.86,0.268,Walmart,oz
-2024-08-09,"Great Value Tomato Sauce, 8 oz Can",0.48,0.06,Walmart,oz
-2024-08-09,"Simply Non GMO Orange Juice No Pulp, 52 fl oz Bottle",3.98,0.077,Walmart,fl oz
-2024-08-09,"Great Value Heavy Whipping Cream, 16 oz",3.37,0.211,Walmart,fl oz
-2024-08-09,"Great Value Brown Gravy Mix, 0.87 oz",0.48,0.552,Walmart,oz
-2024-08-09,"Great Value Cream of Mushroom Condensed Soup, 10.5 oz Can",0.68,0.065,Walmart,oz
-2024-08-09,"Jimmy Dean Premium Pork Regular Sausage Roll, 16 oz",4.62,0.289,Walmart,oz
-2024-08-09,"Great Value Sliced Carrots, Canned Carrots, 14.5 oz Can",0.96,0.066,Walmart,oz
-2024-08-09,"Great Value Distilled White Vinegar, 128 fl oz",3.74,0.029,Walmart,fl oz
-2024-08-09,"Great Value Light Brown Sugar, 32 oz",2.22,0.069,Walmart,oz
-2024-08-09,"Great Value Cream Of Chicken Condensed Soup, 10.5 oz",0.68,0.065,Walmart,oz
-2024-08-09,"Great Value Restaurant Style White Corn Tortilla Chips, 13 oz",1.98,0.152,Walmart,oz
-2024-08-09,"Country Crock Original Vegetable Oil Spread, 45 oz Tub (Refrigerated)",5.93,0.132,Walmart,ea
-2024-08-09,"Great Value 1% Low-Fat Milk, 1 Gallon Jug",2.85,0.022,Walmart,fl oz
-2024-08-09,"Maruchan Ramen Noodle Soup Chicken Flavor, 3 oz Shelf Stable Package",0.36,0.1,Walmart,oz
-2024-08-09,"Armour LunchMakers Ham and Cheese Portable Meal Kit with Crunch Bar, 2.4 oz",1.18,0.492,Walmart,oz
-2024-08-09,"Great Value Evaporated Milk, Gluten-Free, Liquid, 12 fl oz Can",1.22,0.102,Walmart,fl oz
-2024-08-09,"Sam's Choice Purified Drinking Water, 20 fl oz, 28 Count Bottles",4.97,0.009,Walmart,fl oz
-2024-08-09,"fairlife Lactose Free 2% Reduced Fat Ultra Filtered Milk, 52 fl oz",4.48,0.086,Walmart,fl oz
-2024-08-09,"Great Value All Natural Boneless Skinless Chicken Breasts, 3 lb (Frozen)",9.74,2.92,Walmart,lb
-2024-08-09,"Great Value Fresh Seal Double Zipper Sandwich Bags, 100 Count",2.28,0.023,Walmart,count
-2024-08-09,"Great Value Distilled Water, 1 Gallon",1.37,0.011,Walmart,fl oz
-2024-08-09,"Great Value Fat-Free Milk Gallon, Plastic, Jug, 128 Fl Oz",2.85,0.022,Walmart,fl oz
-2024-08-09,"Great Value Purified Drinking Water, 1 Gallon",1.37,0.011,Walmart,fl oz
-2024-08-09,"Great Value Thin & Crispy Cantina Style Tortilla Chips, 13 oz",2.24,0.152,Walmart,oz
-2024-08-09,"Milo's Famous Sweet Iced Tea, 100% Natural, 128 fl oz",3.48,0.027,Walmart,fl oz
-2024-08-09,"Pure Life Purified Water, 16.9 Fl Oz / 500 mL, Plastic Bottled Water (35 Pack)",5.88,0.01,Walmart,fl oz
-2024-08-09,"Coca-Cola Classic Soda Pop, 12 fl oz Cans, 24 Pack",12.98,0.045,Walmart,fl oz
-2024-08-09,"Pepsi Soda Pop, 12 fl oz, 24 Pack Cans",11.98,0.042,Walmart,fl oz
-2024-08-09,"Lunchables Ham & Cheddar Cheese Cracker Stackers Kid Lunch Snack, 3.5 oz Tray",1.87,0.48,Walmart,oz
-2024-08-09,"Cantaloupe, each",2.68,N/A,Walmart,N/A
-2024-08-09,"Fresh Red Cherries, 2.25 lb Bag",11.21,4.98,Walmart,lb
-2024-08-09,"Fresh Mini Cucumbers, 16 oz",1.97,0.123,Walmart,oz
-2024-08-09,7lb bagged ice,1.88,0.024,Walmart,oz
-2024-08-09,"Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag",1.66,0.104,Walmart,oz
-2024-08-09,"Fresh Strawberries, 2 lb Container",4.86,0.152,Walmart,oz
-2024-08-09,"Lunchables Pizza with Pepperoni Kids Lunch Snack, 4.3 oz Tray",1.87,0.391,Walmart,oz
-2024-08-09,"Fresh Blueberries, 18 oz Container",4.74,0.263,Walmart,oz
-2024-08-09,Fresh Green Seedless Grapes (2.25 lbs/Bag Est.),6.26,N/A,Walmart,N/A
-2024-08-09,"Kraft Original Mac N Cheese Macaroni and Cheese Dinner, 7.25 oz Box",1.24,0.171,Walmart,oz
-2024-08-09,"Fresh Mangoes, Each, Sweet",1.14,N/A,Walmart,N/A
-2024-08-09,"Kraft Original Mac N Cheese Macaroni and Cheese Dinner, 5 ct Pack, 7.25 oz Boxes",4.88,0.135,Walmart,oz
-2024-08-09,"Nature's Own Honey Wheat Sandwich Bread Loaf, 20 oz",3.64,0.164,Walmart,oz
-2024-08-09,"Lay's Potato Chips, Barbecue Flavor, 7.75 oz Bag",3.0,0.258,Walmart,oz
-2024-08-09,"Fresh Blueberries, 11 oz or 1 Pint Container",3.17,0.288,Walmart,oz
-2024-08-09,"ROTEL Original Diced Tomatoes and Green Chilies, 10 oz",1.36,0.136,Walmart,oz
-2024-08-09,"Fresh Navel Orange, Each",0.98,N/A,Walmart,N/A
-2024-08-09,"Old El Paso Taco Seasoning Mix, Original Flavor, 1 oz.",0.97,0.97,Walmart,oz
-2024-08-09,"Fresh Whole Red Onion, Each",1.5,1.88,Walmart,lb
-2024-08-09,"Campbell's Condensed Cream of Chicken Soup, 10.5 oz Can",1.26,0.12,Walmart,oz
-2024-08-09,"Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound",0.43,1.72,Walmart,lb
-2024-08-09,"Freshness Guaranteed Chicken Breast Tenderloins, 2.25 - 3.2 lb Tray",9.93,3.94,Walmart,lb
-2024-08-09,"Chef Boyardee Spaghetti and Meatballs, Microwave Pasta, Canned Food, 14.5 oz",1.18,0.069,Walmart,oz
-2024-08-09,"Pringles Sour Cream and Onion Potato Crisps Chips, Lunch Snacks, 5.5 oz",2.24,0.336,Walmart,oz
-2024-08-09,Wonder Classic White Bread 20 oz. Loaf,2.92,0.146,Walmart,oz
-2024-08-09,"SpaghettiOs Canned Pasta with Meatballs, 15.6 oz Can",1.23,0.079,Walmart,oz
-2024-08-09,"Fresh Small Hass Avocado Bag, 5-6 Count",3.86,0.692,Walmart,ea
-2024-08-09,"Lunchables Nachos Cheese Dip & Salsa Kids Lunch Snack, 4.4 oz Tray",1.87,0.382,Walmart,oz
-2024-08-09,"Broccoli Florets, 12 oz",2.47,0.206,Walmart,oz
-2024-08-09,"Great Value Penne Pasta, 16 oz Box, (Shelf Stable)",0.98,0.061,Walmart,oz
-2024-08-09,"Fresh Slicing Tomato, Each",1.21,1.98,Walmart,lb
-2024-08-09,"Fresh Tomato on the Vine, Bag (1.9 lbs/Bag Est.)",3.76,1.98,Walmart,lb
-2024-08-09,"Mission Super Soft Carb Balance Soft Taco Flour Tortillas, 12 oz, 8 Count",4.88,0.407,Walmart,oz
-2024-08-09,"Fresh Grape Tomato, 10 oz Package",2.23,0.223,Walmart,oz
-2024-08-09,"Fresh Lemons, 2 lb Bag",3.92,1.96,Walmart,lb
-2024-08-09,"Great Value Cream Cheese Brick, 8 oz (Refrigerated)",1.86,0.233,Walmart,oz
-2024-08-09,"Fresh Cherubs Grape Tomatoes, 10 oz Package",2.98,0.248,Walmart,oz
-2024-08-09,"Great Value, Elbows, 16 oz Box, (Shelf Stable)",0.98,0.061,Walmart,oz
-2024-08-09,"Great Value Pre-Sliced Plain Bagels, 20 oz, 6 Count",1.98,0.099,Walmart,oz
-2024-08-09,"Great Value Onion Powder, 3.25 oz",1.12,0.345,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Beef Flavor Soup, 3 oz Shelf Stable Package, 12 Count",3.68,0.102,Walmart,oz
-2024-08-09,"Cheez-It Original Cheese Crackers, Baked Snack Crackers, 21 oz",5.78,0.275,Walmart,oz
-2024-08-09,"Fresh Color Bell Peppers, 3 Count",2.98,0.893,Walmart,count
-2024-08-09,"Fresh Whole Carrots, 1 lb Bag",0.98,0.061,Walmart,oz
-2024-08-09,"Crystal Geyser Alpine Spring Water, 1 Gallon Plastic Jug",1.43,0.011,Walmart,fl oz
-2024-08-09,"Kool-Aid Unsweetened Lemonade Naturally Flavored Powdered Soft Drink Mix, 0.23 oz Packet",0.36,1.57,Walmart,oz
-2024-08-09,Great Value Frozen 20 oz Pepper & Onion Blend 20 oz,2.58,0.129,Walmart,oz
-2024-08-09,"Tyson Fully Cooked Fun Chicken Nuggets, 1.81 lb Bag (Frozen)",6.46,0.223,Walmart,oz
-2024-08-09,"Daisy Pure and Natural Squeeze Sour Cream, 14 oz Pouch (Refrigerated)",2.68,0.191,Walmart,oz
-2024-08-09,"Fresh Whole Yellow Onion, Each",1.15,1.44,Walmart,lb
-2024-08-09,"Fresh Celery Stalk, Each",2.18,N/A,Walmart,N/A
-2024-08-09,"Great Value Large White Eggs, 36 Count",6.42,0.178,Walmart,count
-2024-08-09,"Great Value Seasoned French Fried Potatoes, 32 oz Bag (Frozen)",2.97,0.093,Walmart,oz
-2024-08-09,"Fresh Yellow Baby Potatoes, 1.5 lb Bag",3.24,0.135,Walmart,oz
-2024-08-09,"Daisy Pure and Natural Sour Cream, 16 oz (1 lb) Tub (Refrigerated)",2.48,0.155,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Colby & Monterey Jack Cheese, 8 oz, 12 Slices (Plastic Packaging)",2.24,0.28,Walmart,oz
-2024-08-09,"Lunchables Turkey & Cheddar Cheese with Crackers Kids Lunch Snack, 3.2 oz Tray",1.87,0.525,Walmart,oz
-2024-08-09,"Imperial Vegetable Oil Spread, 16 oz Box, 4 Sticks (Refrigerated)",1.38,0.078,Walmart,oz
-2024-08-09,"Great Value Rotini, 16 oz Box, (Shelf Stable)",0.98,0.061,Walmart,oz
-2024-08-09,"Fresh Honeycrisp Apple, Each",1.3,N/A,Walmart,N/A
-2024-08-09,"All Natural* 80% Lean/20% Fat Ground Beef Chuck, 1 lb Tray",5.93,5.93,Walmart,lb
-2024-08-09,"Great Value Traditional Pasta Sauce, 24 oz",1.67,0.07,Walmart,oz
-2024-08-09,"Great Value Finely Shredded Colby Jack Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,"Fresh Whole Sweet Onion, Each",1.19,1.38,Walmart,lb
-2024-08-09,"Fresh Gala Apples, 3 lb Bag",3.98,1.33,Walmart,lb
-2024-08-09,"Great Value Original Macaroni & Cheese, 7.25 oz",0.68,0.08,Walmart,oz
-2024-08-09,"Fresh Romaine Lettuce Hearts 3 Count, Each",3.18,1.06,Walmart,ea
-2024-08-09,"Freshness Guaranteed Thin-Sliced Boneless Skinless Chicken Breasts, 1.7 - 3.0 lb Tray",8.64,3.98,Walmart,lb
-2024-08-09,"Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese, 8 oz Bag",2.24,0.28,Walmart,oz
-2024-08-09,"Great Value Large White Eggs, 60 Count",10.57,0.176,Walmart,count
-2024-08-09,"Marketside Caesar Salad Kit, 11.55 oz Bag, Fresh",3.98,0.303,Walmart,oz
-2024-08-09,"Marketside Fresh Shredded Iceberg Lettuce, 8 oz Bag, Fresh",1.98,0.248,Walmart,oz
-2024-08-09,Great Value Milk 2% Reduced Fat Half Gallon Plastic Jug,1.72,0.027,Walmart,fl oz
-2024-08-09,"Sweet Potatoes Whole Fresh, Each (Batata Mameya)",1.02,1.0,Walmart,lb
-2024-08-09,"Great Value French-Style Green Beans, Gluten-Free, 14.5 oz Can",0.64,0.044,Walmart,oz
-2024-08-09,"Great Value No Added Sweeteners 100% Apple Juice, 64 fl oz",1.98,0.031,Walmart,fl oz
-2024-08-09,"Great Value Frozen Peas & Carrots, Gluten-Free, 12 oz Steamable Bag",0.98,0.082,Walmart,oz
-2024-08-09,"Great Value Hickory Smoked Thick Cut Bacon, 16 oz",4.88,4.88,Walmart,lb
-2024-08-09,"Great Value Finely Shredded Parmesan Cheese, 6 oz",2.24,0.373,Walmart,oz
-2024-08-09,"Fresh Yellow Onions, 3 lb Bag",4.24,1.41,Walmart,lb
-2024-08-09,"Great Value Petite Diced Tomatoes in Tomato Juice, 14.5 oz",0.96,0.066,Walmart,oz
-2024-08-09,"Marketside Classic Iceberg Salad, 12 oz Bag, Fresh",1.98,0.165,Walmart,oz
-2024-08-09,"Great Value Tomato Paste, 6 oz",0.86,0.143,Walmart,oz
-2024-08-09,"Great Value Everyday Strong Paper Towels, Split Sheets, 2 Double Rolls",2.38,1.08,Walmart,100
-2024-08-09,"Great Value California Style Vegetable Mix, 12 oz Bag (Frozen)",1.16,0.097,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Beef Flavor Soup, 3 oz Shelf Stable Package",0.36,0.1,Walmart,oz
-2024-08-09,"Great Value Hickory Smoked Bacon, 16 oz",4.88,4.88,Walmart,lb
-2024-08-09,"Blue Bonnet Original Vegetable Oil Spread Sticks, 16 oz (4 Sticks)",1.43,0.089,Walmart,oz
-2024-08-09,"Great Value Premium Original Shells & Cheese, 12 oz Shelf Stable",1.48,0.123,Walmart,oz
-2024-08-09,Great Value Bowties 12 oz Box,0.98,0.082,Walmart,oz
-2024-08-09,"Great Value Heavy Whipping Cream, 32 oz",5.67,0.177,Walmart,fl oz
-2024-08-09,"Great Value Hickory Smoked Fully Cooked Thick Cut Bacon, 2.1 oz",3.44,26.46,Walmart,lb
-2024-08-09,"Great Value Pinto Beans, 15.5 oz Can",0.86,0.055,Walmart,oz
-2024-08-09,"Great Value Sweet Cream Salted Butter Twin Pack, 16 oz Cardboard Box, 2 Count",7.64,0.239,Walmart,oz
-2024-08-09,"Fresh Long English Cucumber, Each",0.98,N/A,Walmart,N/A
-2024-08-09,"Fresh Baby-Cut Carrots, 2lb Bag",2.52,0.079,Walmart,oz
-2024-08-09,"All Natural* 73% Lean/27% Fat Ground Beef, 3 lb Roll",13.64,4.55,Walmart,lb
-2024-08-09,"Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz, 12 Count",2.24,0.28,Walmart,oz
-2024-08-09,"Fresh Whole White Onions, Each",1.57,1.78,Walmart,lb
-2024-08-09,"Great Value Finely Shredded Sharp Cheddar Cheese, 16 oz",4.22,0.264,Walmart,oz
-2024-08-09,"All Natural* 80% Lean/20% Fat Ground Beef Chuck, 2.25 lb Tray",12.43,5.52,Walmart,lb
-2024-08-09,"Russet Potatoes, 10 lb Bag, Whole",5.67,0.567,Walmart,lb
-2024-08-09,"Great Value All Natural Sour Cream, 8 oz",1.24,0.155,Walmart,oz
-2024-08-09,"Russet Baking Potatoes Whole Fresh, Each",0.75,0.88,Walmart,lb
-2024-08-09,"Fresh Red Bell Pepper, 1 Each",1.48,N/A,Walmart,N/A
-2024-08-09,"Great Value Extra Large White Eggs, 18 Count",3.62,0.201,Walmart,count
-2024-08-09,"All Natural* 80% Lean/20% Fat Ground Beef Chuck, 1 lb Roll",5.33,5.33,Walmart,lb
-2024-08-09,"Great Value 100% Whole Wheat Round Top Bread, 20 oz",1.97,0.099,Walmart,oz
-2024-08-09,"Great Value Finely Shredded Fiesta Blend Cheese, 16 oz",4.22,0.264,Walmart,oz
-2024-08-09,"Great Value Frozen Whole Kernel Corn, 12 oz Steamable Bag",0.98,0.082,Walmart,oz
-2024-08-09,"Great Value Frozen Sweet Peas, 12 oz Steamable Bag",0.98,0.082,Walmart,oz
-2024-08-09,"Pringles, Potato Crisps Chips, Original, 5.2 Oz",2.24,0.385,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Pepper Jack Cheese, 8 oz, 12 Slices (Resealable Plastic Packaging)",2.24,0.28,Walmart,oz
-2024-08-09,"Clear American Fuji Apple Sparkling Water, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Great Value Yellow Mustard, 20 oz Squeeze Bottle",0.98,0.049,Walmart,oz
-2024-08-09,"Coca-Cola Diet Soda, 12Fl. Oz., 24 Count",12.98,0.045,Walmart,fl oz
-2024-08-09,"Taco Bell Original Taco Seasoning Mix, 1 oz Packet",0.82,0.82,Walmart,oz
-2024-08-09,"Clear American Peach Sparkling Water, 33.8 fl oz",0.78,0.012,Walmart,fl oz
-2024-08-09,"fairlife Lactose Free Reduced Fat Chocolate Ultra Filtered Milk, 52 fl oz",4.48,0.086,Walmart,fl oz
-2024-08-09,"Sam's Cola Soda, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Great Value Block Sharp Cheddar Cheese, 8 oz",1.97,0.246,Walmart,oz
-2024-08-09,"Oscar Mayer Classic Wieners Hot Dogs, 10 ct Pack",2.84,2.5,Walmart,lb
-2024-08-09,"Ball Park White Burger Buns, 8 count, Soft Hamburger Buns, 15 oz Bag",2.94,0.196,Walmart,oz
-2024-08-09,"Freshness Guaranteed Fresh Chicken Drumsticks, 5 lb Bag",5.97,1.19,Walmart,lb
-2024-08-09,"Great Value Chopped Spinach, 12 oz (Frozen)",1.16,0.097,Walmart,oz
-2024-08-09,"Marketside Caesar Chopped Salad Kit, 8.8 oz Bag, Fresh",3.98,0.395,Walmart,oz
-2024-08-09,"Marketside Caesar Salad Kit Family Size, 17.8 oz Bag, Fresh",4.98,0.252,Walmart,oz
-2024-08-09,Little Debbie Family Pack Honey Buns,2.68,0.253,Walmart,oz
-2024-08-09,"Ball Park White Hot Dog Buns, 8 count, Hot Dog Buns, 14 oz Bag",2.94,0.226,Walmart,oz
-2024-08-09,"Great Value Fresh Seal Double Zipper Storage Bags, Gallon, 80 Count",4.67,0.058,Walmart,count
-2024-08-09,"Marketside Caesar Salad with Chicken, 6.25 oz Bowl, Fresh",2.97,0.475,Walmart,oz
-2024-08-09,"Pepsi Cola Soda Pop, 2 Liter Bottle",2.28,0.029,Walmart,fl oz
-2024-08-09,"Dr Pepper Soda Pop, 12 fl oz, 12 Pack Cans",7.28,0.051,Walmart,fl oz
-2024-08-09,"DEER PARK Brand 100% Natural Spring Water, 16.9-ounce plastic bottles (Pack of 35)",6.98,0.012,Walmart,fl oz
-2024-08-09,"Lay's Potato Chips, Sour Cream & Onion Flavor, 7.75 oz Bag",3.0,0.258,Walmart,oz
-2024-08-09,"On The Border Cafe Style Tortilla Chips, Gluten-Free, 16.5 oz Bag",3.88,0.235,Walmart,oz
-2024-08-09,"Great Value Beef Broth, 32 oz Carton, Shelf-Stable/Ambient, Gluten-Free, Liquid",1.37,0.043,Walmart,oz
-2024-08-09,"Great Value All Natural Chicken Wing Sections, 4 lb (Frozen)",12.98,3.25,Walmart,lb
-2024-08-09,"Totino's Pizza Rolls, Pepperoni Flavored, Frozen Snacks, 50 Rolls, 24.8 oz",5.66,0.228,Walmart,oz
-2024-08-09,"Great Value Half and Half, 64 fl oz",5.64,0.088,Walmart,fl oz
-2024-08-09,"Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",3.54,0.111,Walmart,oz
-2024-08-09,"Great Value Real Bacon Pieces, 2.5 oz",1.98,0.792,Walmart,oz
-2024-08-09,"Fresh Raspberries, 12 oz Container",5.94,0.495,Walmart,oz
-2024-08-09,"Marketside Cage-Free Large Brown Eggs, 18 Count",4.94,0.274,Walmart,ea
-2024-08-09,"Philadelphia Original Cream Cheese, 2 ct Pack, 8 oz Brick",5.48,0.343,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Mild Cheddar Cheese, 8 oz, 12 Count",2.24,0.28,Walmart,oz
-2024-08-09,"Great Value Fettuccine, 16 oz",0.98,0.061,Walmart,oz
-2024-08-09,"Campbell's Condensed Cream of Mushroom Soup, 10.5 oz Can",1.26,0.12,Walmart,oz
-2024-08-09,"Dr Pepper Soda Pop, 2 L, Bottle",2.12,0.031,Walmart,fl oz
-2024-08-09,"Microwaveable Russet Potato Whole Fresh, Each",0.98,N/A,Walmart,N/A
-2024-08-09,"Great Value Tomato Ketchup, 32 oz",1.94,0.061,Walmart,oz
-2024-08-09,"Coca-Cola Classic Soda Pop, 16.9 fl oz Bottles, 6 Pack",5.18,0.051,Walmart,fl oz
-2024-08-09,"Marketside Fresh Green Beans, 12 oz",2.47,0.206,Walmart,oz
-2024-08-09,"Kool-Aid Unsweetened Cherry Artificially Flavored Powdered Soft Drink Mix, 0.13 oz Packet",0.36,2.77,Walmart,oz
-2024-08-09,"Tyson Fully Cooked Chicken Nuggets, 2 lb Bag (Frozen)",6.46,0.202,Walmart,oz
-2024-08-09,"Great Value Dark Red Kidney Beans, 15.5 oz",0.86,0.055,Walmart,oz
-2024-08-09,"Great Value Mayonnaise, 30 fl oz",3.38,0.113,Walmart,fl oz
-2024-08-09,"Coca-Cola Classic Soda Pop Fridge Pack, 12 fl oz Cans, 12 Pack",7.28,0.051,Walmart,fl oz
-2024-08-09,"Tyson All Natural, Fresh, Boneless, Skinless Chicken Breasts, 1.75 - 3.0 lb Tray",7.96,3.98,Walmart,lb
-2024-08-09,"Hunt's Garlic & Herb Pasta Sauce, 100% Natural Tomato Sauce, Spaghetti Sauce, 24 oz Can",1.34,0.056,Walmart,oz
-2024-08-09,"Lunchables Chicken Dunks Kids Lunch Snack, 4 oz Tray",1.87,0.42,Walmart,oz
-2024-08-09,"fairlife Lactose Free Fat Free Ultra Filtered Milk, 52 fl oz",4.48,0.086,Walmart,fl oz
-2024-08-09,"Great Value 1% Low-fat Chocolate Milk Half Gallon, Plastic, Jug, 64 Fl Oz",1.72,0.027,Walmart,fl oz
-2024-08-09,"Diet Coke Diet Cola Soda Pop, 2 Liters Bottle",1.98,0.012,Walmart,fl oz
-2024-08-09,"Frito-Lay Flavor Mix Variety Pack Snack Chips, 1oz Bags, 18 Count Multipack",9.98,0.554,Walmart,oz
-2024-08-09,"Little Debbie Cosmic Brownies, 13 oz",2.68,0.205,Walmart,oz
-2024-08-09,"Great Value All-Purpose Enriched Flour, 5LB Bag",2.38,0.03,Walmart,oz
-2024-08-09,"Sara Lee Artesano Original Bread, 20 oz, Soft White Pre-sliced White Bread, Bag",3.46,0.173,Walmart,oz
-2024-08-09,"Aquafina Purified Bottled Drinking Water, 16.9 oz, 32 Pack Bottles",6.98,0.013,Walmart,fl oz
-2024-08-09,"Freshness Guaranteed Sliced Italian Bread, 14 oz",1.47,0.071,Walmart,oz
-2024-08-09,"RITZ Fresh Stacks Original Crackers, Family Size, 17.8 oz",4.98,0.28,Walmart,oz
-2024-08-09,"Great Value Block Colby & Monterey Jack Cheese, 8 oz",1.97,0.246,Walmart,oz
-2024-08-09,Great Value Sweetened Condensed Milk 14 oz.,2.23,0.159,Walmart,oz
-2024-08-09,"Gatorade Cool Blue Thirst Quencher Sports Drink, 12 oz, 12 Pack Bottles",7.98,0.048,Walmart,fl oz
-2024-08-09,"Johnsonville Beddar With Cheddar Smoked Sausage, 6 Links, 14 oz",3.96,4.5,Walmart,lb
-2024-08-09,"Great Value Traditional Refried Beans, 16 oz",1.0,0.063,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Sharp Cheddar Cheese, 8 oz, 12 Slices",2.24,0.28,Walmart,oz
-2024-08-09,"Clear American Sparkling Water, Strawberry, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Fresh Personal Watermelon, Each",3.87,N/A,Walmart,N/A
-2024-08-09,"Great Value No Salt Added Cut Green Beans, 14.5 oz Can",0.64,0.044,Walmart,oz
-2024-08-09,"Great Value Pure Granulated Sugar, 10lb",8.17,0.051,Walmart,oz
-2024-08-09,"Armour Lunchmakers Pepperoni Pizza Kit with Crunch Bar, 2.7 oz",1.18,0.442,Walmart,oz
-2024-08-09,Great Value Ultra Strong Paper Towels 6 Double Rolls,8.97,1.36,Walmart,100
-2024-08-09,"Kellogg's Frosted Flakes Original Breakfast Cereal, Family Size, 21.7 oz Box",4.98,0.206,Walmart,oz
-2024-08-09,"Doritos Cool Ranch Tortilla Snack Chips,Party Size, 14.05 oz Bag",5.94,0.41,Walmart,oz
-2024-08-09,"Chef Boyardee Beef Ravioli Canned Pasta, 15 oz",1.18,0.067,Walmart,oz
-2024-08-09,"Smucker's Uncrustables Peanut Butter & Strawberry Jam Sandwiches, 2 oz, 10 count (Frozen)",9.48,0.474,Walmart,oz
-2024-08-09,"Great Value Wide Egg Noodles Enriched Product, 16 oz",1.48,0.093,Walmart,oz
-2024-08-09,"Hellmann's Real Mayonnaise Condiment Real Mayo Gluten Free, Made With 100% Cage-Free Eggs 30 oz",5.98,0.199,Walmart,oz
-2024-08-09,"ICE MOUNTAIN Brand 100% Natural Spring Water, 16.9-ounce bottles  (Pack of 35)",18.0,0.03,Walmart,fl oz
-2024-08-09,"fairlife Lactose Free Ultra Filtered Whole Milk, 52 fl oz",4.48,0.086,Walmart,fl oz
-2024-08-09,"Birds Eye Steamfresh Frozen Super Sweet Corn, 10 oz",1.23,0.123,Walmart,oz
-2024-08-09,"Marketside Premium Romaine Salad Blend, 9 oz Bag, Fresh",3.24,0.36,Walmart,oz
-2024-08-09,"Lay's Wavy Potato Chips, Original Flavor, 7.75 oz Bag",3.0,0.258,Walmart,oz
-2024-08-09,"Santitas Tortilla Chips White Corn, Gluten-Free, 11 oz",2.88,0.262,Walmart,oz
-2024-08-09,Great Value Milk 1% Lowfat Half Gallon Plastic Jug,1.72,0.027,Walmart,fl oz
-2024-08-09,"Clear American Sparkling Water, Key Lime 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Great Value Canned Pineapple Chunks in 100% Pineapple Juice, 20 oz",1.28,0.064,Walmart,oz
-2024-08-09,"Great Value Garbanzos Chick Peas, 15.5 oz",0.86,0.055,Walmart,oz
-2024-08-09,"Great Value Chunk Chicken Breast, 5 Ounce",1.18,3.81,Walmart,lb
-2024-08-09,"Great Value Finely Shredded Sharp Cheddar Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,"Marketside Fresh Baby Spinach, 6 oz Bag, Fresh",2.73,0.363,Walmart,oz
-2024-08-09,"Beef Choice Angus Sirloin Tender Steak, 0.6 - 1.62 lb Tray",11.9,12.94,Walmart,lb
-2024-08-09,"Great Value Frozen Whipped Topping, 8 oz Container (Frozen)",1.07,0.134,Walmart,oz
-2024-08-09,"Sprite Lemon Lime Soda Pop, 2 Liter Bottle",2.68,0.04,Walmart,fl oz
-2024-08-09,"Great Value Lactose Free 2% Reduced Fat Milk, Half Gallon, 64 fl oz",3.38,0.053,Walmart,fl oz
-2024-08-09,"Red Baron Pepperoni Brick Oven Frozen Pizza, 17.89 oz",4.82,0.269,Walmart,oz
-2024-08-09,"Bar-S Classic Jumbo Franks Hot Dogs, 8 Franks per Package, 1 lb Pack",1.54,1.54,Walmart,lb
-2024-08-09,"Great Value Vanilla Flavored Ice Cream Sandwiches, 42 fl oz, 12 Pack",2.88,0.069,Walmart,fl oz
-2024-08-09,"Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese, 16 oz Bag",4.22,0.264,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Swiss Cheese, 8oz, 12 Slices (Plastic Packaging)",2.24,0.28,Walmart,oz
-2024-08-09,"Great Value Classic Ranch Salad Dressing & Dip, 16 fl oz",1.97,0.123,Walmart,fl oz
-2024-08-09,"All Natural* 93% Lean/7% Fat Lean Ground Beef, 1 lb Roll",6.98,6.98,Walmart,lb
-2024-08-09,"Velveeta Shells and Cheese Original Macaroni and Cheese Dinner, 12 oz Box",2.98,0.248,Walmart,oz
-2024-08-09,"Doritos Nacho Cheese Flavored Tortilla Chips Snacks Chips, 9.25 oz",4.48,0.484,Walmart,oz
-2024-08-09,"Fresh Cauliflower, Each",2.86,N/A,Walmart,N/A
-2024-08-09,"SToK Unsweetened Cold Brew Coffee, 48 Fl. Oz.",5.88,0.123,Walmart,fl oz
-2024-08-09,"Dasani Purified Water, 500 mL, 32 Count",6.98,0.013,Walmart,fl oz
-2024-08-09,"Coca-Cola Zero Sugar Sugar-Free Soda Pop, 12 fl oz Cans, 24 Pack",12.98,0.045,Walmart,fl oz
-2024-08-09,"Great Value Freezer Guard Double Zipper Freezer Bags, Gallon, 80 Count",4.67,0.058,Walmart,count
-2024-08-09,"Tyson Perfectly Crispy Chicken Strips, 1.56 lb Bag (Frozen)",8.47,5.43,Walmart,lb
-2024-08-09,"Great Value Classic Ranch Salad Dressing & Recipe Mix, 1 oz",0.54,0.54,Walmart,oz
-2024-08-09,"Diet Coke Diet Cola Soda Pop, 16.9 fl oz Bottles, 6 Pack",5.18,0.051,Walmart,fl oz
-2024-08-09,"Great Value Vegetable Oil, 1 Gallon",9.12,0.071,Walmart,fl oz
-2024-08-09,"Capri Sun Fruit Punch Juice Box Pouches, 10 ct Box, 6 fl oz Pouches",2.98,0.045,Walmart,fl oz
-2024-08-09,"Hidden Valley Original Ranch Salad Dressing and Topping, 16 fl oz",3.98,0.249,Walmart,fl oz
-2024-08-09,"Knorr No Artificial Flavors Cheddar Broccoli Pasta Sides Ready Meals, 10 Minute Cook Time, 4.3 oz",1.28,0.298,Walmart,oz
-2024-08-09,"Great Value Finely Shredded Triple Cheddar Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,"Ritz Peanut Butter Cracker Sandwich, 1.38 Oz., 8 Count",3.78,0.342,Walmart,oz
-2024-08-09,"Great Value Reduced Sodium Chicken Broth, 32 oz Carton, Shelf-Stable/Ambient, Gluten-Free",1.37,0.043,Walmart,oz
-2024-08-09,"Fresh Whole White Mushrooms, 8 oz",1.87,0.234,Walmart,oz
-2024-08-09,"Tostitos Scoops! Tortilla Chips Party Size, 14.5 oz Bag",5.94,0.41,Walmart,oz
-2024-08-09,"Banquet Family Size Salisbury Steaks and Brown Gravy, Frozen Meal, 27 oz (Frozen)",3.57,0.132,Walmart,oz
-2024-08-09,"Great Value Party Size Original Wavy Potato Chips, 13 oz",3.18,0.22,Walmart,oz
-2024-08-09,"Birds Eye Steamfresh Broccoli Florets, Frozen, 10.8 oz",2.52,0.182,Walmart,oz
-2024-08-09,"Great Value Canned Cream Style Sweet Corn, 14.75 oz Aluminum Can",0.64,0.043,Walmart,oz
-2024-08-09,"Dr Pepper Soda, 16.9 fl oz, 6 Pack Bottles",5.18,0.051,Walmart,fl oz
-2024-08-09,"Capri Sun Variety Pack with Fruit Punch, Strawberry Kiwi & Pacific Cooler Juice Box Pouches, 30 ct Box, 6 fl oz Pouches",8.78,0.049,Walmart,fl oz
-2024-08-09,"Green Giant Fresh Washed & Trimmed Green Leaf Lettuce, 7 oz",2.97,0.424,Walmart,oz
-2024-08-09,"Lunchables Light Bologna & American Cheese Cracker Stackers Kids Lunch Snack, 3.1 oz Tray",1.87,0.542,Walmart,oz
-2024-08-09,"Marie Callenders Chicken Pot Pie, Large Size Frozen Meal, 15 oz (frozen)",3.48,0.232,Walmart,oz
-2024-08-09,"Great Value Garden Rotini Pasta, 16 oz",0.98,0.061,Walmart,oz
-2024-08-09,"Fresh Italian Parsley Bunch, Each",0.88,N/A,Walmart,N/A
-2024-08-09,"Perdue Harvestland, Free Range, Fresh Chicken Breast Tenderloin Pieces, 0.8-1.2 lb. Tray",6.53,5.78,Walmart,lb
-2024-08-09,"Tyson Fully Cooked and Breaded Chicken Patties, 1.62 lb Bag (Frozen)",6.46,3.96,Walmart,lb
-2024-08-09,"Idahoan Buttery Homestyle Mashed Potatoes Family Size, 8 oz Pouch",2.82,0.353,Walmart,oz
-2024-08-09,"Fresh Granny Smith Apples, 3 lb Bag",4.28,1.43,Walmart,lb
-2024-08-09,"Jif Creamy Peanut Butter, 16-Ounce Jar",3.12,0.195,Walmart,oz
-2024-08-09,"Bob Evans Gluten-Free Original Mashed Potatoes Family Size, 32 oz  Tray (Refrigerated)",4.98,0.156,Walmart,oz
-2024-08-09,"Mission Super Soft Fajita Flour Tortillas, 23 oz, 20 Count",3.48,0.151,Walmart,oz
-2024-08-09,"Dr Pepper Soda Pop, 12 fl oz, 24 Pack Cans",12.98,0.045,Walmart,fl oz
-2024-08-09,"Great Value Broccoli Florets, 32 oz Bag (Frozen)",2.74,0.086,Walmart,oz
-2024-08-09,"Hillshire Farm, Ultra Thin Honey Ham, 9 oz, Deli - Sliced",4.54,8.11,Walmart,lb
-2024-08-09,"Nissin Original Premium Teriyaki Beef Flavor Chow Mein Noodles, 4 oz",1.46,0.365,Walmart,oz
-2024-08-09,"Great Value, No Salt Added, Canned Black Beans, 15 oz Can",0.86,0.057,Walmart,oz
-2024-08-09,"Sprite Lemon Lime Soda Pop, 12 fl oz, 24 Pack Cans",12.98,0.045,Walmart,fl oz
-2024-08-09,"Great Value Frozen Peeled Tail on Extra Large Shrimp, 12 oz (26-30 Count per lb)",5.68,0.473,Walmart,oz
-2024-08-09,"Fresh Sweet Corn on the Cob, 4 Count Tray",3.48,0.149,Walmart,oz
-2024-08-09,"ROTEL Mild Diced Tomatoes and Green Chilies, 10 oz",1.36,0.136,Walmart,oz
-2024-08-09,"Great Value Medium Pitted Black Olives, 6 oz",1.97,0.328,Walmart,oz
-2024-08-09,"Fresh Red Baby Potatoes, 1.5 lb Bag",3.24,2.16,Walmart,lb
-2024-08-09,"Milo's Famous Sugar Free, Zero Calorie Sweet Iced Tea, 128 fl oz Jug",3.48,0.027,Walmart,fl oz
-2024-08-09,"Great Value Brussels Sprouts, 12 oz Bag (Frozen)",1.42,0.118,Walmart,oz
-2024-08-09,"Lay's Potato Chips, Salt & Vinegar, 7.75 Oz",3.0,0.258,Walmart,oz
-2024-08-09,"Organic Fresh Whole Carrots, 2 lb Bag",1.96,0.061,Walmart,oz
-2024-08-09,"Prego Traditional Spaghetti Sauce, 24 oz Jar",2.48,0.103,Walmart,oz
-2024-08-09,"Marketside Large Cage-Free Brown Eggs, 12 Count",3.37,0.281,Walmart,ea
-2024-08-09,"Great Value Garlic Bread Sticks, 10.5 oz (Frozen)",2.24,0.213,Walmart,ea
-2024-08-09,"Frigo Shredded Parmesan Cheese, 5 oz Refrigerated Plastic Cup",2.88,0.576,Walmart,oz
-2024-08-09,"Great Value Sliced Black Olives, 2.25 oz",1.97,0.876,Walmart,oz
-2024-08-09,"Hillshire Farm, Ultra Thin, Oven Roasted Turkey Breast, 9 oz, Deli - Sliced",4.54,8.11,Walmart,lb
-2024-08-09,"Great Value Chunk Chicken Breast, 12.5 Ounce Can (4 Pack)",8.72,2.79,Walmart,lb
-2024-08-09,"Maruchan Instant Lunch Beef Flavor Noodle Soup, 2.25 oz Shelf Stable Cup",0.52,0.231,Walmart,oz
-2024-08-09,"Fresh Fuji Apples, 3 lb Bag",3.98,1.33,Walmart,lb
-2024-08-09,"Marketside Blueberry Muffins, 14 oz, 4 Count",3.98,0.284,Walmart,oz
-2024-08-09,"Manwich Original Sloppy Joe Sauce, Canned Sauce, 15 oz",1.34,0.089,Walmart,oz
-2024-08-09,"Ruffles Original Flavor Potato Snack Chips,Party Size, 13 Ounce Bag",5.94,0.457,Walmart,oz
-2024-08-09,"Fresh Sliced Baby Bella Mushrooms, 8 oz",2.38,0.298,Walmart,oz
-2024-08-09,"Great Value Shredded Low-Moisture Part-Skim Mozzarella Cheese, 32 oz",7.47,0.233,Walmart,oz
-2024-08-09,"Boneless Skinless Chicken Thighs Family Pack, 4.7 - 6 lb Tray",14.06,2.96,Walmart,lb
-2024-08-09,"HOSTESS Powdered DONETTES Bag, Powdered Sugar Mini Donuts - 10 oz",2.48,0.248,Walmart,oz
-2024-08-09,"Great Value Hickory Smoked Bacon, Mega Pack, 24 oz",6.94,4.63,Walmart,lb
-2024-08-09,"Fresh Idaho Potatoes, 5 lb Bag",3.18,0.636,Walmart,lb
-2024-08-09,"Marketside Mild Ground Italian Sausage, Pork, 1lb (Fresh)",3.57,3.57,Walmart,lb
-2024-08-09,"Great Value Cookies & Cream Ice Cream, 48 fl oz",2.78,0.058,Walmart,fl oz
-2024-08-09,"Thomas' Nooks & Crannies Original English Muffins, 6 count, Plain English Muffins, 13 oz Tray",3.48,0.268,Walmart,oz
-2024-08-09,"Kool-Aid Unsweetened Orange Artificially Flavored Powdered Soft Drink Mix, 0.15 oz Packet",0.36,2.4,Walmart,oz
-2024-08-09,"Great Value Iodized Salt, 26 oz",0.67,0.026,Walmart,oz
-2024-08-09,"Fresh Gala Apple, Each",0.69,1.37,Walmart,lb
-2024-08-09,"Land O Lakes Salted Butter, 1 lb, 4 Sticks",5.88,0.368,Walmart,oz
-2024-08-09,"Great Value Sweet Brewed Iced Tea, 128 fl oz Bottle",2.98,0.023,Walmart,fl oz
-2024-08-09,"El Monterey Beef & Bean Burritos, 32 oz, 8 Count (Frozen)",4.98,0.156,Walmart,oz
-2024-08-09,"Marketside Organic Grass-Fed Ground Beef, 85% Lean/15% Fat, 1 lb",6.96,6.96,Walmart,lb
-2024-08-09,"Great Value Buttermilk Pancakes, 33 oz, 24 Count (Frozen)",3.74,N/A,Walmart,N/A
-2024-08-09,"Diet Pepsi Cola Soda Pop, 2 Liter Size Bottle",2.28,0.029,Walmart,fl oz
-2024-08-09,"Great Value Thin Sliced Oven Roasted Turkey Breast Family Pack, 16 oz Plastic Tub, 9 Grams of Protein per 2 oz Serving",5.98,5.98,Walmart,lb
-2024-08-09,"Great Value Greek Plain Nonfat Yogurt, 5.3 oz Cups (Plastic Container)",0.72,0.136,Walmart,oz
-2024-08-09,"Clear American Cherry Limeade Sparkling Water, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Jimmy Dean Original Pancakes & Sausage on a Stick, 30 oz, 12 Count (Frozen)",9.98,0.333,Walmart,oz
-2024-08-09,"Totino's Party Pizza, Pepperoni, Frozen Snacks, 1 Ct, 10.2 oz",1.97,0.193,Walmart,oz
-2024-08-09,"Hillshire Farm Polska Kielbasa Smoked Sausage, 14 oz",3.98,4.52,Walmart,lb
-2024-08-09,"Marie Callender's Aged Cheddar Cheesy Chicken and Rice Bowl, Frozen Meal, 12 oz (frozen)",2.96,0.247,Walmart,oz
-2024-08-09,"Great Value Microwavable Thin Crust Cheese Pizza, 7.2 oz (Frozen)",1.17,0.163,Walmart,oz
-2024-08-09,"Great Value Canned Mandarin Oranges, 15 oz",1.34,0.089,Walmart,oz
-2024-08-09,"Great Value Canned Medium Diced Green Chiles, 4 Oz",0.84,0.21,Walmart,oz
-2024-08-09,"Great Value Shredded Colby & Monterey Jack Cheese, 32 oz",7.47,0.233,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Pork Flavor Soup, 3 oz Shelf Stable Package",0.36,0.1,Walmart,oz
-2024-08-09,"Knorr No Artificial Flavors Cheddar Broccoli Parboiled Rice, 5.7 oz Regular Pouch",1.28,0.225,Walmart,oz
-2024-08-09,"Pillsbury Grands! Flaky Layers Butter Tastin' Refrigerated Biscuit Dough, 8 ct, 16.3 oz",3.24,0.176,Walmart,oz
-2024-08-09,"McCormick No Artificial Flavors Brown Gravy Mix, 0.87 oz Envelope",1.08,1.08,Walmart,oz
-2024-08-09,"Wonder Bread Classic Extra Soft White Bread Hamburger Buns, 15 oz, 8 Count",2.87,0.191,Walmart,oz
-2024-08-09,"Sweet Potatoes Whole Fresh, 3 lb Bag",2.98,0.993,Walmart,lb
-2024-08-09,"Lay's Classic Potato Snack Chips, Party Size, 13 oz Bag",5.44,0.418,Walmart,oz
-2024-08-09,"Butterball Gluten-Free Oven Roasted Turkey Breast, Deli-Sliced",6.97,N/A,Walmart,N/A
-2024-08-09,"Great Value Mushrooms Pieces and Stems, 4 oz, Can",1.5,0.375,Walmart,oz
-2024-08-09,"Great Value Glazed Honey Buns, 10.5 oz, 6 Count",1.98,0.189,Walmart,oz
-2024-08-09,"Great Value Chunk Light Tuna in Water, 2.6 oz Pouch",0.88,0.338,Walmart,oz
-2024-08-09,"Clear American Sparkling Water, Wild Cherry, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Frito-Lay Classic Snack Mix Variety Pack Snack Chips, 42 Count Multipack",19.98,0.512,Walmart,oz
-2024-08-09,"Great Value 100% Pure Pumpkin, 15 oz",1.47,0.098,Walmart,oz
-2024-08-09,"Great Value Original Syrup, 24 oz",2.36,0.098,Walmart,fl oz
-2024-08-09,"OREO Double Stuf Chocolate Sandwich Cookies, Family Size, 18.71 oz",4.88,0.261,Walmart,oz
-2024-08-09,"Lactaid 2% Reduced Fat Milk, 96 oz",6.38,0.066,Walmart,fl oz
-2024-08-09,"Land O' Frost Premium Hardwood Smoked Honey Ham, Deli Style Lunch Meat,  Resealable Plastic Pouch, 16 oz., 1 lb",5.83,5.83,Walmart,lb
-2024-08-09,"Fresh Yellow Mangoes, Each",0.64,N/A,Walmart,N/A
-2024-08-09,"Prego Pasta Sauce, Italian Tomato Sauce with Roasted Garlic & Herbs, 24 oz Jar",2.48,0.103,Walmart,oz
-2024-08-09,"Fresh Blackberries, 6 oz Container",2.87,0.478,Walmart,oz
-2024-08-09,"Lipton Recipe Secrets Onion Dry Soup and Dip Mix, 2 oz, 2 Count Box Regular",1.82,0.91,Walmart,oz
-2024-08-09,"Bertolli Alfredo Pasta Sauce with Aged Parmesan Cheese, Made with Fresh Cream and Real Butter, 15 oz",2.98,0.199,Walmart,oz
-2024-08-09,"New York Bakery The Original Texas Toast with Real Garlic, 8 Slices, 11.25 Ounce Box",2.97,0.264,Walmart,oz
-2024-08-09,"Great Value Half-Length Spaghetti, 16 oz",0.98,0.061,Walmart,oz
-2024-08-09,Idahoan Roasted Garlic Mashed Potatoes,1.44,0.36,Walmart,oz
-2024-08-09,"Oscar Mayer Classic Beef Franks Hot Dogs, 10 ct Pack",3.94,4.19,Walmart,lb
-2024-08-09,"Great Value Cheese Dip & Breadsticks Snacks, 1 oz, 5 Count",1.97,0.394,Walmart,oz
-2024-08-09,"Dr Pepper, 12 fl oz, 24 pack",17.5,0.061,Walmart,fl oz
-2024-08-09,"Great Value Baked Buttery Round Crackers, 13.7 oz",2.72,0.199,Walmart,oz
-2024-08-09,"Bar-S Classic Bologna Sliced Lunch Meat, 12 oz, 10 Count",1.47,1.96,Walmart,lb
-2024-08-09,"Sprite Lemon-Lime Soda, 12 Fl Oz, 12 Count",7.28,0.051,Walmart,oz
-2024-08-09,"Great Value Frozen Cooked Medium Peeled & Deveined Tail-on Shrimp, 12 oz Bag (41-60 Count per lb)",5.47,0.456,Walmart,oz
-2024-08-09,"Great Value Buttermilk Waffles, 24 Count",4.14,0.14,Walmart,oz
-2024-08-09,"Great Value Everyday Disposable Plastic Forks, White, 48 Count",1.98,4.13,Walmart,100
-2024-08-09,"Great Value Steamable Fine Green Beans, Frozen, 12 oz",1.97,0.164,Walmart,oz
-2024-08-09,"Philadelphia Original Cream Cheese, 8 oz Brick",2.98,0.373,Walmart,oz
-2024-08-09,"Rosarita Traditional Refried Beans, 16 oz.",3.1,0.194,Walmart,oz
-2024-08-09,SWEET MINI PEPPERS,2.68,N/A,Walmart,N/A
-2024-08-09,"DEL MONTE FRESH CUT Golden Sweet Whole Kernel Corn, 15.25 oz Can",1.48,0.097,Walmart,oz
-2024-08-09,"Kool-Aid Unsweetened Black Cherry Artificially Flavored Powdered Soft Drink Mix, 0.13 oz Packet",0.36,2.77,Walmart,oz
-2024-08-09,"Great Value Thin Spaghetti, 1 lb",0.98,0.061,Walmart,oz
-2024-08-09,"Old El Paso Stand 'N Stuff Taco Shells, Gluten Free, 10-Count",2.18,0.464,Walmart,oz
-2024-08-09,"Great Value Marinara Pasta Sauce, 23 oz",1.67,0.073,Walmart,oz
-2024-08-09,"Great Value 1% Milkfat Small Curd Lowfat Cottage Cheese, 24 oz",2.94,0.123,Walmart,oz
-2024-08-09,"New York Bakery Breadsticks with Real Garlic, 10.5 oz, 6 Count Box (Frozen)",2.97,0.283,Walmart,oz
-2024-08-09,"Simply Non GMO All Natural Lemonade Juice, 52 fl oz Bottle",2.88,0.055,Walmart,fl oz
-2024-08-09,"Great Value Everyday Disposable Plastic Party Cups, Red, 18 oz, 50 Count",5.18,7.96,Walmart,100
-2024-08-09,"Great Value Spaghetti, 32 oz",1.92,0.06,Walmart,oz
-2024-08-09,"Mission Super Soft Burrito Flour Tortillas, 20 oz, 8 Count",3.48,0.174,Walmart,oz
-2024-08-09,"RITZ Fresh Stacks Original Crackers, 11.8 oz (8 Stacks)",3.88,0.329,Walmart,oz
-2024-08-09,"Great Value Minced Garlic in Water, 8 Ounce Jar",2.16,0.27,Walmart,oz
-2024-08-09,"Ben's Original Ready Rice Jasmine Rice, Easy Dinner Side, 8.5 Ounce Pouch",2.18,0.256,Walmart,oz
-2024-08-09,"Fresh USDA Organic Strawberries, 1 lb Container",3.58,0.224,Walmart,oz
-2024-08-09,"Red Baron Pepperoni Classic Crust Frozen Pizza, 20.61 oz",4.82,0.234,Walmart,oz
-2024-08-09,"Great Value Regular Cut French Fried Potatoes, 32 oz Bag (Frozen)",2.97,0.093,Walmart,oz
-2024-08-09,"Goldfish Cheddar Cheese Crackers, Baked Snack Crackers, 6.6 oz Bag",2.64,0.4,Walmart,oz
-2024-08-09,"Cheez-It Original Cheese Crackers, Baked Snack Crackers, 12.4 oz",3.78,0.305,Walmart,oz
-2024-08-09,"Velveeta Shells and Cheese Macaroni and Cheese Cups Easy Microwavable Dinner, 4 ct Pack, 2.39 oz Cups",4.92,0.416,Walmart,oz
-2024-08-09,"Great Value Thin Sliced Black Forest Ham Lunchmeat, Family Pack, 1lb, Resealable Plastic Tub, 10 G of Protein per 2oz Serving",4.78,4.78,Walmart,lb
-2024-08-09,"Great Value Angel Hair, 16 oz",0.98,0.061,Walmart,oz
-2024-08-09,"Fresh Yellow Bell Pepper, Each",1.48,N/A,Walmart,N/A
-2024-08-09,"Great Value Mini Pretzel Twists, 16 oz",2.24,0.14,Walmart,oz
-2024-08-09,"Lay's Dill Pickle Potato Snack Chips,7.75 oz Bag",3.0,0.258,Walmart,oz
-2024-08-09,"Bar-S, Bun Length, Franks, 48 OZ. (3 LB.)(1.36kg)",4.58,1.53,Walmart,lb
-2024-08-09,"Marketside Santa Fe Style Salad with Chicken, 6.35 oz Bowl, Fresh",2.97,0.468,Walmart,oz
-2024-08-09,"Sara Lee Butter Bread, 20 oz, Soft White Bread, Bag",3.18,0.159,Walmart,oz
-2024-08-09,Great Value Uncooked Original Breakfast Pork Sausage Links 12 oz Package,3.48,4.64,Walmart,lb
-2024-08-09,"Coca-Cola Mini Soda Pop Fridge Pack, 7.5 fl oz Cans, 10 Pack",6.34,0.085,Walmart,fl oz
-2024-08-09,"Little Debbie Big Pack Nutty Buddy Wafer Bars, 12 Wraps, 24 Cookies Per Pack",4.98,0.198,Walmart,oz
-2024-08-09,"Great Value French Vanilla Coffee Creamer, 32 fl oz",2.78,0.087,Walmart,fl oz
-2024-08-09,"Thomas' Everything Bagels, 6 count, Soft Pre-sliced Bagels, 20 oz Bag",3.97,0.199,Walmart,oz
-2024-08-09,"Red Baron Four Cheese Classic Crust Frozen Pizza, 21.06 oz",4.82,0.223,Walmart,oz
-2024-08-09,"Great Value Cut Green Beans, Gluten-Free, 28 oz Can",1.16,0.041,Walmart,oz
-2024-08-09,"Great Value Dr Thunder Diet Calorie Free Cola Soda, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Great Value Block Sharp Cheddar Cheese, 16 oz",3.74,0.234,Walmart,oz
-2024-08-09,"Coca-Cola Zero Sugar Soda Pop, 2 Liter Bottle",2.68,0.04,Walmart,fl oz
-2024-08-09,"Minute Maid Berry Punch Flavored Fruit Drink, 59 fl oz Carton",2.08,0.035,Walmart,fl oz
-2024-08-09,"Great Value Burrito Flour Tortillas, 20 oz, 8 Count",2.08,0.104,Walmart,oz
-2024-08-09,"Sam's Choice Purified Drinking Water, 10 fl oz, 15 Count Bottles",2.72,0.018,Walmart,fl oz
-2024-08-09,"Great Value Lactose Free Whole Vitamin D Milk, Half Gallon, 64 fl oz",3.38,0.053,Walmart,fl oz
-2024-08-09,"Fresh Raspberries, 6 oz Container",3.17,0.528,Walmart,oz
-2024-08-09,"Fresh Red Grapefruit, Each",1.38,N/A,Walmart,N/A
-2024-08-09,"McCormick Original Taco Seasoning Mix, 1 oz Envelope",0.97,0.97,Walmart,oz
-2024-08-09,"Great Value Frosted Strawberry Toaster Pastries, 20.3 oz, 12 Count",1.97,0.097,Walmart,oz
-2024-08-09,"Spice World Fresh Garlic Sleeve, 3 Count",1.68,0.56,Walmart,ea
-2024-08-09,"Fresh Romaine Lettuce, Each",2.37,N/A,Walmart,N/A
-2024-08-09,"Great Value Original Regular Cinnamon Rolls with Icing, 8 Count",2.24,0.181,Walmart,oz
-2024-08-09,"Lactaid Whole Milk, 96 oz",6.38,0.066,Walmart,fl oz
-2024-08-09,"Clear American Sparkling Water, Mandarin Orange, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Banquet Salisbury Steak with Creamy Mashed Potatoes and Cinnamon Apple Dessert, Frozen Meal, 11.88 oz (Frozen)",1.68,0.141,Walmart,oz
-2024-08-09,"Pure Life Purified Water, 3-Liter, Plastic Bottled Water (Single)",1.34,0.013,Walmart,fl oz
-2024-08-09,"Zatarain's No Artificial Flavors Blackened Chicken Alfredo Frozen Dinner, 10.5 oz Box",3.87,0.369,Walmart,oz
-2024-08-09,"Smucker's Uncrustables Chocolate Flavored Hazelnut Spread Sandwiches, 1.8 oz, 4 count (Frozen)",3.97,0.551,Walmart,oz
-2024-08-09,"Sam's Cola Diet Soda, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Mountain Dew Citrus Soda Pop, 2 Liter Bottle",2.28,0.029,Walmart,fl oz
-2024-08-09,"POWERADE Electrolyte Enhanced Mountain Berry Blast Sport Drink, 28 fl oz, Bottle",1.38,0.036,Walmart,fl oz
-2024-08-09,"Sara Lee Classic Bread, 20 oz, Soft Plain White Bread, Bag",2.5,0.125,Walmart,oz
-2024-08-09,"Hillshire Farm Ultra Thin Oven Roasted Turkey Breast, 16 oz",7.54,6.78,Walmart,lb
-2024-08-09,"Marie Callender's Chicken Pot Pie, Single Serve Frozen Meal, 10 oz (frozen)",2.98,0.298,Walmart,oz
-2024-08-09,"Perdue Harvestland, Fresh Ground Chicken, 92% Lean 8% Fat, 1 lb. Tray",3.64,3.64,Walmart,lb
-2024-08-09,"Great Value Thick and Chunky Salsa Mild, 16 oz",1.98,0.124,Walmart,oz
-2024-08-09,"Wonder Bread Classic Hot Dog Buns, White Bread Hot Dog Buns, 8 Count",2.87,0.221,Walmart,oz
-2024-08-09,"Great Value Baking Soda, 1 Lb",0.92,0.058,Walmart,oz
-2024-08-09,"Great Value Tomato Ketchup, 24 oz",1.28,0.053,Walmart,oz
-2024-08-09,"Totino's Party Pizza, Pepperoni, Frozen Snacks, 4 Ct, 40.8 oz",7.64,0.187,Walmart,oz
-2024-08-09,"Great Value Sweet Potatoes, 10 oz (Frozen)",1.74,0.174,Walmart,oz
-2024-08-09,"Freshness Guaranteed Traditional Shredded Rotisserie Chicken Breasts, 16 oz, 18g of Protein, No Artificial Ingredients, Gluten Free (Refrigerated)",9.97,9.97,Walmart,lb
-2024-08-09,"Land O' Frost Premium Sliced Pork, Old World Style, Black Forest Ham,16 oz, Resealable Plastic Pouch",5.83,5.83,Walmart,lb
-2024-08-09,"Great Value Classic Ranch Dressing & Dip, 36 fl oz",3.54,0.098,Walmart,fl oz
-2024-08-09,"Great Value Dr Thunder, 2 L",1.48,0.015,Walmart,fl oz
-2024-08-09,"Great Value Blueberries, 16 oz (Frozen)",2.47,0.154,Walmart,oz
-2024-08-09,"SunChips Garden Salsa Whole Grain Snacks, 7 oz Bag",3.98,0.569,Walmart,oz
-2024-08-09,"Libby's Vienna Sausage in Chicken Broth, 4.6 oz Can",0.98,3.38,Walmart,lb
-2024-08-09,"Great Value Vanilla Wafer Cookies, 11 oz, Round, Shelf-Stable/Ambient, 1 Count",2.73,0.248,Walmart,oz
-2024-08-09,"Fresh Shredded Carrots, 10 oz Bag",1.77,0.177,Walmart,oz
-2024-08-09,"Core Power Protein Shake with 26g Protein by fairlife Milk, Chocolate, 14 fl oz",3.28,0.234,Walmart,fl oz
-2024-08-09,Great Value Breaded Chicken Nuggets 70oz Frozen,11.93,0.17,Walmart,oz
-2024-08-09,"Great Value Frozen Raw Small Peeled & Deveined, Tail-off Shrimp, 12 oz (60-80 Count per lb)",5.0,0.417,Walmart,oz
-2024-08-09,"Coca-Cola Classic Soda Pop, 12 fl oz Bottles, 8 Pack",5.88,0.06,Walmart,fl oz
-2024-08-09,"Nestle Coffee Mate Zero Sugar Italian Sweet Creme Liquid Coffee Creamer, 32 fl oz",4.26,0.118,Walmart,fl oz
-2024-08-09,"HORMEL BLACK LABEL Bacon Pork, Original, Gluten Free, Refrigerated, 16 oz Plastic Package",5.98,5.98,Walmart,lb
-2024-08-09,"73% Lean/27% Fat Ground Beef Roll, 1lb (Frozen)",4.74,4.24,Walmart,lb
-2024-08-09,"Fresh Orange Bell Pepper, Each",1.48,N/A,Walmart,N/A
-2024-08-09,"Great Value Honey, 12 oz Plastic Bear",3.74,0.312,Walmart,oz
-2024-08-09,"Marketside Sunflower Bacon Crunch Chopped Salad Kit, 10.6 oz Bag, Fresh",3.98,0.328,Walmart,oz
-2024-08-09,"Great Value Vanilla Bean Flavored Ice Cream, 48 fl oz",2.78,0.058,Walmart,fl oz
-2024-08-09,"Bob Evans Gluten-Free Original Mashed Potatoes Tray, 24 oz (Refrigerated)",3.98,0.166,Walmart,oz
-2024-08-09,"Great Value Cauliflower, 12 oz Bag (Frozen)",1.16,0.097,Walmart,oz
-2024-08-09,"Del Monte Cut Green Beans Canned Vegetables, 14.5 oz Can",1.48,0.102,Walmart,oz
-2024-08-09,"Beef Bottom Round Steak Thin, 0.34 - 2.0 lb Tray",8.4,8.84,Walmart,lb
-2024-08-09,"OREO Chocolate Sandwich Cookies, Family Size, 18.12 oz",4.88,0.269,Walmart,oz
-2024-08-09,"Minute Ready-to-Serve Jasmine Rice, Microwaveable Rice Cups, 4.4 oz, 2 Ct",1.96,0.223,Walmart,oz
-2024-08-09,"Maruchan Instant Hot & Spicy Beef Ramen Soup, 2.25 oz Shelf Stable Cup",0.52,0.231,Walmart,oz
-2024-08-09,"Frito-Lay Family Fun Mix Variety Pack Snack Chips, 18 Count Multipack",9.98,0.591,Walmart,oz
-2024-08-09,"Kool Aid Jammers Variety Pack with Tropical Punch, Grape & Cherry Kids Drink 0% Juice Box Pouches, 30 Ct Box, 6 fl oz Pouches",7.27,0.04,Walmart,fl oz
-2024-08-09,"Great Value Original Diced Tomatoes with Green Chilies, 10 oz",0.96,0.096,Walmart,oz
-2024-08-09,"Little Debbie Zebra Cakes, 13 oz",2.68,0.206,Walmart,oz
-2024-08-09,"Takis Fuego 9.9 oz Sharing Size Bag, Hot Chili Pepper & Lime Rolled Tortilla Chips",3.78,0.382,Walmart,oz
-2024-08-09,"Great Value Long Grain Enriched Rice, 32 oz",1.77,0.055,Walmart,oz
-2024-08-09,"Yellow Potatoes Whole Fresh, 5lb Bag",5.48,1.1,Walmart,lb
-2024-08-09,"Taylor Farms Turkey & Cheddar Snack Pack, 6 oz",2.97,0.495,Walmart,oz
-2024-08-09,"Great Value Sugar Free French Vanilla Coffee Creamer, 32 fl oz",2.78,0.087,Walmart,fl oz
-2024-08-09,"POWERADE Electrolyte Enhanced Zero Sugar Mixed Berry Sport Drink, 28 fl oz, Bottle",1.38,0.036,Walmart,fl oz
-2024-08-09,"Silk Dairy Free, Gluten Free, Unsweet Vanilla Almond Milk, 64 fl oz Half Gallon",2.98,0.047,Walmart,fl oz
-2024-08-09,"Great Value Fully Cooked Original Pork Sausage Patties, Family Size, 35.6 oz (Frozen)",9.92,4.45,Walmart,lb
-2024-08-09,"Great Value Fully Cooked Chicken Strips, 25 oz (Frozen)",7.86,5.04,Walmart,lb
-2024-08-09,"Ball Park, Bun Size Beef Franks, 15 oz, 8 Count",4.84,5.15,Walmart,lb
-2024-08-09,"Great Value Original Premium Sausage Roll, 16 oz, Plastic Wrapped",3.48,3.48,Walmart,lb
-2024-08-09,"Great Value Wheat Sandwich Bread, 20 oz",1.42,0.071,Walmart,oz
-2024-08-09,"Great Value Shredded Hash Browns, 26 oz Bag (Frozen)",3.42,0.114,Walmart,oz
-2024-08-09,"Taylor Farms BLT Salad with Chicken and Bacon, 6.5 oz (Fresh)",2.97,0.457,Walmart,oz
-2024-08-09,"Hidden Valley Gluten Free Original Ranch Salad Dressing and Seasoning Mix, 1 oz",1.88,1.88,Walmart,oz
-2024-08-09,"Nestle Coffee Mate French Vanilla Liquid Coffee Creamer, 64 fl oz",6.88,0.108,Walmart,fl oz
-2024-08-09,"Great Value Creamy Peanut Butter, 16 oz",1.94,0.121,Walmart,oz
-2024-08-09,"ZEPHYRHILLS Brand 100% Natural Spring Water, 16.9-ounce plastic bottles (Pack of 35)",6.98,0.012,Walmart,fl oz
-2024-08-09,"Kellogg's Frosted Mini-Wheats Original Breakfast Cereal, Family Size, 24 oz Box",4.98,0.208,Walmart,oz
-2024-08-09,"Marketside Chef Salad with Uncured Ham and Turkey, 7.25 oz Bowl, Fresh",2.97,0.41,Walmart,oz
-2024-08-09,"Kraft Mexican Style Four Cheese Blend Shredded Cheese, 8 oz Bag",2.98,0.373,Walmart,oz
-2024-08-09,"Pillsbury Cinnamon Rolls with Original Icing, Canned Pastry Dough, Value 2-Pack, 16 Rolls",5.68,0.229,Walmart,oz
-2024-08-09,"HORMEL Pepperoni, Pizza Topping,Gluten Free, Original, Refrigerated, 6 oz Plastic Resealable Package",3.97,10.45,Walmart,lb
-2024-08-09,"Doritos Nacho Cheese Flavor Tortilla Snack Chips, 1oz Bags, 10 Count Multipack",6.48,0.548,Walmart,oz
-2024-08-09,"Stouffer's Macaroni and Cheese Pasta Frozen Meal, 12 oz (Frozen)",2.97,0.248,Walmart,oz
-2024-08-09,"Great Value Greek Vanilla Nonfat Yogurt, 32 oz Tub (Plastic Container)",3.54,0.111,Walmart,oz
-2024-08-09,"Hillshire, Snacking, Genoa Salami with White Cheddar Cheese & Toasted Rounds, 2.76 oz",3.13,1.13,Walmart,oz
-2024-08-09,Hot & Spicy Bowl Chicken,1.46,0.44,Walmart,oz
-2024-08-09,"Capri Sun Pacific Cooler Mixed Fruit Juice Box Pouches, 10 ct Box, 6 fl oz Pouches",2.98,0.045,Walmart,fl oz
-2024-08-09,"Walmart Great Value Thick & Creamy Macaroni & Cheese, 7.25 oz",0.58,0.08,Walmart,oz
-2024-08-09,"Freshness Guaranteed Mild Pico De Gallo, 10 oz",3.18,0.318,Walmart,oz
-2024-08-09,"Diet Pepsi Cola Soda Pop, 12 fl oz, 24 Pack Cans",11.98,0.042,Walmart,fl oz
-2024-08-09,"Kool-Aid Unsweetened Watermelon Artificially Flavored Powdered Soft Drink Mix, 0.15 oz Packet",0.36,2.4,Walmart,oz
-2024-08-09,"Coca-Cola Zero Sugar Sugar-Free Soda Pop, 16.9 fl oz Bottles, 6 Pack",5.18,0.051,Walmart,fl oz
-2024-08-09,"SunChips Harvest Cheddar Whole Grain Snacks, 7 oz Bag",3.98,0.569,Walmart,oz
-2024-08-09,"Tyson Any'tizers Homestyle Chicken Fries, 1.75 lb Bag (Frozen)",8.47,0.303,Walmart,oz
-2024-08-09,"Freshness Guaranteed Pineapple Chunks, 16 oz",4.58,0.286,Walmart,oz
-2024-08-09,"Great Value French Vanilla Coffee Creamer, 64 fl oz",4.98,0.078,Walmart,fl oz
-2024-08-09,"Fresh Navel Oranges, 4 lb Bag",4.98,1.25,Walmart,lb
-2024-08-09,Hormel Chili with Beans 15 oz. Can,2.48,0.053,Walmart,oz
-2024-08-09,"Great Value Beef Burgers, 80% Lean/20% Fat, 3 lbs, 12 Count (Frozen)",12.97,4.32,Walmart,lb
-2024-08-09,"Frito-Lay Classic Mix Variety Pack Snack Chips, 1oz Bags, 18 Count Multipack (Assortment may Vary)",9.98,0.554,Walmart,oz
-2024-08-09,"Kerrygold Grass-Fed Pure Irish Salted Butter Sticks, 8 oz, 2 Sticks",4.27,0.534,Walmart,oz
-2024-08-09,"Marketside Fresh Shredded Iceberg Lettuce, 16 oz Bag, Fresh",3.48,0.218,Walmart,oz
-2024-08-09,"Red Potatoes Whole Fresh, 5 lb Bag",4.98,0.996,Walmart,lb
-2024-08-09,"Oscar Mayer Deli Fresh Smoked Sliced Turkey Breast Deli Lunch Meat, 9 oz Package",4.48,8.0,Walmart,lb
-2024-08-09,"Great Value Soak Proof Foam Foam Plates, White, 9 in, 150 Count",5.42,3.61,Walmart,100
-2024-08-09,"Great Value Original Ricotta Cheese, 15 oz Tub (Refrigerated)",2.48,0.165,Walmart,oz
-2024-08-09,"Mott's Applesauce, 4 Ounce Cups, 6 Count",2.78,0.083,Walmart,oz
-2024-08-09,"Clear American Tangerine Mango, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"POWERADE Electrolyte Enhanced Zero Sugar Grape Sport Drink, 28 fl oz, Bottle",1.38,0.036,Walmart,fl oz
-2024-08-09,"Fresh Sweet Onions, 3 lb Bag",3.64,1.21,Walmart,lb
-2024-08-09,"Jack's Frozen Pizza, Cheese Thin Crust Pizza with Marinara Sauce, 13.8 oz (Frozen)",3.86,0.28,Walmart,oz
-2024-08-09,"Great Value Hard Boiled Eggs, 9.31 oz, 6 Count",2.96,0.493,Walmart,count
-2024-08-09,"Stouffer's Meat and Sauce Lasagna Frozen Meal, 10.5 oz (Frozen)",3.48,0.331,Walmart,oz
-2024-08-09,Tropicana Pure Premium No Pulp Original Orange Juice 89 Oz,6.64,0.075,Walmart,fl oz
-2024-08-09,"Bush's Original Baked Beans, Canned Beans, 28 oz Can",6.99,N/A,Walmart,N/A
-2024-08-09,"Pepsi Cola Soda Pop, 16.9 fl oz, 12 Pack Bottles",18.75,0.079,Walmart,fl oz
-2024-08-09,"Great Value Frozen Raw Large Peeled & Deveined, Tail-off Shrimp, 2 lb (31-40 Count per lb), Value Bag",12.94,0.404,Walmart,oz
-2024-08-09,"Marketside Premium Romaine Salad Blend, 18 oz Bag, Fresh",5.24,0.291,Walmart,oz
-2024-08-09,"Smucker's Uncrustables Peanut Butter & Grape Jelly Sandwich, 4-Count Pack (Frozen)",3.97,0.496,Walmart,oz
-2024-08-09,"Hillshire Farm Smoked Sausage, 14 oz",3.98,4.52,Walmart,lb
-2024-08-09,"Great Value Twist up Lemon Lime Soda, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,Little Debbie NUTTY BUDDY  Wafers Bar,2.68,0.223,Walmart,oz
-2024-08-09,"All Natural* 85% Lean/15% Fat Angus Ground Beef Steak Burgers, 4 Count, 1.33 lb Tray",8.82,6.63,Walmart,lb
-2024-08-09,"All Natural* 73% Lean/27% Fat Ground Beef, 5 lb Roll",19.94,3.99,Walmart,lb
-2024-08-09,"Great Value Whole Strawberries, Frozen, 16 oz",2.46,0.154,Walmart,oz
-2024-08-09,"Frigo Cheese Heads Original Mozzarella String Cheese Snacks, 16 oz, 16 Count",5.62,0.351,Walmart,oz
-2024-08-09,"Great Value Medium Soft Taco Flour Tortillas, 16 oz, 10 Count",1.98,0.124,Walmart,oz
-2024-08-09,"Fresh Whole Brown Mushrooms, 8 oz",2.28,0.285,Walmart,oz
-2024-08-09,"Great Value Less Sodium Soy Sauce, 15 fl oz",1.58,0.105,Walmart,fl oz
-2024-08-09,"Great Value Waffle Cut French Fried Potatoes, 24 oz (Frozen)",2.97,0.124,Walmart,oz
-2024-08-09,Great Value 75 Sq ft Aluminum Foil,3.78,0.05,Walmart,sq
-2024-08-09,"Chobani Non-Fat Greek Yogurt, Chocolate Chip Cookie Dough 4.5 oz Cup",1.38,0.307,Walmart,oz
-2024-08-09,"Cheez-It Variety Pack Cheese Crackers, Baked Snack Crackers, 12 Count",6.48,0.481,Walmart,oz
-2024-08-09,"Great Value Chili Beans, 15.5 oz Can",0.86,0.055,Walmart,oz
-2024-08-09,"Ore-Ida Extra Crispy Fast Food French Fries Fried Frozen Potatoes, 26 oz Bag",4.47,0.172,Walmart,oz
-2024-08-09,"Beef Choice Angus Chuck Roast, 2.25 - 3.38 lb Tray",17.93,7.97,Walmart,lb
-2024-08-09,"Freshness Guaranteed Sliced Plain French Bread, 14 oz",1.47,0.071,Walmart,oz
-2024-08-09,"Jimmy Dean Biscuit & Sausage Gravy Breakfast Bowl, 9 oz (Frozen)",2.97,0.297,Walmart,oz
-2024-08-09,StarKist Chunk Light Tuna in Water Can,1.14,0.2,Walmart,oz
-2024-08-09,"Marketside Cobb Salad with Turkey and Uncured Bacon Salad, 7.25 oz Bowl, Fresh",2.97,0.41,Walmart,oz
-2024-08-09,"Daisy Pure and Natural Sour Cream, 8 oz Tub (Refrigerated)",1.64,0.205,Walmart,oz
-2024-08-09,"Great Value Meat Lovers Breakfast Bowl, 7 oz (Frozen)",2.43,0.347,Walmart,oz
-2024-08-09,"Great Value Complete Pancake & Waffle Mix, Buttermilk, 32 oz",1.98,0.062,Walmart,oz
-2024-08-09,"Nature's Own 100% Whole Wheat Bread Loaf, 20 oz",3.64,0.182,Walmart,oz
-2024-08-09,"Post Fruity PEBBLES Cereal, Fruity Kids Cereal, Gluten Free, 19.5 oz Family Size Box",4.93,0.253,Walmart,oz
-2024-08-09,"Great Value, Rigatoni, 16 oz Box, (Shelf Stable)",0.98,0.061,Walmart,oz
-2024-08-09,"SUNNYD Tangy Original Orange Juice Drink, 1 Gallon Bottle",3.38,0.026,Walmart,fl oz
-2024-08-09,"Marketside Chocolate Chip Muffins, 14 oz, 4 Count",3.98,0.284,Walmart,oz
-2024-08-09,"Dr Pepper Zero Sugar Soda Pop, 12 fl oz, 12 Pack Cans",7.28,0.051,Walmart,fl oz
-2024-08-09,"Diet Mountain Dew Citrus Soda Pop, 2 Liter Bottle",2.28,0.029,Walmart,fl oz
-2024-08-09,"Great Value Shells, 16 oz Box, (Shelf Stable)",0.98,0.061,Walmart,oz
-2024-08-09,"StarKist Tuna Creations, Lemon Pepper, 2.6 oz Pouch",1.42,0.385,Walmart,oz
-2024-08-09,"Fresh Ginger Root, Each",0.92,3.67,Walmart,lb
-2024-08-09,"All Natural* 93% Lean/7% Fat Lean Ground Beef, 2.25 lb Tray",16.77,7.45,Walmart,lb
-2024-08-09,"Bar-S Classic Bologna Sliced Deli-Style Lunch Meat, 14 Slices per Package, 1 lb Pack",1.36,N/A,Walmart,N/A
-2024-08-09,"Frito-Lay Flavor Mix Variety Pack Snack Chips, 42 Count Multipack",19.98,0.477,Walmart,oz
-2024-08-09,"Perdue Harvestland, Free Range, Fresh Boneless Skinless Chicken Thighs, 1.3-2.25 lb. Tray",6.47,3.76,Walmart,lb
-2024-08-09,"HORMEL Chili, No Beans, No Artificial Ingredients, 15 oz Aluminum Can",2.98,0.053,Walmart,oz
-2024-08-09,"Great Value Extra Creamy Dairy Whipped Topping, 13 oz",3.48,0.268,Walmart,ounces
-2024-08-09,"Fresh Celery Sticks, 20 oz Bag",2.88,0.144,Walmart,oz
-2024-08-09,"Great Value Spaghetti Rings Pasta with Meatballs in Tomato Sauce, 15 oz",0.98,0.065,Walmart,oz
-2024-08-09,"Jif Creamy Peanut Butter, 40-Ounce Jar",6.97,0.174,Walmart,oz
-2024-08-09,"Jack's Frozen Pizza, Sausage and Pepperoni Thin Crust Pizza with Marinara Sauce, 15 oz (Frozen)",3.86,0.257,Walmart,oz
-2024-08-09,"Great Value Long Grain Enriched Rice, 5 lbs",3.34,0.042,Walmart,oz
-2024-08-09,"Freshness Guaranteed Cut Watermelon, 16 oz",4.58,0.286,Walmart,oz
-2024-08-09,"Hunt's Traditional Pasta Sauce, 100% Natural Tomato Sauce, Spaghetti Sauce, 24 oz",1.34,0.056,Walmart,oz
-2024-08-09,"Knorr No Artificial Flavors Chicken Flavor Rice Cooks in 7 Minutes, 5.6 oz Regular Pouch",1.28,0.229,Walmart,oz
-2024-08-09,"Great Value Freezer Guard Double Zipper Freezer Bags, Quart, 50 Count",2.82,0.056,Walmart,count
-2024-08-09,"Welchs Fruit Snacks, Mixed Fruit, 0.8 oz, 22 Count",5.48,0.277,Walmart,oz
-2024-08-09,"Great Value All Natural Chicken Breast Tenderloins, 3 lb (Frozen)",10.64,3.55,Walmart,lb
-2024-08-09,"Maruchan Instant Lunch Shrimp Flavor Noodle Soup, 2.25 oz Shelf Stable Cup",0.52,0.231,Walmart,oz
-2024-08-09,"Fresh Green Leaf Lettuce, Each",2.14,N/A,Walmart,N/A
-2024-08-09,"Oscar Mayer Bologna Deli Lunch Meat, 16 Oz Package",2.87,2.87,Walmart,lb
-2024-08-09,"Marketside Fresh Sugar Snap Peas, 8 oz",2.47,0.309,Walmart,oz
-2024-08-09,"Fresh Plum, Each",1.04,N/A,Walmart,N/A
-2024-08-09,"Bush's Brown Sugar Hickory Baked Beans, Canned Beans, 28 oz Can",2.48,0.089,Walmart,oz
-2024-08-09,"Great Value Concord Grape Jelly, 30 oz",2.74,0.091,Walmart,oz
-2024-08-09,"Diet Dr Pepper Soda Pop, 16.9 fl oz, 6 Pack Bottles",5.18,0.051,Walmart,fl oz
-2024-08-09,"Great Value Flaky & Buttery Regular Crescent Rolls, 8 Count, 8 oz.",1.98,0.248,Walmart,oz
-2024-08-09,"Perdue Harvestland Perfect Portions, Fresh Boneless Skinless Chicken Breast, 1.65 lb.",7.98,4.84,Walmart,lb
-2024-08-09,"Velveeta Original Shells & Cheese, 3 ct - 36.0 Ounce Package",7.47,0.208,Walmart,oz
-2024-08-09,"Great Value Regular Original Crescent Rolls, 8 oz, 8 Count",1.98,0.248,Walmart,oz
-2024-08-09,"Great Value Iced Oatmeal Cookies, Family Size, 18 oz",1.98,0.11,Walmart,oz
-2024-08-09,"Daisy Pure and Natural Cottage Cheese, 4% Milkfat, 24 oz (1.5 lb) Tub (Refrigerated) - 13g of Protein per serving",3.78,0.158,Walmart,oz
-2024-08-09,"Great Value Five Cheese Texas Toast, 13.5 oz, 8 Count",2.44,0.181,Walmart,ea
-2024-08-09,"Great Value Original Dairy Whipped Topping, 13 oz",3.48,0.268,Walmart,oz
-2024-08-09,Great Value All Purpose Enriched Flour 2LB Bag,1.32,0.041,Walmart,oz
-2024-08-09,"Pringles Cheddar Cheese Potato Crisps Chips, Lunch Snacks, 5.5 oz",2.24,0.364,Walmart,oz
-2024-08-09,"Lay's Potato Chips, Cheddar & Sour Cream, 7.75 oz Bag",6.89,0.889,Walmart,oz
-2024-08-09,"Duncan Hines Chewy Fudge Brownie Mix, 18.3 oz",2.41,0.132,Walmart,oz
-2024-08-09,"Great Value Creamy Peanut Butter, 40 oz Jar",3.98,0.1,Walmart,oz
-2024-08-09,"Minute Maid Premium Peach Fruit Juice Drink, 59 fl oz Carton",2.08,0.035,Walmart,fl oz
-2024-08-09,"Hillshire Farm Ultra Thin Honey Ham, 16 oz",7.54,6.78,Walmart,lb
-2024-08-09,"Banquet Turkey Deep Dish Pot Pie, Frozen Meal, 7 oz (Frozen)",1.0,0.143,Walmart,oz
-2024-08-09,"Great Value Hard Salami Lunchmeat, 7oz Re-Sealable Plastic Container, 5 G of Protein per 1oz Serving",3.97,9.02,Walmart,lb
-2024-08-09,"Clear American Sparkling Water, Orange & Cream, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Nestle Carnation Liquid Evaporated Milk, Vitamin D Added, 12 fl oz Can",1.72,0.143,Walmart,fl oz
-2024-08-09,"Cheetos Cheese Puff Chips, 13.5oz Party Bag",5.94,0.44,Walmart,oz
-2024-08-09,"Fritos Regular Corn Chips, 9.25 oz",4.48,0.484,Walmart,oz
-2024-08-09,"Mission Zero Net Carbs Original Tortillas, 8.89 oz, 14 Count",3.58,0.402,Walmart,oz
-2024-08-09,"Ruffles Cheddar & Sour Cream Potato Snack Chips,Party Size, 12.5 oz Bag",5.94,0.475,Walmart,oz
-2024-08-09,"Oikos Triple Zero 17g Protein, 0g Added Sugar, Fat Free Vanilla Greek Yogurt Tub, 32 oz",5.78,0.181,Walmart,oz
-2024-08-09,"Great Value Family Size Chicken Broth, 48 oz Carton, Shelf-Stable/Ambient, Gluten-Free, Liquid",1.98,0.041,Walmart,oz
-2024-08-09,"Little Debbie Big Pack Oatmeal Creme Pies, 12 Sandwich Cookies per pack, 30 oz",4.98,0.157,Walmart,oz
-2024-08-09,"Minute Maid Tropical Fruit Punch Drink, 59 fl oz Carton",2.08,0.035,Walmart,fl oz
-2024-08-09,Maruchan Instant Lunch Chicken (Pack of 6),2.58,0.191,Walmart,oz
-2024-08-09,"Great Value Zucchini Blend, 10 oz (Frozen)",1.92,0.192,Walmart,oz
-2024-08-09,"Great Value Half & Half, 16 fl oz",1.78,0.111,Walmart,fl oz
-2024-08-09,"French's No Artificial Flavors Kosher Classic Yellow Mustard, 20 oz Bottle",2.54,0.127,Walmart,oz
-2024-08-09,"Velveeta Original Melting Cheese Dip & Sauce (Classic Size), 32 oz Block",7.48,0.234,Walmart,oz
-2024-08-09,"Great Value Canned Pineapple Slices in 100% Juice, 20 oz",1.28,0.064,Walmart,oz
-2024-08-09,"Core Power Protein Shake with 26g Protein by fairlife Milk, Vanilla, 14 fl oz",3.28,0.234,Walmart,fl oz
-2024-08-09,"Bush's Canned Black Beans, Canned Black Beans, 15 oz Can",1.28,0.085,Walmart,oz
-2024-08-09,"Fresh Red Onions, 3 lb Bag",5.48,1.83,Walmart,lb
-2024-08-09,"Great Value Salted Butter Sticks, 8 oz, 2 Sticks",2.26,0.283,Walmart,oz
-2024-08-09,"Kellogg's Froot Loops Original Breakfast Cereal, Family Size, 16.6 oz Box",4.98,0.27,Walmart,oz
-2024-08-09,"Totino's Pizza Rolls, Pepperoni Flavored, Frozen Snacks, 130 Rolls, 63.5 oz",12.34,0.194,Walmart,oz
-2024-08-09,"Entenmann's Little Bite Chocolate Chip Muffins, 10 Pouches",6.98,0.423,Walmart,oz
-2024-08-09,"Great Value Frozen Riced Cauliflower, 12 oz (Frozen)",2.17,0.181,Walmart,oz
-2024-08-09,"Old El Paso Mild Red Enchilada Sauce, 1 Ct., 10 oz.",1.98,0.198,Walmart,oz
-2024-08-09,"Diet Coke Diet Soda Fridge Pack, 12 fl oz Cans, 12 Pack",7.28,0.051,Walmart,fl oz
-2024-08-09,"Pasta Roni Angel Hair Pasta with Herbs, 4.8 oz Box",1.48,0.308,Walmart,oz
-2024-08-09,"Country Crock Original Vegetable Oil Spread, 15 oz Tub (Refrigerated)",3.43,0.229,Walmart,oz
-2024-08-09,"Freshness Guaranteed White Sub Bakery Bread Rolls, 16 oz, 6 Count",3.48,0.218,Walmart,oz
-2024-08-09,"Marketside Asian Chopped Salad Kit, 10.6 oz Bag, Fresh",3.98,0.328,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Soup Chili Flavor, 3 oz Shelf Stable Package",0.36,0.1,Walmart,oz
-2024-08-09,"Bimbo White Bread, 20 count, Soft White Bread, 20 oz Bag",1.98,0.099,Walmart,oz
-2024-08-09,"Great Value Diced Tomatoes in Tomato Juice, 14.5 oz Can",0.96,0.066,Walmart,oz
-2024-08-09,"Marketside Organic Spring Mix Salad Blend, 16 oz. Clam Shell, Fresh",4.98,0.311,Walmart,oz
-2024-08-09,"Great Value Deli Style Wedges Seasoned Potatoes, 32 oz Bag (Frozen)",2.97,0.093,Walmart,oz
-2024-08-09,"Diet Pepsi Cola Soda Pop, 16.9 fl oz, 6 Pack Bottles",13.79,0.136,Walmart,fl oz
-2024-08-09,"Banquet Chicken Nuggets with Mac and Cheese and Brownie, Frozen Meal, 7.4 oz (Frozen)",1.68,0.227,Walmart,oz
-2024-08-09,"Great Value Deluxe Original Cheddar Macaroni & Cheese, 14 oz",1.48,0.106,Walmart,oz
-2024-08-09,"Pillsbury Flaky Layers Biscuits Butter Tastin' Canned Biscuits, 5 ct., 6 oz.",1.54,0.257,Walmart,oz
-2024-08-09,"Fresh Pink Lady Apples, 3lb Bag",3.98,1.33,Walmart,lb
-2024-08-09,"Marie Callender's Tender Ginger Beef & Broccoli Bowl, Frozen Meal, 11.8 oz (frozen)",2.96,0.251,Walmart,oz
-2024-08-09,"Freshness Guaranteed Lemon Pepper Rotisserie, Whole, 36 oz, 19g of Protein per 3oz serving (Hot)",6.97,2.65,Walmart,lb
-2024-08-09,"Lucky Charms Gluten Free Kids Breakfast Cereal with Marshmallows, Family Size, 18.6 oz",4.93,0.265,Walmart,oz
-2024-08-09,"Great Value Ready to Cook Breaded White Meat Chicken Tenderloins, 15g Protein, Frozen, 3 lbs",12.73,4.24,Walmart,lb
-2024-08-09,"Goldfish Cheddar Cheese Crackers, 27.3 oz Carton",8.98,0.329,Walmart,oz
-2024-08-09,"Freshness Guaranteed Diced Fresh Yellow Onions, 8 oz",2.88,0.36,Walmart,oz
-2024-08-09,"Fresh Yellow Peaches, 2 lb Bag",3.88,0.121,Walmart,oz
-2024-08-09,Great Value Milk Fat Free Half Gallon Plastic Jug,1.72,0.027,Walmart,fl oz
-2024-08-09,"Pork Center Cut Loin Chops Boneless Family Pack, 2.0 - 3.8 lb Tray",13.0,5.58,Walmart,lb
-2024-08-09,"Land O Lakes Refrigerated White Deli American Cheese Product, Sliced to Order (Fresh, Plastic Bag)",7.62,N/A,Walmart,N/A
-2024-08-09,"Great Value Cubed Colby & Monterey Jack Cheese, 8 oz Bag (Plastic Packaging)",2.37,0.296,Walmart,oz
-2024-08-09,"Mott's Fruit Flavored Snacks, Assorted Fruit, Pouches, 0.8 oz, 40 ct",8.48,0.265,Walmart,oz
-2024-08-09,"Great Value Deli Style Sliced Muenster Cheese, 12 Slices",2.24,0.28,Walmart,oz
-2024-08-09,"Oscar Mayer Bun-Length Wieners Hot Dogs, 8 ct Pack",2.84,2.5,Walmart,lb
-2024-08-09,"Fresh Blackberries, 12 oz Container",5.34,0.445,Walmart,oz
-2024-08-09,"Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, Value Bag, 32 oz",6.77,0.212,Walmart,oz
-2024-08-09,"Great Value Mixed Vegetables, Gluten-Free, 15 oz Can",0.96,0.064,Walmart,oz
-2024-08-09,"Red Baron Pepperoni Deep Dish Personal Frozen Pizza, 11.2 oz",4.14,0.37,Walmart,oz
-2024-08-09,"Pork Center Cut Loin Chops Boneless, 0.9 - 2.01 lb Tray",8.03,5.78,Walmart,lb
-2024-08-09,"King's Hawaiian Original Hawaiian Sweet Dinner Rolls, 24 Count, 24 oz",7.66,0.319,Walmart,oz
-2024-08-09,"Great Value Finely Shredded Colby Jack Cheese, 16 oz",4.22,0.264,Walmart,oz
-2024-08-09,"Nathan's Famous Skinless Beef Hot Dogs, 12 oz",4.97,5.96,Walmart,lb
-2024-08-09,"Premium Original Saltine Crackers, 16 oz",3.68,0.23,Walmart,oz
-2024-08-09,"CHIPS AHOY! Original Chocolate Chip Cookies, Family Size, 18.2 oz",4.78,0.263,Walmart,oz
-2024-08-09,"Great Value Seasoned Croutons, 5 oz Resealable Bag, Ready-To-Eat",1.36,0.272,Walmart,oz
-2024-08-09,"De Wafelbakkers Buttermilk Pancakes, 33 oz, 24 Count Bag (Frozen)",4.42,0.134,Walmart,oz
-2024-08-09,"Miracle Whip Mayo-like Dressing, for a Keto and Low Carb Lifestyle, 30 fl oz Jar",5.48,0.163,Walmart,fl oz
-2024-08-09,Sweet Baby Ray's Original Barbecue Sauce 40 oz,3.98,0.1,Walmart,oz
-2024-08-09,"Pop-Tarts Frosted Strawberry Toaster Pastries, Shelf-Stable, Ready-to-Eat, Instant, 16 Count Box",4.88,0.181,Walmart,oz
-2024-08-09,"Great Value Vanilla Caramel Coffee Creamer, 32 fl oz",2.78,0.087,Walmart,fl oz
-2024-08-09,"Great Value Italian Sweet Creme Coffee Creamer, 32 fl oz",2.78,0.087,Walmart,fl oz
-2024-08-09,"Lay's Honey Barbecue Flavored Potato Chips, 7.75 oz. Bag",3.0,0.258,Walmart,oz
-2024-08-09,"Hillshire Farm Turkey Smoked Sausage, 13 oz",3.98,4.91,Walmart,lb
-2024-08-09,"Great Value Taco Seasoning Mix, 1.25 oz",0.57,0.456,Walmart,oz
-2024-08-09,"Cheetos Puff Cheese Flavored Snack Chips, 8 oz",4.48,0.498,Walmart,oz
-2024-08-09,"Dean's, French Onion Dip, 16 oz Tub",9.58,0.599,Walmart,oz
-2024-08-09,"Folgers Classic Roast Ground Coffee, 40.3-Ounce",14.87,0.369,Walmart,oz
-2024-08-09,"Chef Boyardee Mini ABC's and 123's with Meatballs, 15 oz.",1.18,0.067,Walmart,oz
-2024-08-09,"Hi-C Flashin Fruit Punch Juice, 6 fl oz, 8 Juice Boxes",2.18,0.041,Walmart,fl oz
-2024-08-09,"Fresh Granny Smith Apple, Each",1.0,1.67,Walmart,lb
-2024-08-09,"Great Value Frozen Sliced Carrots, 12 oz Steamable Bag",0.98,0.082,Walmart,oz
-2024-08-09,"Little Bites Chocolate Chip Muffins, 5 packs, Soft Mini Muffins, 8.25 oz Multipack",3.98,0.422,Walmart,oz
-2024-08-09,"Great Value Semi-Sweet Chocolate Baking Chips, 12 oz Bag",2.97,0.248,Walmart,oz
-2024-08-09,"Great Value Original Fork Split English Muffins, 12 oz, 6 Count",1.5,0.125,Walmart,oz
-2024-08-09,"Great Value Milk Chocolate Chips, 11.5 oz",2.97,0.258,Walmart,oz
-2024-08-09,"Land O' Frost Premium Honey Smoked Turkey Breast, Deli Sliced, 1 lb, 4 Slice Serving, 8g Protein, Resealable Plastic Pouch",5.83,5.83,Walmart,lb
-2024-08-09,"Jose Ole Beef & Cheese Chimichanga, Frozen Mexican Food, 5 oz",1.32,0.264,Walmart,oz
-2024-08-09,"Great Value Mixed Fruit, Frozen, 16 oz",2.38,0.149,Walmart,oz
-2024-08-09,"Red Potatoes Whole Fresh, 3 lb Bag",3.48,1.16,Walmart,lb
-2024-08-09,"Banquet Mega Bowls Country Fried Chicken, Frozen Meal, 14 oz (Frozen)",2.98,0.213,Walmart,oz
-2024-08-09,"Great Value Creamy Peanut Butter, Spread, 64 oz",6.47,0.101,Walmart,oz
-2024-08-09,"Great Value Distilled White Vinegar, 64 fl oz",2.74,0.043,Walmart,fl oz
-2024-08-09,"Hawaiian Punch Fruit Juicy Red Juice Drink, 1 Gallon Bottle",2.98,0.023,Walmart,fl oz
-2024-08-09,"Fresh Large Hass Avocado Bag, 3- 4 Count",5.28,N/A,Walmart,N/A
-2024-08-09,"Great Value Deli Style Sliced Colby Jack Cheese, 16 oz, 24 Slices",4.22,0.264,Walmart,oz
-2024-08-09,"Great Value Honey Ham Lunchmeat Plastic Tub 9oz, 10 Grams of Protein per 2 oz Serving",3.97,7.09,Walmart,lb
-2024-08-09,"Great Value Sourdough Bread, 24 oz",2.57,0.107,Walmart,oz
-2024-08-09,"Lay's Wavy Original Potato Snack Chips,Party Size, 13 oz Bag",5.44,0.418,Walmart,oz
-2024-08-09,"Gatorade Thirst Quencher, Fruit Punch Sports Drinks, 12 fl oz, 12 Count Bottles",7.98,0.048,Walmart,fl oz
-2024-08-09,"Cap'n Crunch's Crunch Berries, Kids Breakfast Cereal, 20.5 oz Box",4.97,0.242,Walmart,oz
-2024-08-09,"Great Value Chicken Breast Patties Breaded, 23.8 oz (Frozen)",5.74,3.85,Walmart,lb
-2024-08-09,Sweet Baby Ray's Original Barbecue Sauce 18 oz,2.28,0.127,Walmart,oz
-2024-08-09,"Fresh Brussels Sprouts, 1 lb Bag",2.98,0.186,Walmart,oz
-2024-08-09,"Fresh Serrano Pepper, 4 Ounce Bag",1.58,0.395,Walmart,oz
-2024-08-09,"Pillsbury Crescent Rolls, Original Refrigerated Canned Pastry Dough, 2-Pack, 16 Rolls",5.68,0.355,Walmart,oz
-2024-08-09,"Great Value Southern Hash Browns, 32 oz Bag (Frozen)",3.42,0.093,Walmart,oz
-2024-08-09,"Great Value Colby & Monterey Jack Cheese, 16 oz Block (Plastic Packaging)",3.74,0.234,Walmart,oz
-2024-08-09,"Great Value Root Beer Soda, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Cacique Pork Chorizo, 9 oz (Refrigerated)",1.34,2.39,Walmart,lb
-2024-08-09,"Simply Cheetos Puffs Cheese Flavored Snacks, White Cheddar, 8 oz Bag",3.98,0.498,Walmart,oz
-2024-08-09,"Great Value Mayonnaise, 15 fl oz",2.12,0.141,Walmart,fl oz
-2024-08-09,"JIFFY"" Honey Corn Muffin Mix",0.78,0.092,Walmart,oz
-2024-08-09,"Marketside All Butter Whole Croissants, 9.17 oz, 4 Count",4.98,0.543,Walmart,oz
-2024-08-09,"Yoplait Original Harvest Peach Low Fat Yogurt, 6 oz Yogurt Cup",0.72,0.12,Walmart,oz
-2024-08-09,"Mountain Dew Citrus Soda Pop, 16.9 fl oz, 12 Pack Bottles",11.9,0.059,Walmart,fl oz
-2024-08-09,"Little Debbie Swiss Rolls, 12 Cake Rolls (Twin Wrapped)",2.68,0.201,Walmart,oz
-2024-08-09,"Mainstays Aluminum Cake Pans,13"" x 9"", 2 Count",1.24,0.62,Walmart,ea
-2024-08-09,"Great Value Singles Pasteurized Prepared Sliced White American Cheese, 16 oz, 24 Count",2.48,0.155,Walmart,oz
-2024-08-09,"Cool Whip Original Whipped Cream Topping, 8 oz Tub (Frozen)",1.98,0.248,Walmart,oz
-2024-08-09,"Great Value Mountain Lightning Citrus Flavored Soda Pop, 2 Liter Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Great Value Seasoned Sirloin Beef Philly Steak, 14 oz",6.94,7.89,Walmart,lb
-2024-08-09,"Milo's Lemonade Juice Drink 100% Natural, 128 fl oz Refrigerated Jug Caffeine Free, No Added Colors",4.26,0.033,Walmart,fl oz
-2024-08-09,"Nathan's Famous Bun Length Skinless Beef Franks, 12 oz",4.97,5.96,Walmart,lb
-2024-08-09,"Great Value 100% Liquid Egg Whites, 32 oz",3.98,0.124,Walmart,oz
-2024-08-09,"Great Value Original Vanilla Lowfat Yogurt, 6 oz, 4 Count",2.16,0.09,Walmart,oz
-2024-08-09,"Van Camp's Pork And Beans In Tomato Sauce, Canned Beans, 15 oz",0.98,0.065,Walmart,oz
-2024-08-09,"Maruchan Instant Lunch Roast Chicken Flavor Soup, 2.25 oz Shelf Stable Cup",0.52,0.231,Walmart,oz
-2024-08-09,"Sprite Lemon Lime Mini Soda Pop Soft Drink, 7.5 fl oz, 10 Pack Cans",6.34,0.085,Walmart,fl oz
-2024-08-09,"Great Value Elbows Pasta, 32 oz",1.92,0.06,Walmart,oz
-2024-08-09,"Great Value Frozen Whole Berry Medley, 16 oz",3.52,0.22,Walmart,oz
-2024-08-09,"Great Value Bite Size Tortilla Chips Party Size, 18 oz",2.67,0.148,Walmart,oz
-2024-08-09,"Velveeta Original Melting Cheese Dip & Sauce, 16 Oz Block",5.48,0.343,Walmart,oz
-2024-08-09,"Dukes: Mayonnaise Sugar Free, 32 Oz",4.64,0.145,Walmart,oz
-2024-08-09,"ARM & HAMMER Pure Baking Soda, For Baking, Cleaning & Deodorizing, 8 oz Box",0.87,0.109,Walmart,oz
-2024-08-09,"Gatorade Thirst Quencher Variety Pack, Grape/Strawberry/Berry Sports Drinks, 12 fl oz, 18 Ct Bottles",10.98,0.051,Walmart,fl oz
-2024-08-09,"Marketside Southwest Chopped Salad Kit, 10.3 oz Bag, Fresh",3.98,0.338,Walmart,oz
-2024-08-09,"Oreo Chocolate Sandwich Cookies, Party Size, 24.16 oz",5.98,0.248,Walmart,oz
-2024-08-09,"Great Value Frozen Appetizers Mini Corn Dogs, 26.8 oz, 40 Count (Frozen)",6.97,0.26,Walmart,oz
-2024-08-09,"Yoplait Original Strawberry Low Fat Yogurt, 6 oz Yogurt Cup",0.72,0.12,Walmart,oz
-2024-08-09,"Great Value, Jumbo White Eggs, 12 Count",2.73,0.228,Walmart,count
-2024-08-09,"Sunbeam Giant White Bread, Sliced Sandwich Bread Loaf, 24 oz",3.64,0.152,Walmart,oz
-2024-08-09,"Great Value Hot Dog Chili Sauce, 10.5 oz",0.78,0.074,Walmart,oz
-2024-08-09,"Diet Dr Pepper Soda Pop, 2 L, Bottle",2.12,0.031,Walmart,fl oz
-2024-08-09,"Fresh Green Kale Bunch, Each",1.24,N/A,Walmart,N/A
-2024-08-09,"Nature's Own Perfectly Crafted Brioche Style Hamburger Buns, 8 Count, 18 Ounce",3.67,0.204,Walmart,oz
-2024-08-09,"Great Value Butter Flavor Syrup, 24 fl oz",2.36,0.098,Walmart,fl oz
-2024-08-09,"Marketside Organic Fresh Romaine Lettuce Hearts, 3 Pack",3.76,0.313,Walmart,oz
-2024-08-09,"Silk Dairy Free, Gluten Free, Vanilla Almond Milk, 64 fl oz Half Gallon",2.98,0.047,Walmart,fl oz
-2024-08-09,"Yoplait Original French Vanilla Low Fat Yogurt, 6 oz Yogurt Cup",0.72,0.12,Walmart,oz
-2024-08-09,"Pillsbury Toaster Strudel Pastries, Strawberry, 12 ct, 23.4 oz",4.97,0.212,Walmart,oz
-2024-08-09,"Pepsi Soda Pop, 16.9 fl oz, 6 Pack",11.6,0.114,Walmart,fl oz
-2024-08-09,"Kraft Real Mayo Creamy & Smooth Mayonnaise, for a Keto and Low Carb Lifestyle, 30 fl oz Jar",6.84,0.228,Walmart,fl oz
-2024-08-09,"John Soules Foods, Cooked, Refrigerated, All Natural Seasoned Rotisserie Chicken Breast Strips, 8 oz",4.88,9.76,Walmart,lb
-2024-08-09,"Great Value 100% Pasteurized Orange Juice with No Pulp, 52 fl oz",3.48,0.067,Walmart,fl oz
-2024-08-09,"Healthy Choice Caf Steamers Beef Teriyaki, Frozen Meal, 9.5 oz (frozen)",2.96,0.312,Walmart,oz
-2024-08-09,"Great Value Homestyle Vanilla Flavored Ice Cream, 48 fl oz",2.78,0.058,Walmart,fl oz
-2024-08-09,"Hidden Valley Gluten Free Original Ranch Salad Dressing and Topping, 24 fl oz",5.28,0.22,Walmart,fl oz
-2024-08-09,"Great Value Canned Diced Potatoes, Gluten-Free, 15 oz Can",0.96,0.064,Walmart,oz
-2024-08-09,"New York Bakery The Original Texas Toast Five Cheese, 8 Slices, 13.5 Ounce Box",3.76,0.279,Walmart,oz
-2024-08-09,"Nestle Coffee Mate French Vanilla Liquid Coffee Creamer, 32 fl oz Bottle",4.26,0.118,Walmart,fl oz
-2024-08-09,"Great Value Hamburger Dill Chip Pickles, 32 fl oz",2.47,0.077,Walmart,fl oz
-2024-08-09,"Great Value Creme Filled Swiss Rolls Snack Cakes, 13 oz, 6 Count",1.98,0.152,Walmart,oz
-2024-08-09,"Pillsbury Ready to Bake Refrigerated Chocolate Chip Cookie Dough, 24 Cookies, 16 oz",3.86,0.241,Walmart,oz
-2024-08-09,"Tombstone Frozen Pizza, Pepperoni Original Thin Crust Pizza with Marinara Sauce, 19.3 oz (Frozen)",4.82,0.25,Walmart,oz
-2024-08-09,"Freshness Guaranteed Chocolate Chip Bakery Cookies, 14 oz, 10 Count",2.98,0.213,Walmart,oz
-2024-08-09,"Campbells Condensed Chicken Noodle Soup, 10.75 oz Can, 4 Count",4.78,0.111,Walmart,oz
-2024-08-09,"Great Value Ground Black Pepper, 3 oz",3.12,1.04,Walmart,oz
-2024-08-09,"Great Value Oats & Honey Granola, 11 oz",2.67,0.243,Walmart,oz
-2024-08-09,"Pringles Snack Stacks Variety Pack Potato Crisps Chips, Lunch Snacks, 27 Count",13.98,0.717,Walmart,oz
-2024-08-09,"Fresh Yellow Nectarine, Each",1.19,2.98,Walmart,lb
-2024-08-09,"Banquet Brown 'N Serve Original Fully Cooked Sausage Links Frozen Meat, 6.4 oz, 10 Count (Frozen)",1.78,4.45,Walmart,lb
-2024-08-09,"Great Value Fully Cooked Homestyle Meatballs, 32 oz (Frozen)",7.47,0.233,Walmart,oz
-2024-08-09,"Great Value Pepper Jack Cheese, 8 oz Block (Plastic Packaging)",1.97,0.246,Walmart,oz
-2024-08-09,"Maruchan Ramen Noodle Soup Picante Chicken Flavor, 3 oz Shelf Stable Package",0.3,0.067,Walmart,oz
-2024-08-09,"Marketside Organic Grass-Fed Ground Beef, 93% Lean/7% Fat, 1 lb",7.84,7.84,Walmart,lb
-2024-08-09,"Great Value Strawberry Cream Cheese Spread, 8 oz Tub",2.12,0.265,Walmart,oz
-2024-08-09,"Tyson Perfectly Crispy Chicken Strips, 2.5 lb Bag (Frozen)",12.44,4.98,Walmart,lb
-2024-08-09,"Carl Buddig Gluten Free Beef Plastic Pouch, 2 oz",0.83,6.39,Walmart,lb
-2024-08-09,"Sara Lee Delightful White Bread, 15 oz, Soft White Bread, Bag",3.44,0.229,Walmart,oz
-2024-08-09,"Chobani Non-Fat Greek Yogurt, Peanut Butter Cup 4.5 oz Cup",1.38,0.307,Walmart,oz
-2024-08-09,"Great Value No Sugar Added Canned Sliced Pears, 14.5 oz",1.48,0.102,Walmart,oz
-2024-08-09,"Jimmy Dean Eggs Potatoes Bacon & Cheddar Cheese Breakfast Bowl, 7 oz (Frozen)",2.97,0.381,Walmart,oz
-2024-08-09,"Oikos Triple Zero 15g Protein, 0 Added Sugar, Fat Free Vanilla Greek Yogurt Cups, 5.3 oz, 4 Count",4.38,0.207,Walmart,oz
-2024-08-09,"Great Value Mozzarella String Cheese Sticks, 12 oz Bag, 12 Count (Refrigerated)",2.97,0.248,Walmart,oz
-2024-08-09,"Great Value Pizza Sauce, 14 oz",1.52,0.109,Walmart,oz
-2024-08-09,"Gatorade Zero Sugar Thirst Quencher Variety Pack, Berry/Glacier Cherry/Glacier Freeze Sports Drinks, 12 fl oz, 18 Count Bottles",10.98,0.051,Walmart,fl oz
-2024-08-09,"Sprite Lemon Lime Soda Pop, 16.9 fl oz, 6 Pack Bottles",5.18,0.051,Walmart,fl oz
-2024-08-09,"Totino's Party Pizza, Triple Cheese, Frozen Snacks, 1 Ct, 9.8 oz",1.97,0.201,Walmart,oz
-2024-08-09,"Great Value Buttery Smooth Club Crackers, 13.7 oz",2.98,0.218,Walmart,oz
-2024-08-09,"McCormick No Artificial Flavors Au Jus Gravy Seasoning Mix, 1 oz Envelope",1.56,1.56,Walmart,oz
-2024-08-09,"Great Value Sliced Olives, 3.8 oz",1.74,0.458,Walmart,oz
-2024-08-09,"Wright Brand, Hickory, Real Wood Smoked Thick Cut Bacon, 24 oz",10.98,7.32,Walmart,lb
-2024-08-09,"Great Value Sliced Yellow Cling Peaches in 100% Juice, 14.75 oz Can",1.48,0.099,Walmart,oz
-2024-08-09,"Great Value Frozen Deluxe Stir Fry, Mixed Vegetables, 20 oz Bag",2.48,0.124,Walmart,oz
-2024-08-09,"Old El Paso Traditional Canned Refried Beans, 16 oz.",1.88,0.118,Walmart,oz
-2024-08-09,"Great Value Vanilla Ice Cream, 1 Gal",6.84,0.053,Walmart,fl oz
-2024-08-09,"Fruit Roll-Ups Fruit Flavored Snacks, Variety Pack, Pouches, 10 ct",2.97,0.594,Walmart,oz
-2024-08-09,"Great Value Worcestershire Sauce, 10 fl oz (Regular)",1.12,0.112,Walmart,fl oz
-2024-08-09,"HORMEL, Turkey Pepperoni, Pizza Topping, Gluten Free, Original, Refrigerated, 5 Oz Bag",3.97,12.81,Walmart,lb
-2024-08-09,"International Delight Caramel Macchiato Coffee Creamer, 32 fl oz Bottle",3.97,0.124,Walmart,fl oz
-2024-08-09,"Velveeta Slices Original Cheese, 24 Ct Pk",3.88,0.243,Walmart,oz
-2024-08-09,"Pork Center Cut Loin Chops Thin Boneless, 1.0 - 2.2 lb Tray",8.53,6.18,Walmart,lb
-2024-08-09,"Great Value Light Red Kidney Beans, 15.5 oz",0.86,0.055,Walmart,oz
-2024-08-09,"Great Value Cheddar & Sour Cream Potato Chips Party Size!, 13 oz",3.18,0.22,Walmart,oz
-2024-08-09,"Great Value Disposable Paper Napkins, White, 500 Count",3.32,0.664,Walmart,100
-2024-08-09,"Kraft Spirals Original Mac N Cheese Macaroni and Cheese Dinner, 5.5 oz Box",1.24,0.225,Walmart,oz
-2024-08-09,"Go-GURT SpongeBob SquarePants Kids Fat Free Yogurt Variety Pack, 2 oz Yogurt Tubes (16 Ct)",4.97,0.155,Walmart,oz
-2024-08-09,"Bomb Pop Original Freeze Ice Pops, Frozen Freezer Dessert, 21 fl oz, 12 Pack",3.52,0.141,Walmart,fl oz
-2024-08-09,"Hunt's Tomato Sauce, 8 oz Can",0.67,0.084,Walmart,oz
-2024-08-09,"Silk Dairy Free, Gluten Free, Unsweet Almond Milk, 64 fl oz Half Gallon",2.98,0.047,Walmart,fl oz
-2024-08-09,Great Value Frozen 10oz Chopped Onions,1.46,0.146,Walmart,oz
-2024-08-09,"All Natural* 80% Lean/20% Fat Ground Beef Chuck, 5 lb Roll",22.63,4.53,Walmart,lb
-2024-08-09,"SUNNYD Tangy Original Orange Juice Drink, 18 Count, 6.75 FL OZ Bottles",6.44,0.053,Walmart,fl oz
-2024-08-09,"Snapps Frozen Appetizers Mozzarella Cheese Sticks, 5 oz Cardboard Box",1.24,0.248,Walmart,oz
-2024-08-09,"Taylor Farms Caesar Mini Salad Kit, 4.42 oz Bag, Fresh",1.98,0.448,Walmart,oz
-2024-08-09,"Banquet Brown 'N Serve Turkey Sausage Links, 6.4 oz (Frozen)",1.78,4.45,Walmart,lb
-2024-08-09,"Carl Buddig Gluten Free Smoked Turkey Breast Lunchmeat 2 oz Plastic Pouch,  8 grams of Protein per Serving",0.83,6.39,Walmart,lb
-2024-08-09,"Marketside Classic Iceberg Salad, 24 oz Bag, Fresh",3.14,0.131,Walmart,oz
-2024-08-09,"Great Value Tomato Sauce, 29 oz",1.48,0.051,Walmart,oz
-2024-08-09,"Cheerios, Heart Healthy Gluten Free Breakfast Cereal, Family Size, 18 oz",4.93,0.247,Walmart,oz
-2024-08-09,"Lay's Classic Potato Snack Chips, 1 oz Bags, 10 Count Multipack",6.48,0.548,Walmart,oz
-2024-08-09,"Diet Mountain Dew Citrus Soda Pop, 12 fl oz, 24 Pack Cans",11.98,0.042,Walmart,fl oz
-2024-08-09,"Kellogg's Froot Loops Original Cold Breakfast Cereal, Single Serve, 1.5 oz Cup",1.28,0.667,Walmart,oz
-2024-08-09,"Goya Tomato Sauce, 8-Ounce Units",0.68,0.085,Walmart,oz
-2024-08-09,"Stouffer's Classic Ketchup Glazed Meatloaf Meal, 9.875 oz (Frozen)",3.48,0.352,Walmart,oz
-2024-08-09,"Hershey's Chocolate Syrup, Bottle 24 oz",3.62,0.151,Walmart,oz
-2024-08-09,"Taylor Farms Caesar Salad with Bacon and Chicken, 5.75oz, 1 Each (Fresh)",2.97,0.517,Walmart,oz
-2024-08-09,"Daisy Pure and Natural Sour Cream, 24 oz (1.5 lb) Tub (Refrigerated)",3.48,0.145,Walmart,oz
-2024-08-09,"Great Value Deli Style Low-Moisture Part-Skim Sliced Mozzarella Cheese, 8 oz, 12 Count",2.24,0.28,Walmart,oz
-2024-08-09,Idahoan Four Cheese Mashed Potatoes,1.44,0.36,Walmart,oz
-2024-08-09,"Great Value Small Fajita Flour Tortillas, 26 oz, 20 Count",2.12,0.082,Walmart,oz
-2024-08-09,"Rice-A-Roni Chicken Broth and Herbs Flavor Rice & Vermicelli Packaged Meal, Shelf-Stable 6.9 oz Box",1.48,0.214,Walmart,oz
-2024-08-09,"Great Value Tomato Condensed Soup, 10.75 oz",0.68,0.063,Walmart,oz
-2024-08-09,"Great Value Crushed Tomatoes with Tomato Puree, 28 oz",1.52,0.054,Walmart,oz
-2024-08-09,Clear American 1l Blackberry Lemonade,0.78,0.023,Walmart,fl oz
-2024-08-09,"Minute White Rice, Microwaveable Rice Cups, 4.4 oz, 2 Count",0.1,0.011,Walmart,oz
-2024-08-09,"Annie's White Cheddar Shells Macaroni & Cheese Dinner with Organic Pasta, 6 OZ",6.12,0.24,Walmart,oz
-2024-08-09,"Great Value Canola Oil, 48 fl oz",4.12,0.086,Walmart,fl oz
-2024-08-09,"Yoplait Whips Reduced Fat Yogurt Mousse, Strawberry Mist Flavored, 4 OZ Yogurt Cup",0.72,0.18,Walmart,oz
-2024-08-09,"Nissin Original Premium Teriyaki Chicken Flavor Chow Mein Noodles, 4 oz",1.75,0.123,Walmart,oz
-2024-08-09,"Great Value Mini Semi-Sweet Chocolate Baking Chips, 12 oz Bag",2.97,0.248,Walmart,oz
-2024-08-09,"Great Value Tomato Ketchup, 64 oz",2.98,0.047,Walmart,oz
-2024-08-09,"Great Value Fruit & Grain Cereal Bars, Strawberry, 1.3 oz, 8 Count",2.27,0.218,Walmart,oz
-2024-08-09,"Banquet Brown 'N Serve Original Fully Cooked Sausage Links Frozen Meat, 32 oz, About 50 Count* (Frozen)",6.98,3.49,Walmart,lb
-2024-08-09,Checkers/Rally's Famous Seasoned Fries 28 oz,4.86,0.174,Walmart,oz
-2024-08-09,"Eggo Homestyle Waffles, Frozen Breakfast, 29.6 oz, 24 Count",5.97,0.202,Walmart,oz
-2024-08-09,"Tortilla Land Ready to Cook Soft Taco Size Flour Tortillas, 30 oz, 18 Count",4.47,0.149,Walmart,oz
-2024-08-09,"Great Value Shredded Low-Moisture Part-Skim Mozzarella Cheese, 8 oz",2.24,0.28,Walmart,oz
-2024-08-09,"Great Value Light Sour Cream, 16 oz Tub (Refrigerated)",1.97,0.123,Walmart,oz
-2024-08-09,"Great Value Au Jus Gravy Mix, 1 oz",0.98,0.98,Walmart,oz
-2024-08-09,"Fresh Skinless Atlantic Salmon Portions, 0.95 - 1.2 lb Tray. BAP 4 Star Certified. 23g Protein per 4 oz. (113 g) Serving.",9.86,10.38,Walmart,lb
-2024-08-09,"Beef Lean Stew Meat, 1.0 - 1.5 lb Tray",10.6,8.48,Walmart,lb
-2024-08-09,"Hillshire Snacking Small Plates, Italian Dry Salame, 2.76 oz",3.13,1.13,Walmart,oz
-2024-08-09,"Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, 12 oz Cereal Box",3.48,0.29,Walmart,oz
-2024-08-09,"Pop-Tarts Frosted Brown Sugar Cinnamon Toaster Pastries, Shelf-Stable, Ready-to-Eat, Instant, 16 Count Box",4.88,0.181,Walmart,oz
-2024-08-09,"Great Value Frozen Corn on the Cob, Microwaveable, 6 Ct",2.0,0.111,Walmart,oz
-2024-08-09,"Great Value Marshmallows, 10 oz Bag",1.17,0.117,Walmart,oz
-2024-08-09,"Great Value Multi Grain Bread, 24 oz",2.57,0.107,Walmart,oz
-2024-08-09,"Progresso Rich & Hearty, Chicken & Homestyle Noodle Canned Soup, 19 oz.",2.38,0.125,Walmart,oz
-2024-08-09,"Guerrero White Corn Tortillas, 4.16 lbs, 80 Count",3.98,0.06,Walmart,oz
-2024-08-09,"Great Value 4% Milkfat Minimum Large Curd Cottage Cheese, 24 oz",2.94,0.123,Walmart,oz
-2024-08-09,"Great Value Diet Mountain Lightning, 2 L Bottle",1.48,0.015,Walmart,fl oz
-2024-08-09,"Banquet Spaghetti and Meatballs, Frozen Meal, 10 oz (Frozen)",1.68,0.168,Walmart,oz
-2024-08-09,"Clear American Ice Black Raspberry Sparkling Juice, 17 Fl Oz Bottle",0.66,0.039,Walmart,fl oz
-2024-08-09,"Great Value Finely Shredded Sharp Cheddar Cheese, 32 oz",7.47,0.233,Walmart,oz
-2024-08-09,"Sargento Sliced Sharp Natural Cheddar Cheese, 11 slices",2.97,0.371,Walmart,oz
-2024-08-09,"Clear American Sparkling Water, White Grape, 33.8 fl oz",0.78,0.023,Walmart,fl oz
-2024-08-09,"Victor Allen's Coffee Caramel Macchiato Flavored, Medium Roast, 42 Count, Single Serve Coffee Pods for Keurig K-Cup Brewers",26.47,0.63,Walmart,ea
-2024-08-09,"Great Value Low-Moisture Part-Skim Mozzarella String Cheese, 24 Sticks, 24 oz Bag",5.64,0.235,Walmart,oz
-2024-08-09,"Great Value Round Top Wheat Bread, 20 oz",1.42,0.071,Walmart,oz
+2024-08-10,Lay's Classic Potato Chips 8 Ounce,3.0,N/A,Walmart,N/A
+2024-08-10,"Lipton Recipe Secrets Onion Dry Soup and Dip Mix, 2 oz, 2 Count Box Regular",1.82,0.91,Walmart,oz
+2024-08-10,"Pepperidge Farm Raisin Cinnamon Swirl Breakfast Bread, 16 oz Loaf",3.47,0.217,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Pure Ground Black Pepper, 1.5 oz Can",2.08,1.39,Walmart,oz
+2024-08-10,"Great Value 100% Apple Juice, 96 fl oz",2.84,0.03,Walmart,fl oz
+2024-08-10,"Knorr No Artificial Flavors Cheddar Broccoli Parboiled Rice, 5.7 oz Regular Pouch",1.28,0.225,Walmart,oz
+2024-08-10,"Great Value Concord Grape Jelly, 30 oz",2.74,0.091,Walmart,oz
+2024-08-10,"Fritos Scoops! Original Corn Chips, 9.25 Oz.",4.48,0.484,Walmart,oz
+2024-08-10,"Fritos Regular Corn Chips, 9.25 oz",4.48,0.484,Walmart,oz
+2024-08-10,"Great Value Fudge-Covered Peanut Butter-Filled Cookies, 9.5 oz",2.12,0.223,Walmart,oz
+2024-08-10,"Great Value Vegetable Oil, 1 Gallon",9.12,0.071,Walmart,fl oz
+2024-08-10,"Great Value Buttery Smooth Club Crackers, 13.7 oz",2.98,0.218,Walmart,oz
+2024-08-10,OREO ORIGINAL DOUBLE STUF COOKIES FAMILY SIZE 18.71 OZ,4.88,0.261,Walmart,oz
+2024-08-10,"Great Value Creamy Peanut Butter, Spread, 64 oz",6.47,0.101,Walmart,oz
+2024-08-10,"Cheetos Crunchy Cheese Flavored Snack Chips, 8.5 oz Bag",4.48,N/A,Walmart,N/A
+2024-08-10,"Great Value Fruit & Cream Variety Instant Oatmeal Value Pack, 1.05 oz, 20 Packets",3.56,0.169,Walmart,oz
+2024-08-10,"Tostitos Bite Size Tortilla Round Chips, 12 oz bag",4.48,0.373,Walmart,oz
+2024-08-10,"Lay's Classic Potato Snack Chips, Party Size, 13 oz Bag",5.44,0.418,Walmart,oz
+2024-08-10,"Lay's Wavy Potato Chips, Original Flavor, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Cheddar Broccoli Pasta Sides Ready Meals, 10 Minute Cook Time, 4.3 oz",1.28,0.298,Walmart,oz
+2024-08-10,"Great Value Hamburger Dill Chip Pickles, 32 fl oz",2.47,0.077,Walmart,fl oz
+2024-08-10,"Great Value Mini Pretzel Twists, 16 oz",2.24,0.14,Walmart,oz
+2024-08-10,"Great Value Unsalted Tops Saltine Crackers, 16 oz, 4 Count",1.74,0.109,Walmart,oz
+2024-08-10,"OREO Chocolate Sandwich Cookies, 13.29 oz",3.98,0.299,Walmart,oz
+2024-08-10,"Great Value Canned Diced Potatoes, Gluten-Free, 15 oz Can",0.96,0.064,Walmart,oz
+2024-08-10,"Lay's Potato Chips, Lightly Salted Classic Flavor, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Chunk Chicken Breast, 12.5 Ounce Can (4 Pack)",8.72,2.79,Walmart,lb
+2024-08-10,"Great Value White Cranberry Strawberry Juice Cocktail, 64 fl oz",2.98,0.047,Walmart,fl oz
+2024-08-10,"Great Value All-Purpose Enriched Flour, 5LB Bag",2.38,0.03,Walmart,oz
+2024-08-10,"Campbells Pork and Beans, 11 oz Can",0.86,0.078,Walmart,oz
+2024-08-10,"Great Value Lightly Salted, Deluxe Mixed Nuts, 15.25 oz",8.98,0.589,Walmart,oz
+2024-08-10,"Lay's Wavy Potato Chips, Hickory BBQ Flavor, 7.5 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"PLANTERS Salted Dry Roasted Peanuts, Party Snacks, Plant Based Protein 16oz (1 Jar)",2.98,0.186,Walmart,oz
+2024-08-10,"Great Value Original Syrup, Family Size, 36 fl oz",3.12,0.087,Walmart,fl oz
+2024-08-10,"Lipton Recipe Secrets Beefy Onion Dry Soup and Dip Mix, 2 Count Regular Box",1.82,0.827,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Chicken Fried Rice Cooks in 7 Minutes, 5.7 oz Regular Pouch",1.28,0.225,Walmart,oz
+2024-08-10,"Great Value Grated Parmesan Cheese, 16 oz Bottle",5.48,0.343,Walmart,oz
+2024-08-10,"Great Value Raisin Bran Breakfast Cereal, 18.7 oz",2.76,0.148,Walmart,oz
+2024-08-10,"Great Value 100% Orange Juice, 10 fl oz, 6 Count",4.74,0.079,Walmart,fl oz
+2024-08-10,"Cheetos Cheese Puff Chips, 13.5oz Party Bag",5.94,N/A,Walmart,N/A
+2024-08-10,Lay's Dill Pickle Potato Chips 7.75 oz. Bag,3.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Fudge Mint Cookies, 10 oz",2.12,0.212,Walmart,oz
+2024-08-10,"Great Value Ground Black Pepper, 3 oz",3.12,1.04,Walmart,oz
+2024-08-10,"ROLD GOLD Tiny Pretzel Twists, 16 Oz",3.98,0.249,Walmart,oz
+2024-08-10,"Lay's Stax Sour Cream & Onion Potato Crisps, 5.5 oz Bag",2.47,N/A,Walmart,N/A
+2024-08-10,"Lipton Soup Secrets Extra Egg Noodle Chicken Flavor Broth Dry Soup Mix, 2 Count Box Regular",1.82,0.371,Walmart,oz
+2024-08-10,"Pepperidge Farm Swirl Cinnamon Breakfast Bread, 16 oz. Loaf",3.47,0.217,Walmart,oz
+2024-08-10,"Lipton Diet Peach Iced Tea, 16.9 fl oz, 12 Pack Bottles",6.78,0.033,Walmart,fl oz
+2024-08-10,Great Value Fudge Brownie Mix 18.3 oz Box,1.47,0.08,Walmart,oz
+2024-08-10,"Great Value 100% Juice Cranberry Blend, 64 fl oz",3.97,0.062,Walmart,fl oz
+2024-08-10,"Great Value Mayonnaise, 48 fl oz",4.98,0.104,Walmart,fl oz
+2024-08-10,"Great Value Cherry Mixed Fruit, 4 oz, 12 Count",7.24,N/A,Walmart,N/A
+2024-08-10,"Great Value Fruit & Grain Bars, Variety Pack, 41.6 oz, 32 Count",7.44,0.179,Walmart,oz
+2024-08-10,"Fritos Chili Cheese Corn Chips, 9.25 Oz.",4.48,0.484,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Chicken Flavor Rice Cooks in 7 Minutes, 5.6 oz Regular Pouch",1.28,0.229,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Chicken Fettuccine Pasta, 4.3 oz Regular Pouch",1.28,0.298,Walmart,oz
+2024-08-10,"Lay's Potato Chips, Sweet Southern Heat Barbecue Flavor, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Teriyaki Lo Mein Noodles Pasta Sides, 4.6 oz Regular Pouch",1.28,0.278,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Butter and Herb Pasta Sides Ready Meals, 7 Minute Cook Time, 4.4 oz",1.28,0.291,Walmart,oz
+2024-08-10,"Great Value Hazelnut Spread, 26.5 oz",4.97,0.188,Walmart,oz
+2024-08-10,"Lipton Diet Green Tea Citrus Iced Tea, Bottled Tea Drink, 16.9 fl oz, 12 Pack Bottles",6.78,0.033,Walmart,fl oz
+2024-08-10,"Lay's Wavy Original Potato Snack Chips,Party Size, 13 oz Bag",5.44,0.418,Walmart,oz
+2024-08-10,Great Value Whole Grain Quick Rolled Oats,3.98,0.095,Walmart,oz
+2024-08-10,"Tostitos Original Restaurant Style Tortilla Chips, Party Size, 17 oz Bag",5.94,0.349,Walmart,oz
+2024-08-10,"McCormick Mild Taco Seasoning Mix, 1 oz Envelope",0.97,0.97,Walmart,oz
+2024-08-10,Ruffles Potato Chips Cheddar & Sour Cream Flavored 8 oz Bag,4.48,0.56,Walmart,oz
+2024-08-10,"Great Value Secret Sauce for Burgers & Dipping, 12 fl oz Squeeze Bottle",2.28,0.19,Walmart,fl oz
+2024-08-10,"PLANTERS Salted Cashew Halves & Pieces, Party Snacks, Plant-Based Protein 8oz (1 Canister)",5.72,0.715,Walmart,oz
+2024-08-10,"OREO Golden Sandwich Cookies, Family Size, 18.12 oz",4.88,0.269,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Spanish Parboiled Rice Cooks in 7 Minutes, 5.6 oz Regular Pouch",1.28,0.229,Walmart,oz
+2024-08-10,"Lay's Stax Original Potato Chips, 5.5 oz Canister",2.47,N/A,Walmart,N/A
+2024-08-10,"Nestle Toll House Chocolate Chip Cookie Dough, 16.5 oz, Makes 24 Regular Sized Cookies",3.87,0.235,Walmart,oz
+2024-08-10,"Pepperidge Farm Sesame Topped Hamburger Buns, 8-Pack Bag",3.28,0.219,Walmart,oz
+2024-08-10,"Ruffles Original Flavor Potato Snack Chips,Party Size, 13 Ounce Bag",5.94,0.457,Walmart,oz
+2024-08-10,"Lay's Salt & Vinegar Potato Chips, 7.75 Oz.",3.0,N/A,Walmart,N/A
+2024-08-10,"McCormick Classic Beef Stew Seasoning Mix , 1.5 oz Envelope",1.98,1.32,Walmart,oz
+2024-08-10,"Rold Gold Pretzel Sticks Snacks, 16 oz.",3.98,0.249,Walmart,oz
+2024-08-10,"Lay's Baked Original Potato Chips, 6.25 oz Bag",3.98,0.637,Walmart,oz
+2024-08-10,"Lay's Barbeque Potato Snack Chips,Party Size, 12.5 oz.Bag",5.44,0.435,Walmart,oz
+2024-08-10,"Lipton Tea Bags, Black Tea, Can Help Support a Healthy Heart, 100 Black Tea Bags, Pack of 6",0.0,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Farmhouse Butter Bread, 22 oz Loaf",3.84,0.175,Walmart,oz
+2024-08-10,"Pepperidge Farm Chessmen Butter Cookies, 7.25 oz Bag (24 Cookies)",3.97,0.548,Walmart,oz
+2024-08-10,"Great Value 100% Whole Grain Old Fashioned Oats, 42 oz",3.98,0.095,Walmart,oz
+2024-08-10,"Great Value Squeezable Strawberry Fruit Spread, 20 oz",2.94,0.147,Walmart,oz
+2024-08-10,"Tostitos Scoops! Tortilla Chips Party Size, 14.5 oz Bag",5.94,0.41,Walmart,oz
+2024-08-10,"Pepperidge Farm White Hot Dog Buns, Top Sliced, 8-Pack Bag",3.28,0.234,Walmart,oz
+2024-08-10,Lay's Barbecue Potato chips 10 ounce Plastic Bag,3.0,N/A,Walmart,N/A
+2024-08-10,"Lay's Wavy Potato Chips, Lightly Salted Original, 7.5 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Herb & Butter Parboiled Rice, 5.4 oz Regular Pouch",1.28,0.237,Walmart,oz
+2024-08-10,"Great Value Original Coffee Creamer, 35.3 oz",5.47,0.155,Walmart,oz
+2024-08-10,"Ruffles Cheddar & Sour Cream Potato Snack Chips,Party Size, 12.5 oz Bag",5.94,0.475,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Alfredo Fettuccine Pasta, 4.4 oz Regular Pouch",1.28,0.291,Walmart,oz
+2024-08-10,"Great Value White Cheddar Cheese Crackers, 12.4 oz",2.48,0.2,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Chicken Broccoli Rice, 5.5 oz Regular Pouch",1.28,0.233,Walmart,oz
+2024-08-10,"Great Value Mountain Trail Mix, 26 oz",5.98,0.23,Walmart,oz
+2024-08-10,"Starbucks Liquid Coffee Creamer, Caramel, Inspired by Caramal Macchiato, 28 fl oz Bottle",5.28,0.189,Walmart,fl oz
+2024-08-10,"Knorr No Artificial Flavors Four Cheese Pasta Sides, 10 Minute Cook Time, 4.1 oz",1.28,0.312,Walmart,oz
+2024-08-10,"Great Value Donut Shop 100% Arabica Medium Roast Ground Coffee Pods, 48 Ct",16.47,0.895,Walmart,oz
+2024-08-10,"Lay's Potato Chips, Sour Cream & Onion Flavor, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Honey Roasted Cashews, 8.25 oz",4.38,0.531,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Garlic Spiral Pasta Cooks in 8 Minutes , 4.4 oz Regular Pouch",1.28,0.291,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Original Country Gravy Mix, 2.64 oz Envelope",1.44,0.554,Walmart,oz
+2024-08-10,"Simply Tostitos Organic Blue Corn Tortilla Chips, 8.25 oz Bag",3.98,0.482,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Hearty White Bread, 24 oz Loaf",3.84,0.16,Walmart,oz
+2024-08-10,Ruffles Potato Chips Original 8.5 oz Bag,4.48,0.527,Walmart,oz
+2024-08-10,"Great Value Apples & Cinnamon Instant Oatmeal, 1.23 oz, 20 Packets",3.56,0.144,Walmart,oz
+2024-08-10,Great Value - 12oz Roast Beef in Broth,3.94,2.63,Walmart,lb
+2024-08-10,"Great Value Maple & Brown Sugar Instant Oatmeal, 1.51 oz, 20 Packets",3.56,0.117,Walmart,oz
+2024-08-10,"Great Value Organic Strained Raw Honey, 16 oz Inverted Plastic Bottle",5.97,0.373,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors 30% Less Sodium Brown Gravy Seasoning Mix, 0.87 oz Envelope",1.08,N/A,Walmart,N/A
+2024-08-10,"Great Value Semi-Sweet Chocolate Chips, 24 oz Bag",5.87,0.245,Walmart,oz
+2024-08-10,"Pepperidge Farm Whole Grain 15 Grain Bread, 24 oz. Loaf",3.84,0.16,Walmart,oz
+2024-08-10,"Knorr Cheesy Cheddar Rotini Cooks in 10 Minutes, 4.3 oz Regular Pouch",1.28,0.298,Walmart,oz
+2024-08-10,"Lay's Honey Barbecue Flavored Potato Chips, 7.75 oz. Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"OREO Thins Chocolate Sandwich Cookies, Family Size, 11.78 oz",4.88,0.414,Walmart,oz
+2024-08-10,"OREO Chocolate Sandwich Cookies, Family Size, 18.12 oz",4.88,0.269,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Mocha Iced Coffee, 9.5 oz, 4 Pack Bottles",8.18,0.215,Walmart,fl oz
+2024-08-10,"Great Value Real Bacon Pieces, 9 oz",5.84,0.649,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Crunchy & Flavorful Salad Toppings, 3.75 oz Bottle",2.42,N/A,Walmart,N/A
+2024-08-10,"Lay's Potato Chips, Cheddar & Sour Cream, 7.75 oz Bag",6.89,0.889,Walmart,oz
+2024-08-10,"Great Value Organic Unrefined Virgin Coconut Oil, 14 fl oz",5.98,0.427,Walmart,fl oz
+2024-08-10,"Great Value 100% Arabica Caramel Medium Roast Coffee Pods, 12 Ct",4.47,1.15,Walmart,oz
+2024-08-10,"OREO Golden Sandwich Cookies, 13.29 oz",3.98,0.299,Walmart,oz
+2024-08-10,"Lipton Soup Secrets Soup Mix Noodle With Real Chicken Broth, 2 ct",1.82,0.404,Walmart,oz
+2024-08-10,"McCormick Mild Chili Seasoning Mix, 1.25 oz Envelope",1.58,1.22,Walmart,oz
+2024-08-10,"Great Value Original Value Size Coffee Creamer, 60 oz",7.96,0.133,Walmart,oz
+2024-08-10,"Lay's Salt & Vinegar Potato Snack Chips,Party Size, 12.5 oz Bag",5.44,0.435,Walmart,oz
+2024-08-10,"Simply Cheetos Puffs Cheese Flavored Snacks, White Cheddar, 8 oz Bag",3.98,0.498,Walmart,oz
+2024-08-10,Fritos Flavor Twists Honey BBQ Corn Snacks 9.25 oz. Bag,4.48,0.484,Walmart,oz
+2024-08-10,"McCormick 30% Less Sodium Mild Taco Seasoning Mix, 1 oz Envelope",0.97,0.97,Walmart,oz
+2024-08-10,"Great Value Blueberry Pie Filling or Topping, 21 oz",3.17,0.151,Walmart,oz
+2024-08-10,"Lay's Kettle Cooked Jalapeno Potato Snack Chips, 8 oz Bag",3.0,0.375,Walmart,oz
+2024-08-10,"Great Value Pure Maple Syrup, 12.5 fl oz",7.98,0.638,Walmart,fl oz
+2024-08-10,"McCormick No Artificial Flavors Chicken Gravy Mix, 0.87 oz Envelope",1.56,1.73,Walmart,oz
+2024-08-10,"Knorr Shelf Stable Chicken Flavor Bouillon, 32 oz Jar",5.98,0.187,Walmart,oz
+2024-08-10,"McCormick Kosher Onion Powder, 2.62 oz Bottle",3.86,1.47,Walmart,oz
+2024-08-10,"Lay's Poppables White Cheddar Flavored Potato Snacks, 5 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"OREO Cakesters Soft Snack Cakes, 5 - 2.02 oz Snack Packs",3.98,0.394,Walmart,oz
+2024-08-10,"Great Value No Calorie Sweetener, 200 Count, 7 oz",4.82,0.689,Walmart,oz
+2024-08-10,"Great Value Fruit Punch Drink Enhancer, 3.11 fl oz",3.96,1.27,Walmart,fl
+2024-08-10,"Great Value Classic Roast Ground Naturally Caffeinated Coffee, 40.3 oz Cannister",12.46,0.309,Walmart,oz
+2024-08-10,"Tostitos Tortilla Chips, Hint of Lime, 11 oz Bag, Snack Chips",4.48,0.407,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Alfredo Broccoli Fettuccine Pasta, 4.5 oz Regular Pouch",1.28,0.284,Walmart,oz
+2024-08-10,"Great Value Omega-3 Trail Mix, 22 oz",7.98,0.363,Walmart,oz
+2024-08-10,"McCormick Vegan Gluten Free Imitation Bacon Bits, 4.4 oz Bottle",2.52,0.573,Walmart,oz
+2024-08-10,Tostitos Scoops Tortilla Chips 10 oz Bag,4.48,0.448,Walmart,oz
+2024-08-10,"Great Value Family Size Minced Garlic in Water, 32 oz Jar",5.42,0.169,Walmart,oz
+2024-08-10,"Lipton Iced Green Tea, Citrus Bottled Tea Drink, 16.9 oz, 12 Bottles",6.78,0.033,Walmart,fl oz
+2024-08-10,"Great Value Pecan Halves, 8 oz",6.34,0.793,Walmart,oz
+2024-08-10,Great Value Woven Wheat Crackers 9z,2.42,0.269,Walmart,oz
+2024-08-10,"OREO Double Stuf Golden Sandwich Cookies, Family Size, 18.71 oz",4.88,0.261,Walmart,oz
+2024-08-10,"Lay's Classic Potato Snack Chips, 1 oz Bags, 10 Count Multipack",6.48,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Parmesan Pasta Sides, 7 Minute Cook Time, 4.3 oz",1.28,0.298,Walmart,oz
+2024-08-10,"Lay's Lightly Salted Classic Potato Snack Chips,Party Size, 12.5 oz Bag",5.44,0.435,Walmart,oz
+2024-08-10,"Lay's Sour Cream & Onion Potato Snack Chips,Party Size, 12.5 oz Bag",5.44,0.435,Walmart,oz
+2024-08-10,"Great Value No Stir Creamy Natural Peanut Butter Spread, 40 oz",3.98,0.1,Walmart,oz
+2024-08-10,"OREO Double Stuf Gluten Free Chocolate Sandwich Cookies, Gluten Free Cookies, 12.47 oz Packs",4.88,0.391,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Chicken Parboiled Rice Cooks in 7 Minutes, 5.7 oz Regular Pouch",1.28,0.225,Walmart,oz
+2024-08-10,"Starbucks Vanilla Latte Iced Espresso Bottled Coffee Drink, 40 Fl Oz",5.98,0.15,Walmart,fl oz
+2024-08-10,"Great Value Original Macaroni & Cheese, 2.05 oz, 8 count",6.98,0.426,Walmart,oz
+2024-08-10,"Great Value Liquid No Calorie Stevia Sweetener, 1.68 fl oz",3.34,1.97,Walmart,fl
+2024-08-10,"McCormick Slow Cooker Savory Pot Roast Seasoning Mix, 1.3 oz Envelope",2.92,2.25,Walmart,oz
+2024-08-10,"Lay's Kettle Cooked Potato Chips, Sea Salt and Vinegar, 8 oz Bag",3.0,0.375,Walmart,oz
+2024-08-10,"Cheetos Crunchy, Flamin' Hot, 8.5oz Bag, Snack Chips (Packagaing may vary)",4.48,N/A,Walmart,N/A
+2024-08-10,"Cheetos, Crunchy Flamin' Hot Limon, Cheese Flavored Snacks, 8.5 oz Bag (Packaging may vary)",4.48,N/A,Walmart,N/A
+2024-08-10,"Great Value French Vanilla Medium Roast Ground Coffee, 12 oz, Bag",4.96,0.413,Walmart,oz
+2024-08-10,"Great Value Donut Shop 100% Arabica Medium Roast Ground Coffee Pods, 96 Ct",24.33,0.659,Walmart,oz
+2024-08-10,"Great Value Melt'n Dip Easy Melt Cheese, 32 oz",5.28,0.165,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Ready-to-Eat in 20 Minutes Vegetable Soup Mix, 1.4 oz Pouch",1.42,1.01,Walmart,oz
+2024-08-10,"McCormick Kosher Ground Cinnamon, 2.37 oz Bottle",2.77,1.17,Walmart,oz
+2024-08-10,Starbucks Iced Espresso Beverage Caramel Macchiato 40 Fl Oz,5.98,0.15,Walmart,fl oz
+2024-08-10,"Great Value Chocolate Chip Dipped Chewy Granola Bars Value Pack, 1.1 oz, 20 Count",5.78,0.264,Walmart,oz
+2024-08-10,"McCormick Kosher Garlic Powder, 8.75 oz Bottle",7.2,0.823,Walmart,oz
+2024-08-10,"Tostitos Bite Size Tortilla Chips, 17 oz Bag",5.94,0.349,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Vanilla Iced Coffee, 13.7 oz Bottle",3.28,0.239,Walmart,fl oz
+2024-08-10,"Lay's Kettle Cooked Mesquite BBQ Potato Snack Chips, 8 oz Bag",3.0,0.375,Walmart,oz
+2024-08-10,Ruffles Potato Chips Sour Cream & Onion 8.0 Ounce,4.48,0.56,Walmart,oz
+2024-08-10,"Great Value Pitted Deglet Noor Dates Dried Fruit, 8 oz",3.24,0.405,Walmart,oz
+2024-08-10,"Rold Gold Tiny Twists Cheddar Flavored Pretzels, 10 oz.",3.98,0.398,Walmart,oz
+2024-08-10,"Ruffles Baked Cheddar & Sour Cream Potato Snack Chips,6.25 oz Bag",3.98,0.637,Walmart,oz
+2024-08-10,"McCormick Non-GMO Black Pepper Grinder, 1 oz Bottle",2.13,2.13,Walmart,oz
+2024-08-10,"Great Value 100% Pure Canned Pumpkin, 29 oz Can",2.74,0.094,Walmart,oz
+2024-08-10,"Lay's Potato Chips, Limon Flavor, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Sweetened Coconut Flakes, 14 oz (396g)",2.98,0.213,Walmart,oz
+2024-08-10,"Great Value Organic Chia Seeds, 32 oz",8.88,0.278,Walmart,oz
+2024-08-10,"Lay's Potato Chips, Flamin' Hot Flavor, 7.75 oz Bag",3.48,N/A,Walmart,N/A
+2024-08-10,"Thai Kitchen No Artificial Flavors Gluten Free Unsweetened Coconut Milk, 13.66 fl oz Can",2.98,0.218,Walmart,fl oz
+2024-08-10,"Great Value Granulated No Calorie Sweetener, 9.7 oz",4.94,0.509,Walmart,oz
+2024-08-10,"Great Value Caramel Pecan Medium Roast Coffee Pods, 12 Ct",4.63,1.19,Walmart,oz
+2024-08-10,"Lay's Kettle Sea Salt & Cracked Pepper Cooked Potato Chips, 8 oz Bag",3.0,0.375,Walmart,oz
+2024-08-10,"Great Value Donut Shop Decaf Ground Coffee Pods, 12 Ct",4.47,1.21,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Mocha Iced Coffee Drink, 13.7 fl oz Bottle",3.28,0.239,Walmart,fl oz
+2024-08-10,"Lay's Poppables Sea Salt Potato Snacks, 5 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Starbucks Doubleshot Energy, Vanilla Coffee, 15 fl oz, Canned Coffee Drink, Cow milk",3.24,0.216,Walmart,fl oz
+2024-08-10,"Starbucks Iced Coffee Unsweetened Medium Roast, 48 fl oz",5.98,0.125,Walmart,fl oz
+2024-08-10,"Knorr No Artificial Flavors Creamy Taco Spanish Rice Sides, 5.4 oz Regular Pouch",4.0,0.741,Walmart,ounces
+2024-08-10,"OREO Mega Stuf Chocolate Sandwich Cookies, Party Size, 1 lb 9.35 oz",5.98,0.236,Walmart,oz
+2024-08-10,"Great Value Donut Shop 100% Arabica Medium Ground Naturally Caffeinated Coffee, 30.5 oz",10.88,0.357,Walmart,oz
+2024-08-10,"McCormick Non-GMO Gluten Free Pure Vanilla Extract, 2 fl oz Box",6.97,3.49,Walmart,fl
+2024-08-10,"Fritos Scoops! Corn Snacks, Party Size, 15.5 oz Bag",5.94,0.383,Walmart,oz
+2024-08-10,"OREO Mini Chocolate Sandwich Cookies, School Snacks, 12 Snack Packs",6.72,N/A,Walmart,N/A
+2024-08-10,Lipton Sweetined Ice Tea Lemon 28 QT,8.47,0.128,Walmart,oz
+2024-08-10,"Pepperidge Farm Puff Pastry Frozen Pastry Dough Sheets, 2-Count, 17.3 oz. Box",6.24,0.361,Walmart,oz
+2024-08-10,"Starbucks Liquid Coffee Creamer, White Chocolate, Inspired by White Chocolate Mocha, 28 fl oz Bottle",5.28,0.189,Walmart,fl oz
+2024-08-10,"Great Value Deluxe Whole Cashews, 30 oz",13.94,0.465,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Caramel Iced Coffee, 9.5 oz, 4 Pack Bottles",8.18,0.215,Walmart,fl oz
+2024-08-10,Starbucks Iced Coffee Premium Coffee Beverage Unsweetened Blonde Roast 48 fl oz Bottle,5.98,0.125,Walmart,fl oz
+2024-08-10,"Great Value, Pure Maple Syrup, 32 fl oz",15.98,0.499,Walmart,fl oz
+2024-08-10,"Starbucks Frappuccino Vanilla Chilled Coffee Drink, 9.5 fl oz, 4 count",8.18,0.215,Walmart,fl oz
+2024-08-10,"OREO Chocolate Sandwich Cookies, 12 Snack Packs",6.72,N/A,Walmart,N/A
+2024-08-10,"Lay's Stax Cheddar Flavor Potato Snack Chips, 5.5 Ounce Canister",2.47,N/A,Walmart,N/A
+2024-08-10,"Great Value 100% Arabica French Dark Roast Ground Coffee Pods, 12 Ct",4.47,1.09,Walmart,oz
+2024-08-10,"Great Value Cajun Trail Mix, 27 oz",5.98,0.221,Walmart,oz
+2024-08-10,"Starbucks Pink Drink Strawberry Acai with Coconut Milk Beverage, 14 fl oz",3.28,0.234,Walmart,fl oz
+2024-08-10,"Great Value Diced Yellow Cling Peaches in 100% Juice, 4 oz, 12 Count",7.24,N/A,Walmart,N/A
+2024-08-10,"Starbucks By Nespresso Vertuo Coffee Capsules, Pike Place Roast, Medium Roast Nespresso Espresso Pods, 1 Box  (8 Pods)",10.98,3.12,Walmart,oz
+2024-08-10,"Great Value Pine Nuts, 4 oz",6.92,1.73,Walmart,oz
+2024-08-10,"Great Value Deluxe Whole Cashews, Unsalted, 16 oz",7.98,0.499,Walmart,oz
+2024-08-10,"OREO Mint Creme Chocolate Sandwich Cookies, Family Size, 18.71 oz",4.88,0.261,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Vertuo Coffee Capsules, Starbucks Blonde Espresso Roast, Nespresso Pods, 1 Box (8 Pods)",10.98,4.59,Walmart,oz
+2024-08-10,Great Value Tangy Fruit Smiles 40 Ct,7.46,0.233,Walmart,oz
+2024-08-10,"Great Value Natural Rainbow Sprinkles, 2.5 oz",1.98,0.792,Walmart,oz
+2024-08-10,"Campbells 100% Tomato Juice, 64 fl oz Bottle",3.56,0.056,Walmart,fl oz
+2024-08-10,"Ruffles Baked Original Potato Crisps, 6.25 oz",3.98,0.637,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Mesquite Marinade, 1.06 oz Envelope",1.36,1.24,Walmart,oz
+2024-08-10,"PLANTERS Deluxe Lightly Salted Whole Cashews, Party Snacks, Plant-Based Protein 18.25oz (1 Canister)",9.98,0.547,Walmart,oz
+2024-08-10,"OREO Mega Stuf Chocolate Sandwich Cookies, Family Size, 17.6 oz",4.88,0.277,Walmart,oz
+2024-08-10,"McCormick All Natural Sea Salt Grinder, 2.12 oz Bottle",2.13,1.01,Walmart,oz
+2024-08-10,"Great Value Green Tea Bags, 2.5 oz, 40 Count",2.68,6.7,Walmart,100
+2024-08-10,"Knorr No Artificial Flavors Stroganoff Mushroom Fettuccine Pasta, 4 oz Regular Pouch",1.28,0.32,Walmart,oz
+2024-08-10,"Great Value Blue Raspberry Drink Enhancer, 3.1 fl oz",3.96,1.28,Walmart,fl
+2024-08-10,"Great Value Chocolate Flavored Candy Coating Almond Bark, 24 oz",3.97,0.165,Walmart,oz
+2024-08-10,"Great Value Kosher Whole Dill Pickles Fresh Pack, 80 fl oz",5.48,0.069,Walmart,fl oz
+2024-08-10,"Great Value 100% Arabica Creamy Hazelnut Medium Roast Arabica Coffee Pods, 12 Ct",4.47,1.15,Walmart,oz
+2024-08-10,"Starbucks Caramel Flavored Almondmilk and Oatmilk Non-Dairy Liquid Coffee Creamer, 28 fl oz Bottle",11.67,0.417,Walmart,fl oz
+2024-08-10,"Starbucks Liquid Coffee Creamer, Zero Added Sugar, Caramel Macchiato Flavor, 28 fl oz Bottle",0.0,N/A,Walmart,N/A
+2024-08-10,Great Value Sam's Choice Black Pepper Refill Bottle,5.62,0.969,Walmart,oz
+2024-08-10,"Great Value Extra Virgin Olive Oil, 51 fl oz",19.52,0.383,Walmart,fl oz
+2024-08-10,"Great Value Peppered Beef Jerky Value Pack, 10 oz",9.98,15.84,Walmart,lb
+2024-08-10,"Great Value Rainbow Sprinkles, 10.5 oz",3.42,0.326,Walmart,oz
+2024-08-10,"Great Value Iced Tea Bags, Gallon Sized, 24 oz, 24 count:",4.94,20.58,Walmart,100
+2024-08-10,"OREO Mini Chocolate Sandwich Cookies, Snak-Saks, 8 oz",2.98,0.373,Walmart,oz
+2024-08-10,"Knorr Granulated Beef Flavor Bouillon Ground, 7.9 oz Jar",2.43,0.308,Walmart,oz
+2024-08-10,"Great Value White Grape, Peach 100% Juice, 64 fl oz",3.97,0.062,Walmart,fl oz
+2024-08-10,"Great Value 100% Arabica Colombian Medium Roast Ground Coffee Pods, 48 Ct",12.47,0.784,Walmart,oz
+2024-08-10,"Tostitos Original Restaurant Style Tortilla Chips, Gluten-Free, 12 oz",4.48,0.373,Walmart,oz
+2024-08-10,"Lay's Poppables Honey BBQ Flavored Potato Snacks, 5 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Lipton Recipe Secrets Onion Mushroom Soup and Dipping Sauce Mix , 2 Count Box Regular",1.82,1.01,Walmart,oz
+2024-08-10,"Starbucks Signature Black Coffee, Bottled Cold Brew Coffee Concentrate Drink, 32 oz",9.48,N/A,Walmart,N/A
+2024-08-10,"Great Value Jasmine Rice, 20 lb",16.97,0.053,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Energy Mocha Coffee Energy Drink, 15 oz Can",3.24,0.216,Walmart,fl oz
+2024-08-10,"PLANTERS Lightly Salted Dry Roasted Peanuts, Party Snacks, Plant Based Protein 16oz (1 Jar)",2.98,0.186,Walmart,oz
+2024-08-10,"Starbucks Pike Place Roast, Medium Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Double Dark Chocolate Cookies, 7.5 oz Bag (15 Cookies)",3.97,0.529,Walmart,oz
+2024-08-10,"Campbell's Sipping Soup, Ready to Serve Creamy Tomato Soup, 11.1 oz Microwavable Cup",2.12,0.191,Walmart,oz
+2024-08-10,"OREO Peanut Butter Creme Chocolate Sandwich Cookies, Family Size, 17 oz",4.88,0.287,Walmart,oz
+2024-08-10,"Lay's Cheddar & Sour Cream Flavored Potato Chips, Party Size, 12.5 oz Bag",5.44,0.435,Walmart,oz
+2024-08-10,"(4 pack) McCormick All Natural Himalayan Pink Salt Grinder, 2.5 oz Bottle",8.52,0.852,Walmart,oz
+2024-08-10,"Pepperidge Farm Whole Grain 100% Whole Wheat Bread, 24 oz. Loaf",3.84,0.16,Walmart,oz
+2024-08-10,"Lipton Raspberry White Tea Iced Tea, Bottled Tea Drink, 16.9 fl oz, 12 Pack Bottles",6.78,0.033,Walmart,fl oz
+2024-08-10,Starbucks Vanilla Latte Creamer Inspired by Vanilla Latte - 28 fl oz,5.28,0.189,Walmart,fl oz
+2024-08-10,"OREO Lemon Creme Sandwich Cookies, Family Size, 18.71 oz",4.88,0.261,Walmart,oz
+2024-08-10,"Great Value Nut & Honey Trail Mix, 26 oz",7.98,0.307,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Caramel Iced Coffee Drink, 13.7 fl oz Bottle",3.28,0.239,Walmart,fl oz
+2024-08-10,"Great Value 100% Arabica Breakfast Blend Medium Roast Ground Coffee Pods, 48 Ct",12.47,0.784,Walmart,oz
+2024-08-10,"Great Value Roasted & Salted Pistachios, 24 oz",9.98,0.416,Walmart,oz
+2024-08-10,"Pepperidge Farm Jewish Rye & Pumpernickel Deli Swirl Bread, 16 oz. Bag",4.38,0.274,Walmart,oz
+2024-08-10,"McCormick All Natural Himalayan Pink Salt Grinder, 2.5 oz Bottle",2.13,0.852,Walmart,oz
+2024-08-10,"Great Value Classic Roast Medium Naturally Caffeinated Ground Coffee, 25.9 oz",9.47,0.366,Walmart,oz
+2024-08-10,"Knorr Rice Sides Cajun Chicken Flavor Rice 100% U.S. Grown Rice No Artificial Flavors or Preservatives, 5.8 oz",1.28,0.221,Walmart,oz
+2024-08-10,"McCormick Enchilada Sauce Mix, 1.5 oz Envelope",1.66,1.11,Walmart,oz
+2024-08-10,Great Value Restaurant Style Pepper Ref,5.62,1.2,Walmart,oz
+2024-08-10,"Lipton Half & Half Lemonade Iced Tea, 16.9 fl oz, 12 Pack Bottles",18.15,0.089,Walmart,fl oz
+2024-08-10,"Ruffles Flamin' Hot Cheddar and Sour Cream Flavored Potato Snack Chips, 8 Ounce Bag (Packaging may vary)",10.32,1.29,Walmart,oz
+2024-08-10,"Knorr Sopa Tomato Based Elbow Pasta Soup Mix, 3.5 oz Pouch",2.5,0.714,Walmart,oz
+2024-08-10,"Great Value, Raw Honey, 32 oz Plastic Inverted Bottle, No Allergens",0.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Complete Blueberry Pancake & Waffle Mix, 28 oz",2.2,0.079,Walmart,oz
+2024-08-10,"McCormick Kosher Ground Cumin, 1.5 oz Bottle",2.52,1.68,Walmart,oz
+2024-08-10,"Knorr Granulated Chicken Flavor Bouillon Ground, 15.9 oz Jar",3.98,0.25,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Butter Pasta Sides, 7 Minute Cook Time, 4.5 oz",1.28,0.284,Walmart,oz
+2024-08-10,"Great Value Deluxe Whole Cashews, Salted, 16 oz",7.98,0.499,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Milk Chocolate Cookies, 6 oz Bag (15 Cookies)",3.97,0.662,Walmart,oz
+2024-08-10,"Fritos Flamin' Hot Flavored Corn Chips, 9.25 oz Bag (Packaging may vary)",4.48,0.484,Walmart,oz
+2024-08-10,"Great Value Himalayan Pink Salt Grinder Refill, 12.5 oz",4.22,0.338,Walmart,oz
+2024-08-10,Ruffles Potato Chips Flamin' Hot Flavored 8.0 Oz,4.48,0.56,Walmart,oz
+2024-08-10,"McCormick Beef Stroganoff Sauce Seasoning Mix, 1.5 oz Envelope",1.98,1.32,Walmart,oz
+2024-08-10,"Fritos Corn Chips, Original, 3.5 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"OREO Birthday Cake Chocolate Sandwich Cookies, Family Size, 17 oz",4.88,0.287,Walmart,oz
+2024-08-10,"Great Value Organic Granulated Cane Sugar, 2 lb",3.14,0.098,Walmart,oz
+2024-08-10,"Campbell's Sipping Soup, Ready to Serve Chicken Soup & Star Shaped Pasta, 10.75 oz Microwavable Cup",2.12,0.197,Walmart,oz
+2024-08-10,"Great Value Tropical Trail Mix, 26 oz",5.98,0.23,Walmart,oz
+2024-08-10,"Pepperidge Farm Frozen Coconut Layer Cake, 19.6 oz. Box",4.24,0.216,Walmart,oz
+2024-08-10,"Thai Kitchen Gluten Free Gluten Free Red Curry Paste, 4 oz Jar",3.98,0.995,Walmart,oz
+2024-08-10,"Great Value Peppermint Soft Puffs Candy, 34.5 oz",8.72,0.253,Walmart,oz
+2024-08-10,Lipton Sweetened Ice Tea Mix Southern Sweet 28 OZ,8.47,0.128,Walmart,oz
+2024-08-10,"Ruffles Simply Sea Salted Potato Snack Chips, 8 Ounce Bag",3.98,0.498,Walmart,oz
+2024-08-10,"Knorr Pasta Sides Buffalo Chicken Flavor Pasta No Artificial Flavors or Preservatives, 4.2 oz",1.28,0.305,Walmart,oz
+2024-08-10,"OREO Mini Chocolate Sandwich Cookies, Go-Paks, 3.5 oz Cup",1.74,0.497,Walmart,oz
+2024-08-10,"STAR WARS OREO Cookies, Special Edition, 10.68 oz",4.88,0.457,Walmart,oz
+2024-08-10,"Knorr Hollandaise Sauce Mix Powder, 0.9 oz Pouch",1.82,2.02,Walmart,oz
+2024-08-10,"Campbell's 100% Tomato Juice, 5.5 fl oz Can, 6 Count",3.16,0.096,Walmart,fl oz
+2024-08-10,"PLANTERS Deluxe Lightly Salted Mixed Nuts, Party Snacks, Plant-Based Protein 15.25oz (1 Canister)",8.98,0.589,Walmart,oz
+2024-08-10,"Great Value Toasted Coconut Cashews, 8.25 oz",4.38,0.531,Walmart,oz
+2024-08-10,"PLANTERS NUT-RITION Wholesome Nut Mix, Mixed Nuts, 7 Count Box",6.28,0.837,Walmart,oz
+2024-08-10,"Knorr Chicken Flavor Bouillon Cubes, 9.3 oz 24 Pack",2.48,0.267,Walmart,oz
+2024-08-10,Lipton Decaffeinated Black Tea Bags,4.27,8.54,Walmart,100
+2024-08-10,"PLANTERS Honey Roasted Peanuts, Sweet and Salty Snacks, Plant-Based Protein, 16 oz Jar",2.98,0.186,Walmart,oz
+2024-08-10,"Pepperidge Farm Sweet Hawaiian Slider Buns, 12-Pack Bag",3.28,0.219,Walmart,oz
+2024-08-10,"Thai Kitchen Non-GMO Gluten Free Gluten Free Unsweetened Coconut Cream, 13.66 fl oz Can",4.68,0.342,Walmart,fl oz
+2024-08-10,"Starbucks Madagascar Vanilla Naturally Flavored, Bottled Cold Brew Coffee Concentrate Drink, 32 oz",9.48,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Farmhouse Homestyle Oat Bread, 24 oz Loaf",3.84,0.16,Walmart,oz
+2024-08-10,"Great Value Lightly Salted, Shelled Pistachios, 12 oz Bag",9.98,0.832,Walmart,oz
+2024-08-10,"Great Value 100% Arabica French Dark Roast Ground Coffee Pods, 48 Ct",16.47,0.986,Walmart,oz
+2024-08-10,"Tostitos Tortilla Chips Crispy Rounds, 12 oz Bag",11.98,0.998,Walmart,oz
+2024-08-10,"Starbucks Iced Coffee, Medium Roast Sweetened, 48 fl oz",6.6,0.138,Walmart,fl oz
+2024-08-10,"Fritos BBQ Chips, 9.25 oz Bag",10.35,1.12,Walmart,oz
+2024-08-10,"Great Value Original Beef Jerky, 5 Packs, 1.25 oz Each",7.88,20.21,Walmart,lb
+2024-08-10,"Starbucks Doubleshot Energy Vanilla Coffee Energy Drink, 11 oz, 4 Pack Cans",7.98,0.181,Walmart,fl oz
+2024-08-10,"OREO Chocolate Creme Chocolate Sandwich Cookies, Family Size, 18.71 oz",4.88,0.261,Walmart,oz
+2024-08-10,"Lipton Family Sized Iced Southern Sweet Black Tea, Caffeinated, Tea Bags 22 Count",4.49,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Creamy Chicken Flavor Broccoli Fettuccine Pasta, 4.2 oz Regular Pouch",1.28,0.305,Walmart,oz
+2024-08-10,"Great Value Classic Decaf Medium Roast Ground Coffee, 11.3 oz",4.24,0.375,Walmart,oz
+2024-08-10,"Knorr Granulated Tomato with Chicken Flavor Soup Mix Bouillon Ground, 32 oz Jar",5.98,2.99,Walmart,lb
+2024-08-10,"Great Value Roasted & Salted Sunflower Kernels, 7 oz",3.98,0.569,Walmart,oz
+2024-08-10,"McCormick Kosher Taco Seasoning, 24 oz Bottle",11.34,0.473,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Vertuo Coffee Capsules, Espresso Roast, Dark Roast Nespresso Pods, 1 Box (10 Pods)",10.98,4.59,Walmart,oz
+2024-08-10,"Knorr Beef Flavor Bouillon Cubes, 8 Pack",1.08,0.348,Walmart,oz
+2024-08-10,Starbucks Frappuccino Iced Coffee 13.7 oz Bottle,3.28,0.239,Walmart,fl oz
+2024-08-10,"Great Value Complete Pancake & Waffle Mix, Extra Fluffy, Original, 5 lbs",4.98,0.062,Walmart,oz
+2024-08-10,"Thai Kitchen Gluten Free Gluten Free Premium Fish Sauce, 6.76 fl oz Bottle",4.28,0.629,Walmart,fl oz
+2024-08-10,"Bob's Red Mill Gluten Free 1-to-1 Baking Flour, 22 oz Shelf Stable Bag",4.87,0.221,Walmart,oz
+2024-08-10,"Great Value Creamy Speculoos Cookie Butter, 14.1 oz",3.98,0.282,Walmart,oz
+2024-08-10,"Great Value Chopped Walnuts, 24 oz",9.3,0.388,Walmart,oz
+2024-08-10,"OREO Gluten Free Golden Sandwich Cookies, Gluten Free Cookies, 12.08 oz",4.88,0.403,Walmart,oz
+2024-08-10,"Great Value Organic Granulated Cane Sugar, 4 lbs",5.77,0.09,Walmart,oz
+2024-08-10,"PLANTERS Salted Mixed Nuts, Party Snacks, Plant-Based Protein 10.3oz (1 Canister)",4.98,0.483,Walmart,oz
+2024-08-10,"Great Value Tex Mex Trail Mix, 22 oz",5.98,0.272,Walmart,oz
+2024-08-10,"OREO Double Stuf Golden Sandwich Cookies, Party Size, 24.95 oz",5.98,0.239,Walmart,fl oz
+2024-08-10,"McCormick Garlic Salt, 5.25 oz Bottle",2.98,0.568,Walmart,oz
+2024-08-10,Great Value Angle Broom with Dustpan,8.23,N/A,Walmart,N/A
+2024-08-10,"Tostitos Tortilla Chips Bite Size Rounds Hint of Lime, 17 oz Bag",5.88,0.346,Walmart,oz
+2024-08-10,"Pepperidge Farm Jewish Rye Seedless Bread, 16 oz. Bag",4.38,0.274,Walmart,oz
+2024-08-10,"Great Value Dried Pinto Beans, 8 lb Bag",6.88,0.054,Walmart,oz
+2024-08-10,"PLANTERS Salted Peanuts, Party Snacks, Plant Based Protein, 10 Ct Box, 1 oz Packs",3.22,0.322,Walmart,oz
+2024-08-10,"Fritos Flavor Twists Corn Snacks Honey BBQ Flavored Snack Chips, 3.5 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"Knorr Pasta Sides Marinara Pasta No Artificial Flavors or Preservatives, 4.4 oz",1.28,0.291,Walmart,oz
+2024-08-10,"Tostitos Tortilla Chips, Lightly Salted, 12 oz Bag",4.48,0.373,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Brown Sugar Bourbon Marinade, 1.25 oz Envelope",1.36,1.09,Walmart,oz
+2024-08-10,"Great Value Peanut Oil, 1 gal",17.16,0.134,Walmart,fl oz
+2024-08-10,"Marketside Pitted Medjool Dates Tub, 9 oz (255g)",5.38,0.598,Walmart,oz
+2024-08-10,"Pepperidge Farm Sausalito Crispy Milk Chocolate Macadamia Nut Cookies, 7.2 oz Bag (8 Cookies)",3.97,0.551,Walmart,oz
+2024-08-10,"Ruffles Flamin' Hot BBQ Flavored Potato Snack Chips, 8 Ounce Bag (Packaging may vary)",4.48,0.56,Walmart,oz
+2024-08-10,"Bai Puna Coconut Pineapple Antioxidant Infused Water Beverage, 18 fl oz, Bottle",1.98,0.11,Walmart,fl oz
+2024-08-10,"Lay's Limon Flavored Potato Chips, Party Size, 12.5 oz Bag",5.44,N/A,Walmart,N/A
+2024-08-10,"Lipton Lemon Iced Tea, 16.9 fl oz, 12 Pack Bottles",17.98,0.089,Walmart,fl oz
+2024-08-10,"Campbell's Beef Gravy, 10.5 oz Can",3.44,0.328,Walmart,oz
+2024-08-10,"Starbucks Caramel Naturally Flavored Coffee, Keurig K-Cup Coffee Pods, 22 Count K Cups",15.98,2.08,Walmart,oz
+2024-08-10,"Great Value Superfine Blanched Almond Flour, 2 lb",10.98,N/A,Walmart,N/A
+2024-08-10,"Starbucks Frappuccino Mocha Iced Coffee Drink, 9.5 fl oz 12 Pack Bottles",21.98,0.193,Walmart,fl oz
+2024-08-10,"Starbucks Caramel Dolce Naturally Flavored, Bottled Cold Brew Coffee Concentrate Drink, 32 oz",9.48,N/A,Walmart,N/A
+2024-08-10,"McCormick Mississippi Roast Instant Pot Seasoning Mix, 1.25 oz Envelope",2.14,1.71,Walmart,oz
+2024-08-10,"Great Value Sliced Almonds, 16 oz",7.68,0.48,Walmart,oz
+2024-08-10,"McCormick White Chicken Chili Seasoning Mix, 1.25 oz Envelope",1.58,1.26,Walmart,oz
+2024-08-10,"Great Value French Roast, 100% Arabica, Dark Roast, Ground Coffee, 12 oz",4.96,0.413,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Crushed Red Pepper, 1.5 oz Bottle",2.18,1.45,Walmart,oz
+2024-08-10,"Great Value Fine Himalayan Pink Salt , 17.6 oz",5.12,0.291,Walmart,oz
+2024-08-10,"OREO Thins Golden Sandwich Cookies, Family Size, 11.78 oz",4.88,0.414,Walmart,oz
+2024-08-10,"Starbucks Espresso & Cream Premium Espresso Beverage, 6.5 fl oz, 4 count",7.98,0.307,Walmart,fl oz
+2024-08-10,(6 Cans) Great Value Canned No Salt Cut Green Beans 14.5 oz,3.84,0.044,Walmart,oz
+2024-08-10,"Great Value Milk Chocolate Hot Cocoa Mix, 12 Ct, Single Serve Cups",4.47,0.721,Walmart,oz
+2024-08-10,"Pepperidge Farm Butter Slider Buns, 12-Pack Bag",3.28,0.219,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Smoky Applewood Marinade, 1 oz Envelope",1.36,1.36,Walmart,oz
+2024-08-10,"Great Value Walnuts Halves & Pieces, 16 oz",7.34,0.459,Walmart,oz
+2024-08-10,"Nestle Hot Cocoa Rich Milk Chocolate Flavored Mix Powder, 27.7 oz, Can",6.62,0.239,Walmart,oz
+2024-08-10,"PLANTERS Lightly Salted Dry Roasted Peanuts, Party Snacks, Plant-Based Protein, 2.16 lb Canister",6.48,N/A,Walmart,N/A
+2024-08-10,"McCormick Grill Mates Smash Burger Seasoning, 2.85 oz Bottle",2.97,N/A,Walmart,N/A
+2024-08-10,"OREO Thins Chocolate Sandwich Cookies, 9.21 oz",3.98,0.432,Walmart,oz
+2024-08-10,"Great Value 100% Arabica French Dark Roast Ground Coffee Pods, 96 Count",24.33,0.726,Walmart,oz
+2024-08-10,"Pepperidge Farm Montauk Soft Baked Milk Chocolate Chunk Cookies, 8.6 oz Bag (8 Cookies)",3.97,0.462,Walmart,oz
+2024-08-10,"Great Value 100% Arabica French Vanilla Medium Roast Ground Coffee Pods, 48 Ct",12.47,0.784,Walmart,oz
+2024-08-10,"Great Value Blanched and Slivered Almonds, 10 oz",6.12,0.612,Walmart,oz
+2024-08-10,"Great Value Poultry Seasoning, 1.5 oz",2.0,1.33,Walmart,oz
+2024-08-10,"Great Value Gummy Bears Candy, 52 oz",6.52,0.125,Walmart,oz
+2024-08-10,"PLANTERS  Whole Cashews Dill Pickle Flavored, Party Snacks,  5oz Bag",3.68,0.736,Walmart,oz
+2024-08-10,"Pepperidge Farm Tahoe Crispy White Chocolate Macadamia Nut Cookies, 7.2 oz Bag (8 Cookies)",3.97,0.551,Walmart,oz
+2024-08-10,"Starbucks Veranda Blend, Blonde Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"Great Value Peppercorn Medley Grinder Refill, 5.3 oz",5.62,1.06,Walmart,oz
+2024-08-10,"Great Value No Calorie Stevia Sweetener, 9.8 oz",5.24,0.535,Walmart,oz
+2024-08-10,"McCormick Kosher Chili Powder, 2.5 oz Bottle",2.26,0.904,Walmart,oz
+2024-08-10,"OREO Thins Lemon Creme Sandwich Cookies, Family Size, 11.78 oz",4.88,0.414,Walmart,oz
+2024-08-10,"McCormick Kosher Oregano Leaves, 0.75 oz Bottle",2.08,2.77,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Baja Citrus Marinade Mix, 1 oz Envelope",1.36,1.36,Walmart,oz
+2024-08-10,"Starbucks, French Dark Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Turkey Gravy Seasoning Mix, 0.87 oz Envelope",3.87,N/A,Walmart,N/A
+2024-08-10,"Ruffles Potato Chips Cheddar & Sour Cream Flavored Snack Chips, 2.5 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"Ruffles Potato Chips Cheddar & Sour Cream Flavored Snack Chips, 1 oz Bag",0.49,0.49,Walmart,oz
+2024-08-10,"Thai Kitchen Non-GMO Gluten Free Coconut Milk, 25.36 fl oz Brick",5.28,0.208,Walmart,fl oz
+2024-08-10,"Pepperidge Farm Jewish Pumpernickel Dark Pump Bread, 16 oz. Loaf",4.38,0.274,Walmart,oz
+2024-08-10,"Nestle Media Crema Lite Table Cream Ideal for Making Sweet and Savory Recipes, Shelf Stable, 7.6 oz Can",2.36,0.311,Walmart,fl oz
+2024-08-10,"Great Value Mild Picante Sauce, 70 oz",5.98,0.085,Walmart,oz
+2024-08-10,"Great Value 100% Arabica Colombian Medium Dark Roast Ground Coffee Pods, 96 Ct",24.33,0.764,Walmart,oz
+2024-08-10,"Pepperidge Farm Verona Strawberry Thumbprint Cookies, 6.75 oz Bag (18 Cookies)",3.97,0.588,Walmart,oz
+2024-08-10,"Starbucks Premium Medium Roast Instant Coffee, 3.17 oz",7.98,2.52,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Potato Bread, 22 oz Loaf",3.84,0.175,Walmart,oz
+2024-08-10,"OREO Chocolate Peanut Butter Pie Sandwich Cookies, Family Size, 17 oz",4.88,0.287,Walmart,oz
+2024-08-10,"McCormick Perfect Pinch Gluten Free Rotisserie Chicken Seasoning, 5 oz Bottle",4.68,0.936,Walmart,oz
+2024-08-10,Starbucks Frappuccino White Chocolate Mocha Iced Coffee Drink 13.7 fl oz Bottle,3.28,0.239,Walmart,fl oz
+2024-08-10,"Great Value Donut Shop, 100% Arabica, Medium Roast, Ground Coffee, 32 oz",10.88,0.34,Walmart,oz
+2024-08-10,"McCormick 30% Less Sodium Meat Loaf Seasoning Mix, 1.25 oz Envelope",1.98,1.58,Walmart,oz
+2024-08-10,"Starbucks Pike Place Roast Medium Roast Ground Coffee, 12-Ounce Bag",8.48,0.707,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Mint Chocolate Cookies, 7 oz Bag (15 Cookies)",3.97,0.567,Walmart,oz
+2024-08-10,"Great Value Breakfast Blend Trail Mix, 22 oz",7.98,0.363,Walmart,oz
+2024-08-10,"Pepperidge Farm Mini Bagels, Plain, 12 Count Bag",4.78,0.281,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Vanilla Iced Coffee Drink, 9.5 fl oz 12 Pack Bottles",21.98,0.193,Walmart,fl oz
+2024-08-10,"Lay's Potato Chips Sweet & Spicy Honey Flavored, 7.75 oz Bag",3.0,N/A,Walmart,N/A
+2024-08-10,"Great Value Peanut Butter Flavored Trail Mix Made with Reese's Pieces, 26 oz",5.98,0.23,Walmart,oz
+2024-08-10,"Pepperidge Farm Santa Cruz Soft Baked Oatmeal Raisin Cookies, 8.6 oz Bag (8 Cookies)",3.97,0.462,Walmart,oz
+2024-08-10,"McCormick Street Taco Carne Asada Seasoning Mix, 0.87 oz Envelope",2.22,2.55,Walmart,oz
+2024-08-10,"PLANTERS Salted Cashew Halves & Pieces, Party Snacks, Plant-Based Protein, 26 Oz Canister",10.98,0.421,Walmart,oz
+2024-08-10,"Knorr Creamy Alfredo Pasta Sauce Mix, 1.6 oz Regular Pouch",1.82,1.14,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Sumatra, Dark Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"Nestle Insant Hot Cocoa Rich Milk Chocolate Flavored Mix Powder, 6.829 oz, 8 Count Box",1.72,0.252,Walmart,oz
+2024-08-10,"Campbell's Sipping Soup, Ready to Serve Chicken & Mini Round Noodle Soup, 10.75 oz Microwavable Cup",2.12,0.197,Walmart,oz
+2024-08-10,"Cheetos Crunchy Cheese Flavored Snack Chips, 3.25 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"Great Value Donut Shop Decaf Ground Coffee Pods, 48 Ct",12.47,0.826,Walmart,oz
+2024-08-10,"Bai Molokai Coconut Antioxidant Infused Water Beverage, 18 fl oz, Bottle",1.78,0.099,Walmart,fl oz
+2024-08-10,"Great Value Balsamic Vinegar of Modena, 8.45 fl oz",3.92,0.461,Walmart,fl oz
+2024-08-10,"PLANTERS Honey Roasted Peanuts, 10 Ct Box, 1 oz Packs",3.22,0.322,Walmart,oz
+2024-08-10,"Great Value Organic Naturally Refined Coconut Oil, 56 fl oz",13.63,0.243,Walmart,fl oz
+2024-08-10,"Great Value Corn Oil, 1 Gallon",11.98,0.094,Walmart,fl oz
+2024-08-10,"Starbucks Arabica Beans Breakfast Blend, Medium Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free 25% Less Sodium Montreal Steak Seasoning, 3.18 oz Bottle",2.33,N/A,Walmart,N/A
+2024-08-10,"Great Value Hazelnut Cappuccino Mix, Single Serve Medium Roast Coffee Pods, 12 Ct",4.47,0.733,Walmart,oz
+2024-08-10,"Great Value Colombian Medium Dark Roast Naturally Caffeinated Ground Coffee, 22.6 oz",9.92,0.439,Walmart,oz
+2024-08-10,"Great Value Organic Unsweetened Applesauce, 3.2 oz, 12 Pouches",7.48,0.196,Walmart,oz
+2024-08-10,"PLANTERS Redskin Spanish Peanuts, Roasted Salted Peanuts, Plant Based Protein 12.5oz (1 Canister)",0.0,N/A,Walmart,N/A
+2024-08-10,"McCormick Bag 'n Season Original Chicken Cooking Bag & Seasoning Mix, 1.25 oz Envelope",2.88,2.3,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Espresso Roast, Dark Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"Starbucks, Breakfast Blend Medium Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,0.165,Walmart,oz
+2024-08-10,"Great Value Chamomile Herbal Tea Bags, 1.41 oz, 40 Ct",3.72,9.3,Walmart,100
+2024-08-10,"Bai Zambia Bing Cherry Antioxidant Infused Water Beverage, 18 fl oz, Bottle",1.78,0.099,Walmart,fl oz
+2024-08-10,"Pepperidge Farm Jewish Rye Seeded Bread, 16 oz Bag",4.38,0.274,Walmart,oz
+2024-08-10,"Bai Molokai Coconut Antioxidant Infused Water Beverage, 14 fl oz, 6 Pack Bottles",8.33,N/A,Walmart,N/A
+2024-08-10,"Great Value Roasted & Salted Shelled Pistachios, 12 oz",9.98,0.832,Walmart,oz
+2024-08-10,"McCormick Slow Cooker Barbecue Pulled Pork Seasoning Mix, 1.6 oz Box",2.92,1.83,Walmart,oz
+2024-08-10,"OREO Double Stuf Golden Sandwich Cookies, 14.03 oz",3.98,0.284,Walmart,oz
+2024-08-10,"Great Value Organic, Golden Blue Agave Sweetener Sugar Substitute, 23.5 oz Bottle",5.82,0.248,Walmart,oz
+2024-08-10,"Starbucks Arabica Coffee Beans Espresso Roast, Dark Roast, Whole Bean Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"PLANTERS Deluxe Salted Mixed Nuts, Party Snacks, Plant-Based Protein 15.25oz (1 Canister)",8.98,0.589,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Espresso Cream Light Coffee Drink, 4 Count, 6.5 fl. oz. Cans",7.98,0.307,Walmart,fl oz
+2024-08-10,"McCormick No Artificial Flavors Brown Gravy Seasoning Mix Bottle, 21 oz Bottle",9.62,0.458,Walmart,oz
+2024-08-10,"OREO Dark Chocolate Crme Chocolate Sandwich Cookies, 1- 17 oz Family Size Packages",4.88,0.287,Walmart,oz
+2024-08-10,"Great Value, Peppermint Herbal Tea, Tea Bags, 40 Ct",3.72,9.3,Walmart,100
+2024-08-10,"McCormick No Artificial Flavors 30% Less Sodium Chicken Gravy Mix, 0.87 oz Envelope",1.56,1.73,Walmart,oz
+2024-08-10,"Pepperidge Farm Italian White Seedless Bread, 20 oz. Bag",3.38,0.169,Walmart,oz
+2024-08-10,"McCormick Slow Cooker Hearty Beef Stew Seasoning Mix, 1.5 oz Envelope",2.92,1.95,Walmart,oz
+2024-08-10,"Campbell's Homestyle Chicken Noodle Soup, 15.4 oz Microwavable Bowl",2.18,0.142,Walmart,oz
+2024-08-10,"Pepperidge Farm Chesapeake Crispy Dark Chocolate Pecan Cookies, 7.2 oz Bag (8 Cookies)",3.97,0.551,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Brioche Bread, 22 oz Loaf",3.84,0.175,Walmart,oz
+2024-08-10,"Knorr No Artificial Flavors Pesto Sauce Dry Spices & Seasonings Mix Ground, 0.5 oz Pouch",1.82,3.64,Walmart,oz
+2024-08-10,"Starbucks Cinnamon Dolce Naturally Flavored Coffee, Keurig K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"Great Value Mediterranean Sea Salt Grinder Refill, 14 oz",4.18,0.299,Walmart,oz
+2024-08-10,"Pepperidge Farm Whole Grain Thin Sliced 15 Grain Bread, 22 oz. Loaf",3.78,0.172,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Double Milk Chocolate Cookies, 7.5 oz Bag (15 Cookies)",7.22,0.963,Walmart,oz
+2024-08-10,"Great Value French Roast Ground, 100% Arabica, Medium Roast, Ground Coffee, 32 oz",10.88,0.34,Walmart,oz
+2024-08-10,"Great Value 100% Arabica Blonde Medium Roast Ground Coffee Pods, 12 Ct",4.47,1.02,Walmart,oz
+2024-08-10,"Great Value Nutritional Yeast Flakes, 5oz",5.12,1.02,Walmart,oz
+2024-08-10,"Great Value Gummy Worms Chewy Candy, 48 oz",6.52,0.136,Walmart,oz
+2024-08-10,"Starbucks Frappuccino Iced Coffee, 9.5 oz, 4 Pack Bottles",8.18,0.215,Walmart,fl oz
+2024-08-10,"McCormick Grill Mates Gluten Free Tomato, Garlic & Basil Marinade Mix, 0.87 oz Envelope",1.36,1.56,Walmart,oz
+2024-08-10,"Lipton Immune Support Diet Pineapple Mango Green Iced Tea 16.9 fl oz, 12 Pack Bottles",18.7,0.092,Walmart,fl oz
+2024-08-10,"Ruffles Potato Chips, Queso, 12.5 oz Bag",0.0,N/A,Walmart,N/A
+2024-08-10,"Lipton Immune Support Pineapple Mango Green Iced Tea 16.9 fl oz, 12 Pack Bottles",16.3,0.08,Walmart,fl oz
+2024-08-10,"Lay's Kettle Cooked Flamin' Hot Flavored Potato Snack Chips, 8 Ounce Bag (Packaging may vary)",9.5,1.19,Walmart,oz
+2024-08-10,"Starbucks Vanilla Sweet Cream Cold Brew Premium Coffee, 40 Fl Oz Bottle",5.98,0.15,Walmart,fl oz
+2024-08-10,"McCormick Kosher Ground Nutmeg, 1.1 oz Bottle",4.62,4.2,Walmart,oz
+2024-08-10,"PLANTERS Deluxe Salted Whole Cashews, Party Snacks, Plant-Based Protein 18.25oz (1 Canister)",9.98,1.21,Walmart,oz
+2024-08-10,"OREO Thins Extra Stuf Chocolate Sandwich Cookies, Family Size, 12.33 oz",4.88,0.396,Walmart,oz
+2024-08-10,"Great Value Gel Food Colors, Classic Colors, 2.7 Ounces",3.88,1.44,Walmart,oz
+2024-08-10,"Great Value Original Cheddar Flavor Cheese Dip, 15 oz",3.98,0.265,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Honey White Bread, 22 oz Loaf",3.84,0.175,Walmart,oz
+2024-08-10,"Great Value Organic Onion Powder, 2.3 oz",4.36,1.9,Walmart,oz
+2024-08-10,"Great Value Chopped Pecans, 16 oz",12.67,0.792,Walmart,oz
+2024-08-10,"Starbucks Caff Verona, Dark Roast Coffee, Keurig K-Cup Coffee Pods, 22 Count K Cups",15.99,N/A,Walmart,N/A
+2024-08-10,"Starbucks, Caramel Medium Roast K-Cup Coffee Pods, 12 Count K Cups",9.98,N/A,Walmart,N/A
+2024-08-10,"Cheetos Puffs Cheese Flavored Snack Chips, 2.625 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"Thai Kitchen Non-GMO Gluten Free Gluten Free Lite Coconut Milk, 13.66 fl oz Can",2.58,0.188,Walmart,fl oz
+2024-08-10,"OREO Thins Mint Creme Chocolate Sandwich Cookies, Family Size, 11.78 oz",4.88,0.414,Walmart,fl oz
+2024-08-10,"Great Value Organic Whole Flax Seed, 22 oz",6.98,0.317,Walmart,oz
+2024-08-10,"Great Value 100% Arabica House Blend Medium Roast Coffee Pods, 12 Ct",4.47,0.972,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Energy Mocha Coffee Energy Drink, 11 oz, 4 Pack Cans",7.48,0.069,Walmart,fl oz
+2024-08-10,"PLANTERS NUT-RITION Heart Healthy Nut Mix, Mixed Nuts, 1 oz Plastic Package (7 Ct 7.5 oz Cardboard Box)",6.28,0.837,Walmart,oz
+2024-08-10,"OREO Lemon Creme Sandwich Cookies, Party Size, 24.95 oz",5.98,0.24,Walmart,oz
+2024-08-10,"Great Value Gel Food Colors, Neon Colors, 2.7 Ounces",3.88,1.44,Walmart,oz
+2024-08-10,"Pepperidge Farm Mini Bagels, Brown Sugar Cinnamon, 17 oz. Bag, 12-Pack",4.78,0.281,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Veranda Blend, Starbucks Blonde Roast Naturally Flavored Ground Coffee, 12 oz",8.48,0.707,Walmart,oz
+2024-08-10,"Great Value Classic Roast Ground Coffee Pods, 48 Count",16.47,1.08,Walmart,oz
+2024-08-10,"Great Value Premium White Chicken, in Lemon Pepper Sauce, 2.6 oz Pouch",1.5,9.38,Walmart,lb
+2024-08-10,"Great Value Decaffeinated Iced Tea, Tea Bags, 48 Ct",5.94,54.0,Walmart,100
+2024-08-10,"Planters Honey Roasted & Salted Peanuts Jar, 34.5 oz",6.48,N/A,Walmart,N/A
+2024-08-10,"Great Value Garlic Parmesan Coating & Seasoning Mix, 4.5oz",2.12,0.471,Walmart,oz
+2024-08-10,"Great Value Instant Nonfat Dry Milk, 25.6 oz Bag, Makes 8 Quarts, 32 Servings per Container",8.43,0.329,Walmart,oz
+2024-08-10,"Great Value Ground Cayenne Red Pepper, 5.2 oz",4.12,0.792,Walmart,oz
+2024-08-10,"Great Value Black Pepper Grinder, 4 oz",5.62,1.41,Walmart,oz
+2024-08-10,"Great Value Organic Cayenne Pepper, 1.7 oz",4.36,2.57,Walmart,oz
+2024-08-10,"Bai Zambia Bing Cherry Antioxidant Infused Water Beverage, 14 fl oz, 6 Pack Bottles",8.33,N/A,Walmart,N/A
+2024-08-10,"Knorr Granulated Beef Bouillon Ground Seasoning, 2.0 lb Jar",5.98,2.99,Walmart,lb
+2024-08-10,"Starbucks Arabica Beans Caff Verona, Dark Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"(4 Pack) Campbell's Homestyle Chicken Noodle Soup, 7 oz Microwavable Bowl",4.98,0.178,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Montreal Steak Marinade Seasoning Mix, 0.71 oz Envelope",1.36,1.92,Walmart,oz
+2024-08-10,"Starbucks Liquid Coffee Creamer, Pumpkin Spice, Inspired by Pumkin Spice Latte, 28 oz Bottle",15.96,0.57,Walmart,fl oz
+2024-08-10,"Starbucks Arabica Beans Pike Place Roast, Medium Roast Ground Coffee, 28 oz",18.99,N/A,Walmart,N/A
+2024-08-10,"Lipton Diet Green Tea Citrus Iced Tea, 64 fl oz Bottle",9.37,0.146,Walmart,fl oz
+2024-08-10,"Knorr Sopa Chicken Noodle Pasta Soup Mix, 3.5 oz Pouch",2.3,0.657,Walmart,oz
+2024-08-10,"Cheetos Crunchy Flamin' Cheese Flavored Snack Chips, 1 oz Bag",0.49,0.49,Walmart,oz
+2024-08-10,"Starbucks Arabica Coffee Beans Pike Place Roast, Medium Roast, Whole Bean Coffee, 28 oz",18.98,0.678,Walmart,oz
+2024-08-10,"Great Value Organic Extra Virgin Olive Oil, 51 fl oz",22.97,0.45,Walmart,fl oz
+2024-08-10,"McCormick Non-GMO Gluten Free Coconut Extract, 2 fl oz Box",4.43,2.22,Walmart,fl
+2024-08-10,"Lipton Secrets Chicken Noodle Soup Mix, 4.2 oz, 2 Pouch Box Regular",1.82,0.433,Walmart,oz
+2024-08-10,"PLANTERS Salted Dry Roasted Peanuts, Party Snacks, Plant Based Protein, 2.16 lb Container",6.48,N/A,Walmart,N/A
+2024-08-10,Starbucks Frappuccino with Oat Milk Caramel Waffle Cookie Iced Coffee Drink 13.7 fl oz Bottle,3.28,0.239,Walmart,fl oz
+2024-08-10,"(4 Pack) Campbell's Creamy Tomato Soup, 7 oz Microwavable Bowl",4.98,0.178,Walmart,oz
+2024-08-10,"Great Value Organic Oregano Leaves, 0.5 oz",4.36,8.72,Walmart,oz
+2024-08-10,"Starbucks, Pike Place Medium Roast K-Cup Coffee Pods, 12 Count K Cups",9.98,N/A,Walmart,N/A
+2024-08-10,"PLANTERS Sweet and Spicy Peanuts, Party Snacks, Plant-Based Protein, 16 oz Jar",2.98,0.186,Walmart,oz
+2024-08-10,"McCormick Perfect Pinch Kosher Italian Seasoning, 1.31 oz Bottle",4.68,3.6,Walmart,oz
+2024-08-10,"Great Value Arabica French Roast Dark Ground Coffee, 24.2 oz",10.88,0.45,Walmart,oz
+2024-08-10,"McCormick Gluten Free Premium Vanilla Flavor, 2 fl oz Box",1.87,0.935,Walmart,fl oz
+2024-08-10,"Great Value 100% Arabica Colombian Medium-Dark Roast Ground Coffee, 32 oz, Bag",9.94,0.311,Walmart,oz
+2024-08-10,"Great Value Decaffeinated Black Tea Bags, 3.1 oz, 48 Count",1.98,3.96,Walmart,100
+2024-08-10,"Great Value Entertainer Collection Coffee Pods Variety Pack, 48 Ct",16.67,0.855,Walmart,oz
+2024-08-10,"(6 Cans) Great Value Canned Mixed Vegetables, 15 oz",4.92,0.055,Walmart,oz
+2024-08-10,"Nestlé® Nestum® Wheat & Honey Cereal, 10.5 oz",3.78,0.36,Walmart,oz
+2024-08-10,Great Value Gv Dill Weed Organic,4.36,7.27,Walmart,oz
+2024-08-10,"Pepperidge Farm Whole Grain Oatmeal Bread, 24 oz. Loaf",3.84,0.16,Walmart,oz
+2024-08-10,"OREO Gluten Free Mint Creme Chocolate Sandwich Cookies, Gluten Free Cookies, 12.47 oz",4.88,0.39,Walmart,oz
+2024-08-10,"Great Value Organic Coconut Flour, 36 oz",6.57,0.183,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Caramel, Naturally Flavored, Ground Coffee, 11oz",8.48,0.771,Walmart,oz
+2024-08-10,"Campbell's Sipping Soup, Ready to Serve Classic Tomato Soup, 11.1 oz Microwavable Cup",2.12,0.191,Walmart,oz
+2024-08-10,"McCormick 30% Less Sodium Chili Mild Seasoning Mix, 1.25 oz Envelope",1.58,1.26,Walmart,oz
+2024-08-10,"Great Value Ground Cinnamon, 4.2 oz",3.98,0.948,Walmart,oz
+2024-08-10,Planters Cashews Less Salt,5.72,0.715,Walmart,oz
+2024-08-10,"Great Value Pecan Halves, 32 oz",19.96,0.624,Walmart,oz
+2024-08-10,"Pepperidge Farm Soft Baked Ojai Lemon Sugar Cookies, 8.6 oz Bag (8 Cookies)",7.49,0.871,Walmart,oz
+2024-08-10,"Pepperidge Farm Cookies Classic Collection, 9 Cookie Varieties, 13.25 oz. Box",7.88,0.595,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Hearty White Hamburger Buns, 8-Pack Bag",3.84,0.192,Walmart,oz
+2024-08-10,"OREO Fudge Covered Chocolate Sandwich Cookies, 7.9 oz",3.98,0.504,Walmart,oz
+2024-08-10,"Starbucks by Nespresso Vertuo, Pumpkin Spice Naturally Flavored Coffee Nespresso Pods 8 Count",10.98,5.9,Walmart,oz
+2024-08-10,"Great Value Walnuts Halves & Pieces, 32 oz",13.32,0.416,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Original Coffee Capsules, Blonde Roast Espresso Pods, 1 Box (10 Pods)",7.98,4.29,Walmart,oz
+2024-08-10,"Great Value Extra Virgin Olive Oil, 101 fl oz Bottle",37.92,0.375,Walmart,fl oz
+2024-08-10,"Thai Kitchen Gluten Free Gluten Free Thin Rice Noodles, 8.8 oz Box",3.52,0.4,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Thin & Crispy Toffee Milk Chocolate Cookies, 6.9 oz. Bag",3.97,0.575,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Thin and Crispy Milk Chocolate Chip Cookies, 6.9 oz Bag (14 Cookies)",9.99,N/A,Walmart,N/A
+2024-08-10,"Bob's Red Mill Buttermilk Pancake & Waffle Mix, 20 oz Bag",4.81,N/A,Walmart,N/A
+2024-08-10,"McCormick Kosher Basil Leaves, 0.62 oz Bottle",2.12,3.42,Walmart,oz
+2024-08-10,"OREO Peanut Butter Creme Cakesters Soft Snack Cakes, 5 - 2.02 oz Snack Packs",3.98,0.394,Walmart,oz
+2024-08-10,"Bai Raspberry Lemon Lime Antioxidant Infused Water Beverage, 14 fl oz, 6 Pack Bottles",8.33,N/A,Walmart,N/A
+2024-08-10,"Planters Mixed Nuts Less Than 50% Peanuts with Peanuts, Almonds, Cashews, Pecans & Hazelnuts, 1.69 lb Container",9.98,0.37,Walmart,oz
+2024-08-10,"PLANTERS Cashews Cinnamon & Brown Sugar, Party Snacks, 5 oz Bag",3.68,0.736,Walmart,oz
+2024-08-10,"Starbucks Premium Dark Roast Instant Coffee, 3.17 oz",7.98,2.52,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Pike Place Roast, Medium Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"(6 Cans) Great Value Canned Sliced Carrots, 14.5 oz",5.36,0.062,Walmart,oz
+2024-08-10,"Great Value Organic Raw Unfiltered Apple Cider Vinegar, 32 fl oz",6.28,0.196,Walmart,fl oz
+2024-08-10,"Great Value Chocolate Sprinkles, 10.5 oz",3.42,0.326,Walmart,oz
+2024-08-10,"Pepperidge Farm Pirouette Cookies, Chocolate Hazelnut Crme Filled Wafers, 13.5 oz Tin",6.98,0.517,Walmart,oz
+2024-08-10,Bob's Red Mill 1 to 1 Gluten Free Baking Flour 44 oz Shelf Stable Bag Replacement,16.01,0.364,Walmart,oz
+2024-08-10,"Knorr Tomato with Chicken Flavor Bouillon Cubes, 3.1 oz 8 Pack",1.08,0.348,Walmart,oz
+2024-08-10,"Great Value Low Sodium Vegetable 100% Juice, 64 fl oz",3.98,0.062,Walmart,fl oz
+2024-08-10,"Great Value Organic Crushed Rosemary, 1 oz",4.36,4.36,Walmart,oz
+2024-08-10,"McCormick Non-GMO Pure Peppermint Extract, 2 fl oz Box",4.83,2.42,Walmart,fl
+2024-08-10,"Pepperidge Farm Whole Grain Honey Wheat Bread, 24 oz. Loaf",3.84,0.16,Walmart,oz
+2024-08-10,"Lay's Classic Potato Chips Snack Chips, 2.625 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"Great Value Pecan Halves, 16 oz",12.67,0.792,Walmart,oz
+2024-08-10,"Pepperidge Farm Verona Apricot Raspberry Thumbprint Cookies, 6.75 oz Bag",7.48,1.11,Walmart,oz
+2024-08-10,"Nestle Nestum Cerelac Wheat with Milk Infant Cereal, 14.1 Oz",6.12,0.434,Walmart,oz
+2024-08-10,"(6 Cans) Great Value Canned Sliced Beets, 15 oz",4.52,0.05,Walmart,oz
+2024-08-10,"Great Value 100% Arabica Breakfast Blend Medium Roast Ground Coffee Pods, 96 Ct",28.62,N/A,Walmart,N/A
+2024-08-10,"Starbucks, Decaf House Blend Medium Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"Great Value Cupcake Liners, Gold, 48 Count",1.12,0.023,Walmart,count
+2024-08-10,"Great Value Whole Natural Almonds, 1 oz, 8 Count",4.98,0.623,Walmart,oz
+2024-08-10,"Pepperidge Farm Pirouette Cookies, French Vanilla Crme Filled Wafers, 13.5 oz Tin",6.98,0.517,Walmart,oz
+2024-08-10,"Great Value Organic Fennel Seed, 1.6 oz",4.36,2.73,Walmart,oz
+2024-08-10,"Great Value Parsley Flakes, 2.7 oz",5.76,2.13,Walmart,oz
+2024-08-10,"OREO Thins Tiramisu Creme Chocolate Sandwich Cookies, Family Size, 11.78 oz",4.88,0.414,Walmart,oz
+2024-08-10,NESTLE TOLL HOUSE Chocolate Chip Edible Cookie Dough 15 oz. Cup,5.48,0.365,Walmart,oz
+2024-08-10,Starbucks Frappuccino with Oat Milk Dark Chocolate Brownie Iced Coffee Drink 13.7 fl oz Bottle,3.28,0.239,Walmart,fl oz
+2024-08-10,"OREO Toffee Crunch Creme with Sugar Crystals Chocolate Sandwich Cookies, Family Size, 17 oz",4.88,0.287,Walmart,oz
+2024-08-10,"Starbucks Paradise Drink Pineapple Passionfruit with Coconut Milk, 14 fl oz Bottle",13.99,N/A,Walmart,N/A
+2024-08-10,"Nature's Path Organic Instant Oatmeal, Gluten Free Brown Sugar Maple, 1.41oz, 8 Shelf-Stable Packets",4.42,0.391,Walmart,oz
+2024-08-10,"Fritos Corn Chips Chili Cheese Flavored Snack Chips, 3.5 oz Bag",9.71,2.77,Walmart,oz
+2024-08-10,"Bob's Red Mill Unbleached Enriched Artisan Bread Flour, 5 lb Shelf Stable Bag",19.05,N/A,Walmart,N/A
+2024-08-10,Bob's Red Mill Organic Unbleached White All-Purpose Flour,20.39,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Dublin Shortbread Cookies, 5.5 oz Bag",11.94,2.17,Walmart,oz
+2024-08-10,"Pepperidge Farm Swirl Strawberry Breakfast Bread, 14 oz Loaf",11.07,0.791,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Vertuo Coffee Capsules, Single-Origin Colombia, Medium Roast Nespresso Espresso Pods, 1 Box (8 Pods)",10.98,3.14,Walmart,oz
+2024-08-10,Great Value Cardamom Ground Organic,5.46,3.03,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Veranda Blend, Blonde Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Dark Chocolate Cookies, 6 oz Bag (15 Cookies)",3.97,0.662,Walmart,oz
+2024-08-10,"Starbucks By Nespresso, Smooth Caramel, Light Roast Vertuo Line Coffee 1 Box (8 Count)",10.98,3.14,Walmart,oz
+2024-08-10,Planters Fancy Whole Sea Salt Cashews 34 oz Jar,16.98,0.515,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Veranda Blend, Blonde Roast, Ground Coffee, 28 oz",21.99,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Milano Cookies, Raspberry Chocolate, 7 oz Bag",3.97,0.567,Walmart,oz
+2024-08-10,"Pepperidge Farm Golden Potato Hamburger Buns, 8-Pack Bag",3.28,0.219,Walmart,oz
+2024-08-10,"McCormick Premium Black & White Peppercorn Grinder, 1.26 oz Bottle",2.13,1.69,Walmart,oz
+2024-08-10,"Great Value Instant Nonfat Dry Milk, 3.2 oz Pouches (10 Count), Makes 10 Quarts Total, 40 Servings per Container",9.97,0.312,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Griller's Choice Beef Marinade Mix, 1.12 oz Envelope",1.36,1.21,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Mocha, Naturally Flavored, Ground Coffee, 11 oz",8.48,0.771,Walmart,oz
+2024-08-10,"OREO Thins Mint Creme Chocolate Sandwich Cookies, 9.21 oz",3.98,0.432,Walmart,oz
+2024-08-10,"Great Value Classic Olive Oil, 51 fl oz",19.28,0.378,Walmart,fl oz
+2024-08-10,"(6 Cans) Great Value Canned Diced Potatoes, 15 oz",5.36,0.06,Walmart,oz
+2024-08-10,"PLANTERS Deluxe Salted Mixed Nuts, Party Snacks, Plant-Based Protein 34oz (1 Container)",24.55,0.722,Walmart,oz
+2024-08-10,"(12 Cans) Great Value No Salt Added Sweet Corn, 15 oz",7.48,0.042,Walmart,oz
+2024-08-10,"Starbucks by Nespresso, Creamy Vanilla, Light Roast, Vertuo Line Coffee  Capsules, 1 Box (8 Count)",10.98,3.14,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Country Gravy Mix, 18 oz Bottle",8.64,0.48,Walmart,fl oz
+2024-08-10,Starbucks Nitro Cold Brew Vanilla Premium Iced Coffee Drink 9.6 fl oz Can,3.68,0.383,Walmart,fl oz
+2024-08-10,"Great Value Crushed Red Pepper, 12 Ounce",6.84,0.57,Walmart,oz
+2024-08-10,"Great Value Organic Roasted & Salted Whole Cashews, 14 oz",8.98,0.641,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Slow & Low Memphis Pit BBQ Rub, 2.25 oz Envelope",1.36,0.604,Walmart,oz
+2024-08-10,"Tostitos Hot Spicy Queso Dip, 15 oz Glass Jar",4.74,0.316,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Decaf House Blend, Medium Roast, Ground Coffee, 12 oz",8.48,0.707,Walmart,oz
+2024-08-10,"Great Value Organic Unrefined Virgin Coconut Oil, 29 fl oz",10.88,0.375,Walmart,fl oz
+2024-08-10,PLANTERS Nut Duos Peppercorn Pistachio & Parmesan Cashews 12/5 oz,4.48,0.896,Walmart,oz
+2024-08-10,"Great Value Espresso, Dark Roast Coffee Pods, 12 Count",4.47,1.09,Walmart,oz
+2024-08-10,Great Value Classic Olive Oil for Cooking 101 fl oz,34.47,0.341,Walmart,fl oz
+2024-08-10,"PLANTERS Lightly Salted Mix Nuts, Party Snacks, Plant-Based Protein, 10.3 Oz Canister",5.23,0.513,Walmart,oz
+2024-08-10,"Great Value Basmati Rice, 20 lb",18.97,0.059,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Multigrain Bread, 24 oz Loaf",0.0,N/A,Walmart,N/A
+2024-08-10,"Cheetos Baked Flamin' Hot Cheese Flavored Snack Chips, 2.75 oz Bag (Packaging may vary)",9.97,9.97,Walmart,oz
+2024-08-10,"Bob's Red Mill Chocolate Chip & Banana Pancake & Waffle Mix, 20 oz bag",4.7,N/A,Walmart,N/A
+2024-08-10,Starbucks Cold Brew Premium Coffee Beverage Black Unsweet 40 fl oz,0.0,N/A,Walmart,N/A
+2024-08-10,Lipton Tea Teabag Size 24 Piece,33.32,N/A,Walmart,N/A
+2024-08-10,"Starbucks Arabica Beans French Roast, Dark Roast, Ground Coffee, 28 oz",18.98,N/A,Walmart,N/A
+2024-08-10,"Campbell's Chicken Gravy, 10.5 oz Can",0.0,N/A,Walmart,N/A
+2024-08-10,"Knorr No Artificial Flavors Chicken Fried Rice Cooks in 2.5 Minutes, 2.6 oz Regular Cup",2.48,0.954,Walmart,oz
+2024-08-10,"Great Value Instant Nonfat Dry Milk, 64 oz Bag, Makes 20 Quarts, 80 Servings per Container",19.67,0.307,Walmart,oz
+2024-08-10,"Great Value 100% Arabica House Blend Medium Roast Coffee Pods, 48 Ct",12.47,0.67,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans French Roast, Dark Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans House Blend, Medium Roast, Ground Coffee, 18 oz",12.48,0.693,Walmart,oz
+2024-08-10,"Starbucks Pumpkin Spice Naturally Flavored Coffee, Keurig K-Cup Coffee Pods, 22 Count",15.97,2.0,Walmart,oz
+2024-08-10,"Cheetos Crunchy Cheese Buffalo Flavored Snack Chips, 8.5 oz Bag",3.98,0.468,Walmart,oz
+2024-08-10,"Great Value Mediterranean Sea Salt Grinder, 8.7 oz",5.23,0.601,Walmart,oz
+2024-08-10,"Ruffles Double Crunch, Honey Mustard Flavored Potato Chips, 7.25 oz",4.48,0.618,Walmart,oz
+2024-08-10,"Great Value Rainbow Sprinkles, 26 oz",6.98,0.268,Walmart,oz
+2024-08-10,"Great Value Organic Coconut Sugar, 32 oz",9.42,0.294,Walmart,oz
+2024-08-10,"STAR WARS OREO Cookies, Special Edition, 10 Snack Packs (2 Cookies Per Pack)",6.72,N/A,Walmart,N/A
+2024-08-10,"Starbucks Espresso Roast, Nespresso Original Capsules, 10 Count",7.98,3.99,Walmart,oz
+2024-08-10,"Great Value Coarse Sea Salt, 17.6 oz",3.68,0.209,Walmart,oz
+2024-08-10,"Great Value Pinto Beans, 20 lb",14.94,0.047,Walmart,oz
+2024-08-10,"McCormick Gluten Free Red Food Color, 1 fl oz Box",3.38,3.38,Walmart,fl
+2024-08-10,"McCormick Non-GMO Strawberry Extract, 2 fl oz Box",4.42,2.21,Walmart,fl
+2024-08-10,"McCormick All Natural Peppercorn Medley Grinder, 0.85 oz Bottle",2.13,2.51,Walmart,oz
+2024-08-10,"Thai Kitchen Gluten Free Gluten Free Brown Rice Noodles, 8 oz Box",5.28,0.66,Walmart,oz
+2024-08-10,"Cheetos Pretzels Flamin' Hot Pretzel Snack Chips, 10.0oz Bag (Packaging may vary)",3.98,0.398,Walmart,oz
+2024-08-10,Great Value Chopped Pecans 24 oz,15.87,0.661,Walmart,oz
+2024-08-10,"McCormick Perfect Pinch Kosher Lemon & Pepper Seasoning, 11.37 oz Bottle",6.82,0.6,Walmart,oz
+2024-08-10,"McCormick Kosher Minced Garlic, 3 oz Bottle",4.23,1.41,Walmart,oz
+2024-08-10,"Rold Gold Pretzels, Original Waffle, 16 oz Bag",3.98,0.249,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Breakfast Blend, Medium Roast Ground Coffee, 12 oz",8.48,0.707,Walmart,oz
+2024-08-10,"Great Value, Golden Sweet Whole Kernel Corn, 106 oz",6.16,0.058,Walmart,oz
+2024-08-10,"Great Value Smokey BBQ Coating & Seasoning Mix, 4.5oz",2.12,0.471,Walmart,oz
+2024-08-10,"McCormick Chicken Parmesan One Sheet Pan Seasoning Mix, 1.5 oz Envelope",2.22,1.48,Walmart,oz
+2024-08-10,"Pepperidge Farm Jewish Rye Soft Rye Bread, 16 oz. Bag",4.38,0.274,Walmart,oz
+2024-08-10,"Pepperidge Farm Cookies Chocolate Collection, 7 Cookie Varieties, 13 oz. Box",7.88,0.606,Walmart,oz
+2024-08-10,"Knorr Rojo Red Rice Seasoning Mix, 2.39 oz 4 Count",1.48,0.617,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Vertuo Coffee Capsules, Veranda Blend, 1 Box (8 Pods)",10.98,3.14,Walmart,oz
+2024-08-10,"Pepperidge Farm Pirouette Cookies, Chocolate Fudge Crme Filled Wafers, 13.5 oz Tin",6.98,0.517,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Cinnamon Dolce, Naturally Flavored, Ground Coffee, 11 oz",8.48,0.771,Walmart,oz
+2024-08-10,"Great Value Organic Bay Leaves, 0.15 oz",4.36,29.07,Walmart,oz
+2024-08-10,"PLANTERS Salted Mixed Nuts, Party Snacks, Plant-Based Protein 56oz (1 Canister)",15.98,0.285,Walmart,oz
+2024-08-10,"Great Value Organic Dill Seed, 1.7 oz",4.58,N/A,Walmart,N/A
+2024-08-10,"Starbucks Smoked Butterscotch Naturally Flavored Coffee, Keurig K-Cup Coffee Pods, 22 Count",15.97,1.96,Walmart,oz
+2024-08-10,"Starbucks Iced Espresso Caffe Mocha Premium Iced Coffee Drink, 40 oz Bottle",11.04,0.276,Walmart,fl oz
+2024-08-10,"Pepperidge Farm Butter Hot Dog Buns, Top Sliced, 8-Pack Bag",0.0,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies, 7.75 oz Bag (8 Cookies)",7.14,0.921,Walmart,oz
+2024-08-10,"OREO Chocolate Sandwich Cookies, 20 Snack Packs (2 Cookies Per Pack)",11.08,N/A,Walmart,N/A
+2024-08-10,"Knorr Granulated Reduced Sodium Chicken Bouillon Ground, 7.9 oz Jar",2.62,0.332,Walmart,oz
+2024-08-10,"PLANTERS Cashews Rosemary & Sea Salt, Party Snacks, 5 oz Bag",3.68,0.736,Walmart,oz
+2024-08-10,"Great Value Organic Mustard Ground, 1.6 oz",4.36,2.73,Walmart,oz
+2024-08-10,"Starbucks Tripleshot Energy Coffee Beverage, Bold Mocha Flavor, 11 Fl.oz Can",3.28,0.298,Walmart,fl oz
+2024-08-10,"Campbell's Ready to Serve Double Noodle Soup with Original Goldfish Crackers, 7.35 oz Microwavable Bowl",2.08,0.283,Walmart,oz
+2024-08-10,"Tostitos Tortilla Snack Chips Hint of Chile Lime Flavor, 11 oz (Single bag)",4.48,0.407,Walmart,oz
+2024-08-10,"McCormick Non-GMO Gluten Free Banana Extract, 2 fl oz Box",4.42,2.21,Walmart,fl
+2024-08-10,"Great Value Organic Cajun Seasoning, 2.5 oz",4.36,1.74,Walmart,oz
+2024-08-10,"(4 pack) McCormick Black Peppercorn Grinder, 2.5 oz Bottle",22.24,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Herb Seasoned Classic Stuffing, 12 oz. Bag",3.12,0.26,Walmart,oz
+2024-08-10,"McCormick All Natural Kosher Cream Of Tartar, 1.5 oz Bottle",3.7,2.47,Walmart,oz
+2024-08-10,"OREO Mint Chip Chocolate Sandwich Cookies, Limited Edition, 10.68 oz",4.88,0.457,Walmart,oz
+2024-08-10,"Knorr Bearnaise Sauce Dry Spices and Seasonings Mix Ground, 0.9 oz Regular Pack",1.82,2.02,Walmart,oz
+2024-08-10,"McCormick Tex-Mex Chili Seasoning Mix, 1.25 oz Envelope",1.58,1.26,Walmart,oz
+2024-08-10,"Great Value Organic Whole Mustard Seed, 2.5 oz",4.36,1.74,Walmart,oz
+2024-08-10,"Great Value Organic, Raw Amber Blue Agave Sweetener Sugar Substitute, 23.5 oz Bottle",5.82,0.248,Walmart,oz
+2024-08-10,"Starbucks French Roast, Dark Roast K-Cup Coffee Pods, 44 Count K Cups",29.97,N/A,Walmart,N/A
+2024-08-10,"Starbucks Pumpkin Spice Naturally Flavored Cold Brew Coffee Concentrate, Bottle, 32 fl oz",7.98,0.249,Walmart,fl oz
+2024-08-10,"McCormick No Artificial Flavors Air Fryer Buffalo Seasoning Mix, 1.25 oz Envelope",1.62,1.3,Walmart,oz
+2024-08-10,Great Value Cinnamon Stick Organic,4.36,4.36,Walmart,oz
+2024-08-10,"OREO Mint Creme Chocolate Sandwich Cookies, Party Size, 24.95 oz",5.98,N/A,Walmart,N/A
+2024-08-10,"McCormick Black Peppercorn Grinder, 2.5 oz Bottle",5.56,2.22,Walmart,oz
+2024-08-10,"Pepperidge Farm Chessmen Butter Cookies, 9 Packs, 3 Cookies per Pack",6.47,0.799,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Maple Pecan, Naturally Flavored, Ground Coffee, 17 oz",12.48,0.734,Walmart,oz
+2024-08-10,"Great Value Organic Tarragon, 0.4 oz",4.58,11.45,Walmart,oz
+2024-08-10,"Great Value Himalayan Pink Salt Grinder, 8.3 oz",5.23,0.63,Walmart,oz
+2024-08-10,"Starbucks VIA Pike Place Roast, Medium Roast Instant Coffee Packets, 8 Count",7.48,8.5,Walmart,oz
+2024-08-10,"Starbucks Tripleshot Energy Coffee Beverage, Rich Vanilla Flavor, 11 fl.oz Can",3.28,0.298,Walmart,fl oz
+2024-08-10,"Lay's Barbecue Flavored Potato Chips Snack Chips, 2.625 oz Bag",2.58,N/A,Walmart,N/A
+2024-08-10,"McCormick Kosher Lemon & Pepper Seasoning, 3.5 oz Bottle",3.22,0.92,Walmart,oz
+2024-08-10,"Great Value Vanilla Cookie Icing, White, 7 oz",3.16,0.451,Walmart,oz
+2024-08-10,"Starbucks Pike Place Roast, Medium Roast K-Cup Coffee Pods, 44 Count K Cups",29.97,N/A,Walmart,N/A
+2024-08-10,"Campbells Pork and Beans, 19.75 oz Can",7.5,0.38,Walmart,oz
+2024-08-10,"McCormick Gluten Free Himalayan Pink Salt with Black Pepper and Garlic All Purpose Seasoning, 6.5 oz Bottle",0.0,N/A,Walmart,N/A
+2024-08-10,"Knorr Shelf Stable Cubes Chicken Bouillon, 2.5 oz, 6 Pack Box",2.3,0.92,Walmart,oz
+2024-08-10,"Campbells Mushroom Gravy, 10.5 oz Can",4.85,0.462,Walmart,oz
+2024-08-10,"Starbucks, Sumatra Dark Roast K-Cup Coffee Pods, 22 Count K Cups",0.0,N/A,Walmart,N/A
+2024-08-10,"Knorr Shelf Stable Paste Tomato and Chicken Bouillon, 3.5 oz Jar",3.8,1.09,Walmart,oz
+2024-08-10,"Fritos BarBQ Flavored Corn Chips, 3.5 oz",0.0,N/A,Walmart,N/A
+2024-08-10,"McCormick Kosher Ground Mustard, 1.75 oz Bottle",4.73,2.7,Walmart,oz
+2024-08-10,"Great Value Organic Marjoram, 0.4 oz",4.8,12.0,Walmart,oz
+2024-08-10,"Great Value French Style Green Beans, 14.25 oz, 12 Cans",7.48,0.044,Walmart,oz
+2024-08-10,"McCormick Salt Free Taco Business by Tabitha Brown Seasoning Mix, 1 oz Envelope",1.88,1.88,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Caff Verona, Dark Roast Ground Coffee, 12 oz",8.48,0.707,Walmart,oz
+2024-08-10,"Campbell's Ready to Serve Chicken and Rice Soup with Oyster Crackers, 7.35 oz Microwavable Bowl",2.08,0.281,Walmart,oz
+2024-08-10,"Great Value Organic Herbs De Provence, 0.6 oz",4.58,7.63,Walmart,oz
+2024-08-10,"Great Value Organic White Sesame Seed, 2.2 oz",4.36,1.98,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Sweet Hawaiian Bread, 22 oz Loaf",3.84,0.175,Walmart,oz
+2024-08-10,"Marketside Raw Walnuts Halves and Pieces, 7.5 oz Tub",5.28,0.704,Walmart,oz
+2024-08-10,"McCormick Kosher Minced Onions, 2 oz Bottle",3.46,1.73,Walmart,oz
+2024-08-10,"McCormick Ground Ginger, 1.5 oz Bottle",4.5,3.0,Walmart,oz
+2024-08-10,"Starbucks Arabica Coffee Beans French Blend, Dark Roast, Whole Bean Coffee, 28 oz",18.98,0.678,Walmart,oz
+2024-08-10,Starbucks Cold Brew Premium Coffee Drink Vanilla Sweet Cream 11 Fl Oz,3.28,0.298,Walmart,fl oz
+2024-08-10,"Great Value Whole Almonds, 16 oz",7.68,0.48,Walmart,oz
+2024-08-10,"Great Value Organic Parsley Flakes, 0.3 oz",4.58,15.27,Walmart,oz
+2024-08-10,"Planters Select Cashews, Almonds & Pecans, 15.25 oz Canister",8.98,0.589,Walmart,oz
+2024-08-10,"Knorr Granulated Tomato with Chicken Flavor Bouillon Ground, 15.9 oz Jar",3.98,0.25,Walmart,oz
+2024-08-10,"Great Value Ground Turmeric, 6.2 oz",4.87,0.785,Walmart,oz
+2024-08-10,"Starbucks, Maple Pecan Light Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.97,Walmart,oz
+2024-08-10,"Great Value Organic Ground Allspice, 1.6 oz",4.36,2.73,Walmart,oz
+2024-08-10,"McCormick Perfect Pinch Italian Seasoning, 2.25 oz Bottle",6.83,3.04,Walmart,oz
+2024-08-10,"Great Value Cinnamon Sticks, 8 oz",9.54,1.19,Walmart,oz
+2024-08-10,"Great Value Classic Roast Ground Coffee Pods, 96 Ct",24.33,1.68,Walmart,oz
+2024-08-10,"Lipton Cup-a-Soup Chicken Noodle, 1.8 oz, 4 Pack Box Regular",1.78,0.989,Walmart,oz
+2024-08-10,"Starbucks VIA Colombia Roast, Medium Roast Instant Coffee Packets, 8 Count",7.48,8.5,Walmart,oz
+2024-08-10,"Great Value Paprika, 5.2 oz",4.12,0.792,Walmart,oz
+2024-08-10,"Bob's Red Mill Maple Sea Salt Granola, 11 oz Bag",5.47,0.497,Walmart,ounces
+2024-08-10,"Starbucks Fall Blend, Medium Roast Coffee, Keurig K-Cup Coffee Pods, 22 Count",15.97,1.73,Walmart,oz
+2024-08-10,"McCormick Non-GMO Pure Mint Extract, 2 fl oz Box",4.92,2.46,Walmart,fl
+2024-08-10,PLANTERS Nut Duos Ranch Almonds & Buffalo Cashews 5 oz,4.48,0.896,Walmart,oz
+2024-08-10,"Thai Kitchen Gluten Free Gluten Free Pad Thai Sauce, 8 fl oz Jar",5.38,0.673,Walmart,fl oz
+2024-08-10,"Knorr Granulated Chicken Flavor Bouillon Ground, 3.5 oz Jar",2.3,0.657,Walmart,oz
+2024-08-10,"Pepperidge Farm Farmhouse Thin & Crispy Butter Pecan Cookies, 5.9 oz Bag",7.49,1.27,Walmart,oz
+2024-08-10,"Tostitos Rounds Tortilla Chips Black Bean & Garlic, 9 oz",8.36,0.929,Walmart,oz
+2024-08-10,Lipton Ice Tea Zero Sugar Lemon ITM 28 QT,17.91,2.21,Walmart,oz
+2024-08-10,"Lay's Stax Xtra Flamin' Hot Potato Chips, 5.5 oz Canister",10.42,1.9,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Espresso Roast, Dark Roast, Ground Coffee, 28 oz",18.98,N/A,Walmart,N/A
+2024-08-10,"PLANTERS Roasted Pecan Nuts, Party Snacks, Plant-Based Protein, 7.25 oz Canister",17.97,2.46,Walmart,oz
+2024-08-10,"OREO Java Chip Creme Chocolate Sandwich Cookies, Family Size, 17 oz",4.88,0.287,Walmart,oz
+2024-08-10,"Starbucks VIA French Roast, Dark Roast Instant Coffee Packets, 8 Count",7.48,8.5,Walmart,oz
+2024-08-10,"Great Value Sprinkles Mix Tub for Desserts, Candies, Jimmies and Pearls, 10.48 oz., Assorted Colors",3.77,0.36,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Vanilla,  Naturally Flavored, Ground Coffee, 11 oz",8.48,0.771,Walmart,oz
+2024-08-10,"McCormick Grill Mates Gluten Free Applewood Rub, 6 oz Bottle",4.88,0.813,Walmart,oz
+2024-08-10,"Great Value Chunk White Turkey, in Water Fully Cooked, 10 oz Can",4.72,7.49,Walmart,lb
+2024-08-10,"McCormick Kosher Poultry Seasoning, 0.65 oz Bottle",3.12,4.8,Walmart,oz
+2024-08-10,"McCormick All Natural Sea Salt Grinder, 6.1 oz Bottle",5.56,0.911,Walmart,oz
+2024-08-10,"(4 pack) McCormick All Natural Sea Salt Grinder, 6.1 oz Bottle",22.24,3.65,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Kosher Bay Leaves, 0.12 oz Bottle",4.0,33.33,Walmart,oz
+2024-08-10,"Great Value LED Ceiling Fan Bulb 7W (60W Equivalent) Daylight, A15 with E12 Base Dimmable, 2PK",6.47,3.24,Walmart,ea
+2024-08-10,"McCormick Grill Mates Gluten Free Honey Sriracha, 1 oz Envelope",1.36,1.36,Walmart,oz
+2024-08-10,Great Value Rainbow NP Sprinkles Tub 10oz,3.77,0.377,Walmart,oz
+2024-08-10,"Starbucks Arabica Beans Breakfast Blend, Medium Roast, Ground Coffee, 28 oz",18.99,N/A,Walmart,N/A
+2024-08-10,"Starbucks, Veranda Blend Blonde Roast K-Cup Coffee Pods, 44 Count K Cups",29.97,N/A,Walmart,N/A
+2024-08-10,"Great Value Unflavored Gelatin Mix, 0.25 oz, 32 Count Pouches",12.48,1.56,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Garlic Salt, 15.75 oz Bottle",5.9,0.375,Walmart,oz
+2024-08-10,"Tostitos Mexican Style Three Cheese Tortilla Round Chips, 11 oz",4.48,0.407,Walmart,oz
+2024-08-10,"Starbucks Pumpkin Spice Naturally Flavored Ground Coffee, 100% Arabica, 17 oz",12.48,0.734,Walmart,oz
+2024-08-10,"McCormick Non-GMO Rum Extract, 2 fl oz Box",4.36,2.18,Walmart,fl
+2024-08-10,"Great Value Organic Stevia No Calorie Sweetener, 7 oz, 200 Count",11.16,1.59,Walmart,oz
+2024-08-10,"Campbell's Ready to Serve Classic Tomato Soup with Original Goldfish Crackers, 7.35 oz Microwavable Bowl",2.08,0.281,Walmart,oz
+2024-08-10,"Great Value Peppercorn Medley Grinder, 3.9 oz",5.62,1.44,Walmart,oz
+2024-08-10,"Starbucks Fall Blend, Medium Roast Ground Coffee, 100% Arabica, 17 oz",12.48,0.734,Walmart,oz
+2024-08-10,"Great Value Bold Gel Food Colors, 2.7 oz, 4 Count",3.88,1.44,Walmart,oz
+2024-08-10,"Starbucks House Blend, Medium Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,1.72,Walmart,oz
+2024-08-10,"Thai Kitchen Non-GMO Gluten Free Premium Unsweetened Coconut Milk, 5.46 fl oz Can",1.46,0.267,Walmart,fl oz
+2024-08-10,"Great Value Organic Pumpkin Pie Spice, 1.65 oz",4.58,2.78,Walmart,oz
+2024-08-10,PLANTERS Cashew Salt and Vinegar 5oz,3.68,0.736,Walmart,oz
+2024-08-10,"Great Value Organic Rosemary Leaves, 0.85 oz",4.58,5.39,Walmart,oz
+2024-08-10,"Great Value Ground Cumin, 4.5 oz",4.16,0.924,Walmart,oz
+2024-08-10,"Lay's Poppables Sea Salt & Vinegar Flavor Potato Snack Chips, 5 Ounce Bag",2.88,0.576,Walmart,oz
+2024-08-10,"PLANTERS Nut Duos Cocoa Cashew and Espresso Hazelnut, 5 oz Resealable Bag",4.48,0.896,Walmart,oz
+2024-08-10,Ruffles Potato Chips Lime & Jalapeno Flavored 8 oz Bag,12.0,1.5,Walmart,oz
+2024-08-10,"Starbucks, Breakfast Blend Medium Roast K-Cup Coffee Pods, 44 Count K Cups",29.97,N/A,Walmart,N/A
+2024-08-10,"Lay's Stax Potato Crisps, Buffalo Wing & Ranch, 5.5 Oz",9.75,1.77,Walmart,ea
+2024-08-10,"Lipton Iced Black Tea Family Size, Tea Bags, 22 Ct",11.8,53.64,Walmart,100
+2024-08-10,"Starbucks, Vanilla Naturally Flavored Light Roast K-Cup Coffee Pods, 22 Count K Cups",15.97,2.02,Walmart,oz
+2024-08-10,"Lipton Onion Recipe Soup & Dip Mix, 1.9 oz",5.99,3.15,Walmart,oz
+2024-08-10,Starbucks Nitro Cold Brew Sweet Cream Premium Iced Coffee Drink 9.6 fl oz Can,12.44,1.3,Walmart,fl
+2024-08-10,"PLANTERS Dry Roasted Bold & Savory Peanuts, Party Snacks, Plant-Based Protein, 16 oz Jar",2.98,0.186,Walmart,oz
+2024-08-10,"Great Value 6-Cell Sprinkle Mix, 6.38 oz",4.98,0.711,Walmart,oz
+2024-08-10,"Great Value Organic Caraway Seed, 1.8 oz",4.36,2.42,Walmart,oz
+2024-08-10,"OREO Gluten Free Original & Double Stuf Chocolate Sandwich Cookies Variety Pack, 20 Snack Packs",11.98,0.666,Walmart,oz
+2024-08-10,"Great Value Candy Eyeballs, 0.88 oz",3.88,4.41,Walmart,oz
+2024-08-10,"Bob's Red Mill Lemon Blueberry Granola, 11 oz Bag",5.47,0.497,Walmart,oz
+2024-08-10,"Starbucks By Nespresso Original Coffee Capsules, Pike Place Roast Espresso Pods, 1 Box (10 Pods)",7.98,4.2,Walmart,oz
+2024-08-10,"Marketside Dry Roasted and Unsalted Almonds, 10 oz Tub",5.98,0.598,Walmart,oz
+2024-08-10,"Great Value Pink Sparkling Sugar, 3.5 oz.",1.77,0.506,Walmart,oz
+2024-08-10,"Starbucks Smoked Butterscotch Naturally Flavored Ground Coffee, 100% Arabica, 17 oz",12.48,0.734,Walmart,oz
+2024-08-10,"Great Value High Output LED Light Bulb, 3000 Lumens 27-Watt Warm White, E26 Medium Base",4.88,N/A,Walmart,N/A
+2024-08-10,"Great Value Organic Ground Nutmeg, 1.8 oz",6.53,3.63,Walmart,oz
+2024-08-10,"Knorr Tomato with Chicken Flavor Bouillon Cubes, 9.3 oz 24 Pack",2.48,0.267,Walmart,oz
+2024-08-10,"Great Value Happy Birthday Stars Candy Cake Decor, 0.91 oz",4.48,4.92,Walmart,oz
+2024-08-10,Augason Farms Freeze Dried Sliced Strawberries 6.4 oz No. 10 Can,23.38,3.65,Walmart,oz
+2024-08-10,"Pepperidge Farm Light Style 7 Grain Bread, 16 oz. Loaf",4.98,0.311,Walmart,oz
+2024-08-10,"McCormick Chili Seasoning Mix, 7.3 oz Bottle",6.76,0.926,Walmart,oz
+2024-08-10,"Great Value Organic Cilantro, 0.4 oz",4.58,11.45,Walmart,oz
+2024-08-10,"Great Value Zesty Ranch Coating & Seasoning Mix, 4.5oz",2.12,0.471,Walmart,oz
+2024-08-10,Great Value Cloves Ground Organic,5.43,3.02,Walmart,oz
+2024-08-10,"Starbucks Hazelnut, Light Roast K-Cup Coffee Pods, 22 Count K Cups",15.98,2.0,Walmart,oz
+2024-08-10,"Great Value Organic Garlic Salt, 4.2 oz",4.36,1.04,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Whole Celery Seed, 0.95 oz Bottle",5.66,5.96,Walmart,oz
+2024-08-10,"Great Value Chocolate Caramel Nut, Medium Roast Arabica Coffee Pods, 12 Count",4.47,1.15,Walmart,oz
+2024-08-10,"Starbucks Sweetened Signature Black Cold Brew Coffee Concentrate, Multi-Serve, 32 fl oz",9.48,N/A,Walmart,N/A
+2024-08-10,"Great Value Writing Icing, Classic Multicolor, 2.7 oz",3.16,1.17,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Kosher Tartar Sauce, 8 fl oz Bottle",2.72,0.34,Walmart,fl oz
+2024-08-10,"Pepperidge Farm Very Thin White Bread, 16 oz.",4.78,0.299,Walmart,oz
+2024-08-10,"Great Value Cookie Icing, Blue, 7 Ounces",3.16,0.451,Walmart,oz
+2024-08-10,"Lay's Wavy Funyuns Onion Flavored Potato Chips, 2.625 oz",2.58,N/A,Walmart,N/A
+2024-08-10,"McCormick Grill Mates Gluten Free Barbecue Rub, 6 oz Bottle",4.88,0.813,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Pure Ground Black Pepper, 6 oz Bottle",7.12,1.19,Walmart,oz
+2024-08-10,Starbucks Cold Brew Premium Coffee Drink Salted Caramel Cream 11 Fl Oz,11.79,1.07,Walmart,fl
+2024-08-10,"Lipton Peach Iced Tea, Bottled Tea Drink, 20 fl oz, Bottle",9.69,0.485,Walmart,fl oz
+2024-08-10,"Campbell'sCondensed Split Pea with Ham Soup, 11.5 oz. Can",4.1,0.357,Walmart,oz
+2024-08-10,"PLANTERS Salted Cocktail Peanuts, Party Snacks, Plant-Based Protein, 2.19 lb Jar",7.2,0.206,Walmart,oz
+2024-08-10,"Pepperidge Farm Bordeaux Caramelized Crisp Cookies, 6.75 oz Bag",7.88,1.17,Walmart,oz
+2024-08-10,Lipton Iced Tea Peach 16 Fl Oz 4 Count,10.01,0.156,Walmart,fl oz
+2024-08-10,"Bai Raspberry Lemon Lime Antioxidant Infused Water Beverage, 18 fl oz",33.84,1.88,Walmart,fl
+2024-08-10,"Campbell's Golden Pork Gravy, 10.5 oz Can",1.52,0.145,Walmart,oz
+2024-08-10,Great Value Alphabet Candy Cards,4.48,4.92,Walmart,oz
+2024-08-10,Starbucks Cold Brew Premium Coffee Drink Chocolate Cream 11 Fl Oz,3.28,0.298,Walmart,fl oz
+2024-08-10,"Lay's Potato Chip Variety Pack Snack Chips, 40 Count Multipack",22.43,0.561,Walmart,oz
+2024-08-10,"McCormick Kosher Ground Turmeric, 1.87 oz Bottle",4.62,2.47,Walmart,oz
+2024-08-10,Augason Farms Buttermilk Pancake Mix 3 lbs 4 oz No. 10 Can,15.0,0.288,Walmart,oz
+2024-08-10,"McCormick Gluten Free Ground Organic Black Pepper, 3 oz Can",4.77,1.59,Walmart,oz
+2024-08-10,"Great Value Cookie Icing, Red, 7 Ounces",3.16,0.451,Walmart,oz
+2024-08-10,"Great Value Organic Chives, 0.12",4.58,38.17,Walmart,oz
+2024-08-10,"Marketside Natural Raw Almonds, 10 oz Tub",5.98,0.598,Walmart,oz
+2024-08-10,"Starbucks Via Italian Roast, Dark Roast Instant Coffee Packets, 8 Count",5.38,0.084,Walmart,fl oz
+2024-08-10,"(6 pack) Great Value Vanilla Chai Black Tea, 1.59 oz, 20 Count",14.88,12.4,Walmart,100
+2024-08-10,"PLANTERS Salted Peanuts, Party Snacks, Plant Based Protein, 24 ct Box, 1 oz Packs",8.27,0.345,Walmart,oz
+2024-08-10,GV Churro Dough Ice Cream Topper 8x4.5 oz,3.28,0.729,Walmart,oz
+2024-08-10,Augason Farms Dehydrated Potato Shreds 1 lb 7 oz No. 10 Can,8.95,0.389,Walmart,oz
+2024-08-10,"McCormick Flavor Maker Salmon Topping Seasoning, 5.2 oz Jar",4.98,N/A,Walmart,N/A
+2024-08-10,"Great Value Halloween Cookie Icing, Black, 7 oz",3.16,0.451,Walmart,oz
+2024-08-10,"McCormick Grill Mates Mesquite Rub, 4.87 oz Bottle",4.88,1.0,Walmart,oz
+2024-08-10,"McCormick No Artificial Flavors Kosher Ground Cloves, 0.9 oz Bottle",4.94,0.618,Walmart,oz
+2024-08-10,Great Value 6-Cell Bright Sprinkles. 5.9oz,4.98,0.844,Walmart,oz
+2024-08-10,GV Cake Batter Dough Ice Cream Topper 8x4.5 oz,3.28,0.729,Walmart,oz
+2024-08-10,"Great Value LED Ceiling Fan Bulb, 7-Watt (60W Equivalent) A15 with E12 Base Soft White, 2 Pack",6.47,3.24,Walmart,ea
+2024-08-10,"McCormick Golden Dipt Gluten Free Seafood Cocktail Sauce, 8 fl oz Jar",3.04,0.38,Walmart,fl oz
+2024-08-10,"Knorr Fajita Long Grain Spanish Rice Side Cooks in 2.5 Minutes, 2.6 oz Regular Cup",2.48,N/A,Walmart,N/A
+2024-08-10,"Great Value Organic Cleanse Tea Bags, 1.13 oz, 16 Ct",3.42,21.38,Walmart,100
+2024-08-10,"McCormick Kosher Ground Sage, 0.6 oz Bottle",5.24,8.73,Walmart,oz
+2024-08-10,"McCormick Kosher Pumpkin Pie Spice, 1.12 oz Bottle",4.82,4.3,Walmart,oz
+2024-08-10,"McCormick Salt Free Burger Business by Tabitha Brown Seasoning Mix, 1 oz Envelope",1.88,1.88,Walmart,oz
+2024-08-10,"Great Value Vanilla Flavored Candy Coating, 16 oz",4.44,0.278,Walmart,oz
+2024-08-10,"Cheetos Crunchy Cheese Cheddar Jalapeno Flavored Snack Chips, 3.25 oz Bag",9.49,2.92,Walmart,oz
+2024-08-10,"Knorr Granulated Shrimp Flavor Bouillon Powder, 7.9 oz Jar",3.53,0.447,Walmart,oz
+2024-08-10,"Thai Kitchen Vegan Gluten Free Gluten Free Green Curry Paste, 4 oz Jar",10.0,2.5,Walmart,oz
+2024-08-10,"Bob's Red Mill Flaxseed Meal, 16 oz Shelf-Stable Bag",10.0,0.625,Walmart,oz
+2024-08-10,"Knorr Three Cheese Mushroom Risotto Cooks in 2.5 Minutes, 2.6 oz Regular Cup",0.0,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Farmhouse Thin & Crispy Butter Crisp Cookies, 6.9 oz Bag",13.4,1.94,Walmart,oz
+2024-08-10,"Campbell's Au Jus Gravy, 10.5 oz Can",9.0,0.857,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Cookies, Chocolate Orange, 7 oz Bag",6.9,0.986,Walmart,oz
+2024-08-10,"Lipton Green Tea, Decaffeinated, Tea Bags 40 Count Box",12.93,32.33,Walmart,100
+2024-08-10,"Starbucks By Nespresso Original Coffee Capsules, Single-Origin Colombia Espresso Pods, 1 Box (10 Pods)",9.09,N/A,Walmart,N/A
+2024-08-10,"Lay's Salt & Vinegar Flavored Potato Chips, 2.625 oz Bag",9.99,3.8,Walmart,oz
+2024-08-10,"PLANTERS NUT-RITION Heart Healthy Nut Mix, Mixed Nuts, 18.25 oz Canister",10.64,0.583,Walmart,oz
+2024-08-10,Augason Farms Funeral Potatoes 13.6 oz Food Pouch,7.99,0.588,Walmart,oz
+2024-08-10,"Rold Gold Original Rod Pretzels, 12 oz",3.98,0.332,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Energy Vanilla, Strong Coffee Drink with 225 mg Caffeine, 15 fl oz, 12 Pack",28.98,0.161,Walmart,fl oz
+2024-08-10,"Great Value Honey Almond, Medium Roast Arabica Coffee Pods, 12 Count",4.47,1.15,Walmart,oz
+2024-08-10,"Pepperidge Farm Milano Cookies, Dark Chocolate, 12 Packs, 2 Cookies per Pack",6.47,0.719,Walmart,oz
+2024-08-10,"Great Value Cookie Icing, Green, 7 Ounces",3.16,0.451,Walmart,oz
+2024-08-10,"Great Value Dark Chili Powder, 5.8 oz",4.12,0.71,Walmart,oz
+2024-08-10,"Starbucks Naturally Flavored Hot Cocoa, K-Cup Pods, 10 Count K Cups",9.58,1.31,Walmart,oz
+2024-08-10,"Pepperidge Farm Soft Baked Newport Dark Chocolate Cookies with Sea Salt, 8.6 oz Bag (8 Cookies)",7.45,0.866,Walmart,oz
+2024-08-10,"Great Value White Cupcake Icing, 8.4 ounces",4.34,0.517,Walmart,oz
+2024-08-10,"Knorr Concentrated Chicken Stock Gluten Free and No Artificial Flavors, Colors or Preservatives, 8.45 oz",3.96,0.469,Walmart,oz
+2024-08-10,"McCormick Non-GMO Kosher Whole Cloves, 0.62 oz Bottle",6.17,9.95,Walmart,oz
+2024-08-10,"McCormick Kosher Rubbed Sage, 0.5 oz Bottle",4.28,8.56,Walmart,oz
+2024-08-10,"Great Value Iced Caramel Macchiato, Medium Roast Arabica Coffee Pods, 12 Count",4.47,0.931,Walmart,oz
+2024-08-10,Starbucks $15 Gift Card,0.0,N/A,Walmart,N/A
+2024-08-10,"Nature's Path Organic Instant Oatmeal, Blueberry Cinnamon Flax, 1.41 oz, 8 Shelf-Stable Packets",5.13,0.454,Walmart,oz
+2024-08-10,"Great Value Organic Unrefined Virgin Coconut Oil, 54 fl oz",20.37,0.377,Walmart,fl oz
+2024-08-10,"Great Value Chocolate Flavored Candy Coating, 16 oz",4.44,0.278,Walmart,oz
+2024-08-10,"McCormick Vegan Salt Free Like Sweet Like Smoky by Tabitha Brown All Purpose Seasoning, 5.5 oz Bottle",6.12,1.11,Walmart,oz
+2024-08-10,"Great Value Decorating Blue Cupcake Icing, 6.4 oz",4.34,0.678,Walmart,oz
+2024-08-10,"McCormick Whole Thyme Leaves, 0.75 oz Bottle",6.73,8.97,Walmart,oz
+2024-08-10,"Great Value Organic Orange Peel, 1.15 oz",4.58,3.98,Walmart,oz
+2024-08-10,"Great Value Flour Tortilla Mix, 20 lbs",21.47,0.067,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Espresso & Cream Light Premium Iced Coffee Drink, 6.5 fl oz Cans, 12 Count",20.98,0.269,Walmart,fl oz
+2024-08-10,"Great Value Cookie Icing Gels, Pink, 7 oz",3.16,0.451,Walmart,oz
+2024-08-10,"Lay's Potato Chips Sour Cream and Onion Flavored Snack Chips, 2.62 oz",2.58,N/A,Walmart,N/A
+2024-08-10,"Pepperidge Farm Herb Seasoned Cubed Stuffing, 12 oz. Bag",3.12,0.26,Walmart,oz
+2024-08-10,"McCormick Garlic Seasoned Salt Grinder, 1.58 oz Mixed Spices & Seasonings",1.98,N/A,Walmart,N/A
+2024-08-10,"McCormick Grill Mates Dill Pickle Seasoning, 2.75 oz",1.97,0.716,Walmart,oz
+2024-08-10,"Augason Farms Dehydrated Apple Slices, 20 Servings, 12 oz.",18.0,1.5,Walmart,oz
+2024-08-10,Lipton Iced Tea KCUP Unsweetened Black 24 Count,26.97,112.38,Walmart,100
+2024-08-10,Augason Farms Dehydrated Diced Red & Green Bell Peppers 1 lb 4 oz No. 10 Can,17.26,0.863,Walmart,oz
+2024-08-10,"Great Value Watermelon Sprinkles, 2.46 oz",2.48,1.01,Walmart,oz
+2024-08-10,"Pepperidge Farm Charleston Birthday Cake Cookies, 8 Soft Baked Cookies, 8.6 oz. Bag",13.96,1.62,Walmart,oz
+2024-08-10,Tostitos Salsa Verde 17.0oz,0.0,N/A,Walmart,N/A
+2024-08-10,"Campbell's 100% Tomato Juice, 11.5 fl oz Can, 6 Count",9.85,0.143,Walmart,fl oz
+2024-08-10,"Lay's Baked Original Potato Crisps Snack Chips, 1.875 oz Bag",8.0,4.26,Walmart,oz
+2024-08-10,Bob's Red Mill Organic Dark Rye Flour - 20 oz Ready-to-Cook Shelf-Stable Bag Whole Grain,7.93,0.397,Walmart,oz
+2024-08-10,"Lays Stax Zesty Queso Potato Chips, 5.5 oz",7.97,1.45,Walmart,oz
+2024-08-10,"Lipton Texas Style Sweet Tea Iced Tea, Bottled Tea Drink, 16.9 fl oz, 12 Pack Bottles",0.0,N/A,Walmart,N/A
+2024-08-10,GV Raspberry Dough Ice Cream Topper 8x4.5 oz,3.28,0.729,Walmart,oz
+2024-08-10,"McCormick Fine Garlic Powder, 21 oz Mixed Spices & Seasonings",9.34,0.445,Walmart,oz
+2024-08-10,"McCormick Chili Seasoning Mix, 22 oz Mixed Spices & Seasonings",10.49,0.477,Walmart,oz
+2024-08-10,"Knorr Shrimp Flavor Bouillon Cubes, 3.1 oz, 8 Pack",1.47,0.474,Walmart,oz
+2024-08-10,"Starbucks Doubleshot Espresso & Cream Premium Coffee Drink, Ready To Drink Coffee, 6.5 fl oz Cans, 12 Pack",20.98,0.269,Walmart,oz
+2024-08-10,"Great Value Green Decorating Cupcake Icing, 8.4 oz",4.34,0.517,Walmart,oz
+2024-08-10,"Starbucks Tripleshot Energy Coffee Beverage, Dark Caramel Flavor, 11 fl.oz Can",3.28,0.298,Walmart,fl oz
+2024-08-10,"Campbell's Healthy Request Chicken Noodle Soup, 15.3 oz Microwavable Bowl",2.18,0.142,Walmart,oz
+2024-08-10,"Great Value 6-Cell Gold & Silver Sprinkles Mix, 7 oz",4.98,0.711,Walmart,oz
+2024-08-10,Great Value Happy Birthday Banner Cake Topper,3.44,N/A,Walmart,N/A
+2024-08-10,(10 Count) Starbucks by Nespresso Original Line Caramel Naturally Flavored Coffee,7.98,4.46,Walmart,oz
+2024-08-10,Augason Farms Butter Powder 2 lbs 4 oz No. 10 Can,32.39,1.16,Walmart,oz
+2024-08-10,Augason Farms Dried Whole Egg Powder Resealable Pouch Emergency Food Storage 11.9 oz.,28.76,2.41,Walmart,oz
+2024-08-10,"Knorr Concentrated Beef Stock Gluten Free No Artificial Flavors, Colors or Preservatives, 8.45 oz",3.96,0.469,Walmart,oz
+2024-08-10,"Starbucks Dark Chocolate Hazelnut Naturally Flavored, Bottled Cold Brew Coffee Concentrate Drink, 32 oz",8.98,0.281,Walmart,fl oz
+2024-08-10,"Great Value 4 in 1 Decorating Sprinkles, All Occasion, 5.2 oz",3.84,0.738,Walmart,oz
+2024-08-10,"Great Value Birthday Candle, Happy Birthday, Gold",3.44,N/A,Walmart,N/A
+2024-08-10,Lipton Iced Tea KCUP Southern Sweet 24 Count,26.99,112.46,Walmart,100
+2024-08-10,"Bob'S Red Mill Baking Soda, 16 Oz",9.0,0.563,Walmart,oz
+2024-08-10,"Great Value Organic Poultry Seasoning, 1.2 oz",4.58,3.82,Walmart,oz
+2024-08-10,"Great Value Organic Rubbed Sage, 0.8 oz",4.36,5.45,Walmart,oz
+2024-08-10,"Great Value Disposable Decorating Bags, 8-Count, Plastic, 12 in.",3.12,0.39,Walmart,count
+2024-08-10,"Great Value 6-Cell Patriotic Sprinkles Mix, 6.84 oz.",4.98,0.711,Walmart,oz
+2024-08-10,Augason Farms Creamy Potato Dry Soup Mix 2 lb 12 oz,17.5,0.486,Walmart,oz
+2024-08-10,"Pepperidge Farm Very Thin 100% Whole Wheat Bread, 16 oz.",4.78,0.299,Walmart,oz
+2024-08-10,"PLANTERS Deluxe Pistachio Mix, Party Snacks, Plant-Based Protein,  14.5 Oz Canister",19.0,1.31,Walmart,oz
+2024-08-10,"Great Value Pumpkin Butter, 10.15 oz",3.74,0.368,Walmart,oz
+2024-08-10,"Ruffles Potato Chips Original, Sour Cream, and Cheddar Flavors, Variety Pack Snack Chips, 1 oz Bags, 40 Count Multipack",22.43,0.561,Walmart,oz
+2024-08-10,"Thai Kitchen Non-GMO Ready to Heat Fried Rice, 8.8 oz Pouch",8.4,0.955,Walmart,oz
+2024-08-10,"Lay's Limon Flavored Potato Chips Snack Chips, 2.625 oz Bag",5.9,2.24,Walmart,oz
+2024-08-10,"OREO SOUR PATCH KIDS Sandwich Cookies, Limited Edition, 10.68 oz",14.89,N/A,Walmart,N/A
+2024-08-10,"Starbucks Medium Roast, Half-Caff House Blend K-Cup Coffee Pods, 22 Count K Cups",15.98,N/A,Walmart,N/A
+2024-08-10,"Starbucks House Blend, Medium Roast K-Cup Coffee Pods, 22 Count K Cups",28.5,3.07,Walmart,oz
+2024-08-10,"Lipton Tea Bags, Green Tea, 40 Green Tea Bags per Box (6 Boxes)",11.0,N/A,Walmart,N/A
+2024-08-10,Augason Farms Banana Chips 2 lbs 1 oz No. 10 Can,23.64,0.946,Walmart,oz
+2024-08-10,Augason Farms Dehydrated Apple Slices 12 oz (Pack of 5),111.33,N/A,Walmart,N/A
+2024-08-10,"Thai Kitchen No Artificial Flavors Gluten Free Gluten Free Thai Peanut Rice Noodle Cart, 9.77 oz Cup",11.77,1.21,Walmart,oz
+2024-08-10,"Lipton Family Sized Iced Unsweetened Black Tea, Caffeinated, Tea Bags 24 Count Box",10.0,41.67,Walmart,100
+2024-08-10,"Lipton Signature Blend Green Tea Bags, Unsweetened Teabags for Hot Tea or Iced Tea with Caffeine and Flavonoids, 40 Count Box",14.97,37.43,Walmart,100
+2024-08-10,"McCormick Grill Mates Tri Tip Seasoning, 2.37 oz",1.97,0.831,Walmart,oz

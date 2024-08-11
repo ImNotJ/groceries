@@ -13,7 +13,7 @@ print(df.head())
 df = df[df['item_name'].notna() & (df['item_name'] != 'N/A')]
 
 # 2. Remove quotation marks from item names
-df['item_name'] = df['item_name'].str.replace(r'^"|"$', '', regex=True)
+df['item_name'] = df['item_name'].str.replace('"', '', regex=False)
 
 # 3. Convert price columns to numeric, handling non-numeric values
 df['price'] = pd.to_numeric(df['price'], errors='coerce')

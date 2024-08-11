@@ -8,16 +8,16 @@ from grocery_prices.items import GroceryPriceItem
 from datetime import datetime
 import logging
 
-class WalmartSpider(scrapy.Spider):
-    name = 'walmart'
+class WalmartSpider2(scrapy.Spider):
+    name = 'walmart2'
 
     def __init__(self, *args, **kwargs):
-        super(WalmartSpider, self).__init__(*args, **kwargs)
+        super(WalmartSpider2, self).__init__(*args, **kwargs)
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
         # First request to the specific link
-        initial_url = 'https://www.walmart.com/browse/food/great-value-food/976759_7128585_9834661'
+        initial_url = 'https://www.walmart.com/browse/fresh-produce/976759_976793'
         yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 25, 'initial': True})
 
     def parse(self, response):
@@ -79,7 +79,7 @@ class WalmartSpider(scrapy.Spider):
             self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
             
             # Construct the next page URL
-            base_url = 'https://www.walmart.com/browse/food/great-value-food/976759_7128585_9834661?page={page}&affinityOverride=default'
+            base_url = 'https://www.walmart.com/browse/fresh-produce/976759_976793?page={page}&affinityOverride=default'
             next_url = base_url.format(page=next_page)
             
             # Make a new request for the next page
