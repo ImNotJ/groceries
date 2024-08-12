@@ -49,6 +49,9 @@ df[['price_per_unit', 'ppu_unit']] = df['price_per_unit'].apply(split_price_per_
 # Fill missing price_per_unit with 'N/A'
 df['price_per_unit'].fillna('N/A', inplace=True)
 
+# Keep only the item with the highest price for each item_name
+df = df.loc[df.groupby('item_name')['price'].idxmax()]
+
 # Remove the sale_price column
 df.drop(columns=['sale_price'], inplace=True)
 
