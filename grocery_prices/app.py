@@ -106,7 +106,7 @@ else:
             - **Select Store:** Choose one or more stores from the list to filter the data.
             - **Select Date Range:** Use the date inputs to select the start and end dates for the data you want to view.
             - **Select Category:** Choose one or more categories to filter the items displayed.
-            - **Select Grocery Item:** Depending on the number of stores selected, choose a specific grocery item to view its price history.
+            - **Select Grocery Item:** Select multiple stores to compare one grocery item, or one store to compare multiple grocery items. 
             - **View Graph:** The graph will display the price history of the selected items over the chosen date range.
             - **Inflation and CPI:** Below the graph, you will see the calculated inflation and CPI based on the selected filters.
             """)
@@ -125,6 +125,10 @@ else:
             st.sidebar.markdown("""
             The data is sourced from the respective stores' websites in Cary, NC. The items selected for data scraping are store brand items unless no store brand item for that grocery item exists, in which case the name brand item is used. The prices listed do not include sale prices and also list price per weight or price per unit if provided on the website for standardization across stores.
             """)
+
+            # Link to GitHub repository
+            st.sidebar.markdown("### Learn More:")
+            st.sidebar.markdown("[My Github Repository](https://github.com/ImNotJ/groceries)")
 
             
         else:

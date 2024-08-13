@@ -2,8 +2,7 @@ import pandas as pd
 import re
 import sys
 
-# Read the CSV file
-df = pd.read_csv('prices.csv')
+
 def clean_data(input_file, output_file):
     # Read the CSV file
     df = pd.read_csv(input_file)
