@@ -2,7 +2,7 @@ date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
 2024-08-11,"Fresh Banana Fruit, Each",0.24,0.5,Walmart,lb,Bananas,Fresh Produce
 2024-08-11,"Fresh Broccoli Crowns, Each",1.26,1.68,Walmart,lb,Broccoli,Fresh Produce
 2024-08-11,"Fresh Cilantro, Bunch",0.57,0.143,Walmart,oz,Cilantro,Fresh Produce
-2024-08-11,"Fresh Color Bell Peppers, 3 Count",2.98,N/A,Walmart,N/A,Bell Peppers,Fresh Produce
+2024-08-11,"Fresh Color Bell Peppers, 3 Count",2.98,.893,Walmart,count,Bell Peppers,Fresh Produce
 2024-08-11,"Fresh Hass Avocados, Each",0.94,N/A,Walmart,N/A,Avocados,Fresh Produce
 2024-08-11,"Fresh Italian Parsley Bunch, Each",0.88,N/A,Walmart,N/A,Parsley,Fresh Produce
 2024-08-11,"Fresh Lemon, Each",0.68,N/A,Walmart,N/A,Lemon,Fresh Produce
