@@ -26,8 +26,8 @@ if __name__ == "__main__":
     date_str = datetime.now().strftime('%Y-%m-%d')
 
     # Define the output file paths
-    raw_output_file = f'/prices/prices-{date_str}.csv'
-    cleaned_output_file = f'/cleaned_prices/cleaned_prices-{date_str}.csv'
+    raw_output_file = f'./data/prices/prices-{date_str}.csv'
+    cleaned_output_file = f'./data/cleaned_prices/cleaned_prices-{date_str}.csv'
 
     # Ensure the directories exist
     os.makedirs('/prices', exist_ok=True)
@@ -47,5 +47,5 @@ if __name__ == "__main__":
     p2.join()
 
     # After scraping, run the cleaning script
-    subprocess.run(['python3', 'clean_data.py', raw_output_file, cleaned_output_file])
+    subprocess.run(['python', 'clean_data.py', raw_output_file, cleaned_output_file])
 
