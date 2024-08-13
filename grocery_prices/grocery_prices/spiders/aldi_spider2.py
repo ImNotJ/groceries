@@ -8,22 +8,22 @@ from grocery_prices.items import GroceryPriceItem
 from datetime import datetime
 import logging
 
-class AldiSpider(scrapy.Spider):
-    name = 'aldi'
+class Aldi2Spider(scrapy.Spider):
+    name = 'aldi2'
 
     def __init__(self, *args, **kwargs):
-        super(AldiSpider, self).__init__(*args, **kwargs)
+        super(Aldi2Spider, self).__init__(*args, **kwargs)
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
         # First request to the specific link
-        initial_url = 'https://new.aldi.us/products/fresh-produce/k/13'
-        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 7, 'initial': True})
+        initial_url = 'https://new.aldi.us/products/bakery-bread/k/6'
+        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 6, 'initial': True})
 
     def parse(self, response):
         self.driver.get(response.url)
 
-        # Allow JavaScript to load content
+        # Allow JavaScript to load contents
         self.driver.implicitly_wait(10)
 
         sel = Selector(text=self.driver.page_source)
@@ -75,7 +75,7 @@ class AldiSpider(scrapy.Spider):
             self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
             # Construct the next page URL
-            base_url = 'https://new.aldi.us/products/fresh-produce/k/13?page={page}'
+            base_url = 'https://new.aldi.us/products/bakery-bread/k/6?page={page}'
             next_url = base_url.format(page=next_page)
 
             # Make a new request for the next page

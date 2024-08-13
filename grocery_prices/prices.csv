@@ -1,0 +1,831 @@
+date,item_name,price,price_per_unit,sale_price,store
+2024-08-13,"Chicken Caesar Salad Bowl, 6.25 oz",3.19,6.3 oz,N/A,Aldi
+2024-08-13,"Flat Leaf Spinach, 8 oz",1.65,8 oz,N/A,Aldi
+2024-08-13,"Classic Coleslaw, 14 oz",1.69,14 oz,N/A,Aldi
+2024-08-13,Chef Salad Bowl,3.19,7.8 oz,N/A,Aldi
+2024-08-13,"Spinach & Artichoke Stuffed Mushrooms, 8.5 oz",4.39,8.5 oz,N/A,Aldi
+2024-08-13,"Organic Chopped Kale, 12 oz",3.55,12 oz,N/A,Aldi
+2024-08-13,"Pineapple  Spears, 16 oz",4.19,16 oz,N/A,Aldi
+2024-08-13,"Southwest Chopped Salad Kit, 12 oz",3.65,12 oz,N/A,Aldi
+2024-08-13,Sunflower Chopped Salad Kit,3.65,11.1 oz,N/A,Aldi
+2024-08-13,"Italian Salad, 9 oz",2.85,7 oz,N/A,Aldi
+2024-08-13,"Spring Mix, 5 oz",2.09,5 oz,N/A,Aldi
+2024-08-13,"Garden Salad, 12 oz",1.95,12 oz,N/A,Aldi
+2024-08-13,"Sweet Kale Chopped Salad Kit, 12 oz",3.65,12 oz,N/A,Aldi
+2024-08-13,"Caesar  Salad Kit, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Asian Chopped Salad Kit, 12 oz",3.65,1 each,N/A,Aldi
+2024-08-13,"Organic Arugula and Spinach Mix, 5 oz",3.19,5 oz,N/A,Aldi
+2024-08-13,"Shredded Lettuce, 8 oz",2.09,8 oz,N/A,Aldi
+2024-08-13,"Mango Slices, 16 oz",4.75,16 oz,N/A,Aldi
+2024-08-13,"Watermelon  Spears, 16 oz",4.19,16 oz,N/A,Aldi
+2024-08-13,"Sweet Butter Salad, 8 oz",2.85,6 oz,N/A,Aldi
+2024-08-13,"Organic  Mixed Greens, 5 oz",3.19,5 oz,N/A,Aldi
+2024-08-13,"Organic Spring Mix, 16 oz",5.39,16 oz,N/A,Aldi
+2024-08-13,"Organic Baby Spinach, 5 oz",3.19,5 oz,N/A,Aldi
+2024-08-13,"Caesar Chopped Salad Kit, 10.80 oz",3.65,10.8 oz,N/A,Aldi
+2024-08-13,Party Pack Tomatoes,5.49,1.5 lb,N/A,Aldi
+2024-08-13,"Carrots, 2 lb",1.39,2 lb,N/A,Aldi
+2024-08-13,"Romaine Lettuce Hearts, 3 count",3.15,3 ct,N/A,Aldi
+2024-08-13,"Cucumber, each",0.65,1 each,N/A,Aldi
+2024-08-13,Artisan Lettuce,3.65,1 each,N/A,Aldi
+2024-08-13,"Baby  Peeled Carrots, 16 oz",0.99,16 oz,N/A,Aldi
+2024-08-13,"Granny Smith Apples, 3 lb",3.65,N/A,N/A,Aldi
+2024-08-13,"Golden Kiwi, Package",4.39,1 lb,N/A,Aldi
+2024-08-13,"Red Delicious Apples, 3 lb",3.29,3 lb,N/A,Aldi
+2024-08-13,"Strawberries,   1 lb",2.15,1 lb,N/A,Aldi
+2024-08-13,"Green Peppers, 3 pack",1.89,3 ct,N/A,Aldi
+2024-08-13,"Pink Lady Apples, 3 lb",4.29,N/A,N/A,Aldi
+2024-08-13,"Russet  Potatoes, 10 lb",5.75,N/A,N/A,Aldi
+2024-08-13,"Blueberries,   1 pint",2.09,1 pt,N/A,Aldi
+2024-08-13,"Organic Red Grapes, 2 lb",5.49,2 lb,N/A,Aldi
+2024-08-13,"Mandarin Oranges,  3 lb",3.95,3 lb,N/A,Aldi
+2024-08-13,"Pineapple, each",2.15,N/A,N/A,Aldi
+2024-08-13,"Portabella Mushrooms, 6 oz",2.39,6 oz,N/A,Aldi
+2024-08-13,"Blackberries, 6 oz",2.65,6 oz.,N/A,Aldi
+2024-08-13,"Asparagus,  1 lb",2.89,1 lb,N/A,Aldi
+2024-08-13,"Kiwi, 1 lb",2.49,2 lb,N/A,Aldi
+2024-08-13,"Organic Blueberries, Package",4.19,1 pt,N/A,Aldi
+2024-08-13,"Fresh Organic Strawberries, 1 lb",3.95,1 lb,N/A,Aldi
+2024-08-13,"Cauliflower Crowns, each",3.05,1 each,N/A,Aldi
+2024-08-13,"Mini Avocados, 6 count",3.75,6 ct,N/A,Aldi
+2024-08-13,"Anjou Pears, 3 lb",4.65,3 lb,N/A,Aldi
+2024-08-13,"Beefsteak Tomatoes, 1 lb",2.15,1 lb,N/A,Aldi
+2024-08-13,"Tomatoes On the Vine, 24 oz",3.19,24 oz,N/A,Aldi
+2024-08-13,"Sugar Snap Peas, 8 oz",2.75,8 oz,N/A,Aldi
+2024-08-13,"Mini Sweet Peppers, 1 lb",3.15,1 lb,N/A,Aldi
+2024-08-13,"Large Seedless Watermelon, each",5.05,1 each,N/A,Aldi
+2024-08-13,"Lemons, 2 lb",3.59,2 lb,N/A,Aldi
+2024-08-13,Organic Celery Hearts,2.45,1 each,N/A,Aldi
+2024-08-13,"Red  Potatoes, 5 lb",4.75,5 lb,N/A,Aldi
+2024-08-13,"Gourmet Medley Tomatoes, 12 oz",2.89,12 oz,N/A,Aldi
+2024-08-13,"Organic Mini Cucumbers, 1 lb",3.25,1 lb,N/A,Aldi
+2024-08-13,"Nectarines, 2 lb",3.85,2 lb,N/A,Aldi
+2024-08-13,"Green Onions, 5.5 oz",1.05,5.5 oz,N/A,Aldi
+2024-08-13,"Sliced White Mushrooms, 8 oz",1.49,8 oz,N/A,Aldi
+2024-08-13,"Organic Avocados, 4 pack",4.09,4 ct,N/A,Aldi
+2024-08-13,"Grape Tomatoes,  10 oz",2.09,10 oz,N/A,Aldi
+2024-08-13,"Organic Broccoli, each",3.55,1 each,N/A,Aldi
+2024-08-13,"Organic Pink Lady Apples, 3 lb",5.29,3 lb,N/A,Aldi
+2024-08-13,"Navel Oranges, 3 lb",3.19,N/A,N/A,Aldi
+2024-08-13,"Sweet Corn, 4 count",3.25,4 ct,N/A,Aldi
+2024-08-13,"Baking Potatoes, 5 lb",4.29,5 lb,N/A,Aldi
+2024-08-13,"Plums, 2 lb",3.85,2 lb,N/A,Aldi
+2024-08-13,"Snacking Tomatoes on the Vine, 9 oz",2.75,9 oz,N/A,Aldi
+2024-08-13,"Limes, 1 lb",2.19,1 lb,N/A,Aldi
+2024-08-13,"Celery, each",1.99,1 each,N/A,Aldi
+2024-08-13,"White Onions, 2 lb",2.75,2 lb,N/A,Aldi
+2024-08-13,"Cherub Grape Tomatoes, 10 oz",2.65,10 oz,N/A,Aldi
+2024-08-13,"Red Onions, 2 lb",2.59,2 lb,N/A,Aldi
+2024-08-13,"Mini Cucumbers, 1 lb",1.65,1 lb,N/A,Aldi
+2024-08-13,"Yellow Onions, 3 lb",2.59,N/A,N/A,Aldi
+2024-08-13,"Sweet Potatoes, 3 lb",2.55,3 lb,N/A,Aldi
+2024-08-13,"Multi-Colored Peppers,  3 count",3.29,3 ct,N/A,Aldi
+2024-08-13,Cilantro Bunch,0.65,1 each,N/A,Aldi
+2024-08-13,"Ginger Root, 8 oz",2.19,8 oz,N/A,Aldi
+2024-08-13,"Seedless Cucumber, ea",0.95,1 each,N/A,Aldi
+2024-08-13,"Bite Size Yellow Potatoes, 24 oz",2.75,N/A,N/A,Aldi
+2024-08-13,"Yellow  Potatoes, 5 lb",4.75,5 lb,N/A,Aldi
+2024-08-13,"Raspberries, 6 oz",2.99,6 oz,N/A,Aldi
+2024-08-13,"Cara Cara Oranges, 3 lb",4.95,3 lb,N/A,Aldi
+2024-08-13,"Organic Baby  Peeled Carrots, 16 oz",1.49,16 oz,N/A,Aldi
+2024-08-13,"Bite Size Medley Potatoes, 24 oz",2.75,24 oz,N/A,Aldi
+2024-08-13,"Baby Bella Mushrooms, 8 oz",1.35,8 oz,N/A,Aldi
+2024-08-13,"Brussels Sprouts, 1 lb",3.19,1 lb,N/A,Aldi
+2024-08-13,"Iceberg Lettuce, each",2.09,1 each,N/A,Aldi
+2024-08-13,"White Mushrooms, 8 oz",1.39,8 oz,N/A,Aldi
+2024-08-13,"Fancy Medjool Dates, 1 lb",5.39,1 lb,N/A,Aldi
+2024-08-13,"Peeled Garlic, 6 oz",2.85,6 oz,N/A,Aldi
+2024-08-13,"Organic Yellow Potatoes, 24 oz",4.39,24 oz,N/A,Aldi
+2024-08-13,"Organic Gala Apples, 3 lb",5.19,3 lb,N/A,Aldi
+2024-08-13,"Organic Pears, 2 lb",4.39,2 lb,N/A,Aldi
+2024-08-13,"Fuji Apples, 3 lb",3.55,3 lb,N/A,Aldi
+2024-08-13,"Gala Apples, 3 lb",3.49,3 lb,N/A,Aldi
+2024-08-13,"Garlic, 3 pack",1.49,3 ct,N/A,Aldi
+2024-08-13,"Honeycrisp Apples,  2 lb",3.29,2 lb,N/A,Aldi
+2024-08-13,"Cosmic Crisp Apples, 2 lb",3.29,2 lb,N/A,Aldi
+2024-08-13,"French  Green Beans, 1 lb",3.29,1 lb,N/A,Aldi
+2024-08-13,"Organic Romaine Hearts, 3 pack",4.09,3 ct,N/A,Aldi
+2024-08-13,"Roma Tomatoes, per lb",0.19,avg. 0.22 lb/piece,N/A,Aldi
+2024-08-13,"Organic Bananas, per lb",0.44,avg. 1 lb/piece,N/A,Aldi
+2024-08-13,"Red Grapes, per lb",2.90,avg. 2.25 lb/piece,N/A,Aldi
+2024-08-13,"Mango, each",0.35,avg. 0.39 lb/piece,N/A,Aldi
+2024-08-13,"Honeycrisp Apples, per lb",1.27,avg. 0.75 lb/piece,N/A,Aldi
+2024-08-13,"Bananas,   per lb",0.13,avg. 0.33 lb/piece,N/A,Aldi
+2024-08-13,Broccoli Crowns,2.09,avg. 1 lb/package,N/A,Aldi
+2024-08-13,"Cabbage, per lb",1.95,avg. 3 lb/piece,N/A,Aldi
+2024-08-13,"Apples, per lb",4.52,avg. 3.25 lb/piece,N/A,Aldi
+2024-08-13,Cantaloupe,2.19,1 each,N/A,Aldi
+2024-08-13,"Green Grapes,  per lb",3.58,avg. 2.25 lb/piece,N/A,Aldi
+2024-08-13,Yellow Squash,1.69,avg. 1.25 lb/package,N/A,Aldi
+2024-08-13,"Apples, per lb",1.27,avg. 0.75 lb/piece,N/A,Aldi
+2024-08-13,"Avocados, each",0.85,1 each,N/A,Aldi
+2024-08-13,Aloe Vera Plant - 19D,1.99,1 ea,N/A,Aldi
+2024-08-13,"Organic Cherub Grape Tomatoes, 10 oz",3.85,10 oz,N/A,Aldi
+2024-08-13,Cantaloupe Chunks,4.19,16 oz,N/A,Aldi
+2024-08-13,Zucchini Squash,2.24,avg. 1.5 lb/package,N/A,Aldi
+2024-08-13,"Bacon Caesar Chop Salad, 10.2 oz",3.65,10.2 oz.,N/A,Aldi
+2024-08-13,"Peaches, 2 lb",3.65,2 lb,N/A,Aldi
+2024-08-13,"2.5"" Lucky Bamboo Plant",6.49,1 ea,N/A,Aldi
+2024-08-13,"Santa Fe Salad Bowl, 3.75 oz",3.19,6.3 oz,N/A,Aldi
+2024-08-13,"Perfect Pairing Grapes, 3 lb",8.79,3 lb,N/A,Aldi
+2024-08-13,"Rosemary, 0.75 oz",1.89,0.75 oz,N/A,Aldi
+2024-08-13,"Thyme, 0.75 oz",1.89,0.75 oz,N/A,Aldi
+2024-08-13,"Mint, 0.75 oz",1.89,0.75 oz,N/A,Aldi
+2024-08-13,Assorted  Fresh Flower Bouquet,4.99,1 ea,N/A,Aldi
+2024-08-13,"Everything but the Begal Stuffed Mushrooms, 8.5 oz",4.39,8.5 oz,N/A,Aldi
+2024-08-13,Green Leaf,2.15,4 oz,N/A,Aldi
+2024-08-13,"Vidalia Onions, Bag",2.19,2 lb,N/A,Aldi
+2024-08-13,Red Bitesize Potatoes,3.05,N/A,N/A,Aldi
+2024-08-13,Jumbo Blueberries,4.39,9.8 oz,N/A,Aldi
+2024-08-13,"Watermelon Chunks, 1 lb",4.19,1 lb,N/A,Aldi
+2024-08-13,"Pineapple Chunks, 1 lb",4.19,1 lb,N/A,Aldi
+2024-08-13,"Vidalia Onions, Bag",2.75,2 lb,N/A,Aldi
+2024-08-13,Red Bitesize Potatoes,3.29,N/A,N/A,Aldi
+date,item_name,price,price_per_unit,sale_price,store
+2024-08-13,"Cinnamon Raisin Bagels, 6 count",2.09,20 oz,N/A,Aldi
+2024-08-13,"Raspberry Strip  Danish, 14 oz",3.29,14 oz,N/A,Aldi
+2024-08-13,"Pre Sliced Hot Dog Buns, 8 count",1.25,11 oz,N/A,Aldi
+2024-08-13,"Casera Amarillas Tostadas, 12.8 oz",2.55,12.8 oz,N/A,Aldi
+2024-08-13,"Flour Tortillas,  17.5 oz",2.05,17.5 oz,N/A,Aldi
+2024-08-13,"Fajita Flour Tortillas, 20 count",1.75,23 oz,N/A,Aldi
+2024-08-13,"Chocolate Chunk Cookies, 14 oz",3.65,14 oz,N/A,Aldi
+2024-08-13,"Low Sodium Sprouted 7 Grain Bread, 16 oz",4.29,16 oz,N/A,Aldi
+2024-08-13,"Blueberry Bagels, 20 oz",2.15,20 oz,N/A,Aldi
+2024-08-13,"Italian Bread Loaf, 16 oz",4.19,16 oz,N/A,Aldi
+2024-08-13,"Artisanal Bread, 20 oz",3.25,20 oz,N/A,Aldi
+2024-08-13,"Brioche  Hot Dog Buns, 9.52 oz",3.09,9.52 oz,N/A,Aldi
+2024-08-13,"Original Naan Bread, 17.6 oz",4.55,17.6 oz,N/A,Aldi
+2024-08-13,"Banana Nut Muffins, 4 count",4.35,14.1 oz,N/A,Aldi
+2024-08-13,"Cheese Strip  Danish, 14 oz",3.29,14 oz,N/A,Aldi
+2024-08-13,"Take  & Bake French Baguette, 12 oz",1.49,12 oz,N/A,Aldi
+2024-08-13,"White Pita Bread, 12 oz",2.99,11 oz,N/A,Aldi
+2024-08-13,"Mini Naan Bread, 12.7 oz",4.55,12.7 oz,N/A,Aldi
+2024-08-13,"Plain  Sliced Brioche Loaf, 17.6 oz",5.19,17.6 oz,N/A,Aldi
+2024-08-13,"100%  Whole Wheat Sandwich Skinnys, 12 oz",1.89,12 oz,N/A,Aldi
+2024-08-13,"Multigrain  Sandwich Skinnys, 12 oz",1.89,12 oz,N/A,Aldi
+2024-08-13,"Chocolate Chip Mini Muffins, 12 oz",3.95,12 oz,N/A,Aldi
+2024-08-13,"Pre Sliced  Hamburger Buns, 8 count",1.25,12 oz,N/A,Aldi
+2024-08-13,"Plain Mini Bagels, 18 oz",2.75,18 oz,N/A,Aldi
+2024-08-13,"Oatmeal Cranberry Cookies, 14 oz",3.65,14 oz,N/A,Aldi
+2024-08-13,"Pre-sliced Plain  Bagels, 6 count",2.09,18 oz,N/A,Aldi
+2024-08-13,"Plain English Muffins, 6 count",1.09,12 oz,N/A,Aldi
+2024-08-13,"Pre-Sliced Everything Bagels, 6 count",2.15,20 oz,N/A,Aldi
+2024-08-13,"Parmesan Romano Garlic Bread, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"12 Grain Wide Pan Bread, 24 oz",2.65,24 oz,N/A,Aldi
+2024-08-13,"Cinnamon  Sweet  Rolls, 8 counts",3.45,22 oz,N/A,Aldi
+2024-08-13,"Honey Wheat  Bread, 20 oz",1.95,20 oz,N/A,Aldi
+2024-08-13,"100%  Whole Wheat Bread, 20 oz",1.49,20 oz,N/A,Aldi
+2024-08-13,"Hawaiian   Sweet Rolls, 12 count",2.45,12 oz,N/A,Aldi
+2024-08-13,"Lemon  Sliced Loaf Cake, 8 Count",4.29,14 oz,N/A,Aldi
+2024-08-13,"Banana  Nut  Sliced Loaf Cake, 8 Count",4.29,14 oz,N/A,Aldi
+2024-08-13,"White Bread,  20 oz",0.89,20 oz,N/A,Aldi
+2024-08-13,"Apple  Lunchbox  Pie, 4 oz",0.89,4 oz,N/A,Aldi
+2024-08-13,"Cherry  Lunchbox  Pie, 4 oz",0.89,4 oz,N/A,Aldi
+2024-08-13,"Mini Croissants,  10 oz",2.99,10 oz,N/A,Aldi
+2024-08-13,"Garlic Herb Bread, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Cinnamon Raisin Bread, 16 oz",2.59,16 oz,N/A,Aldi
+2024-08-13,"Potato  Sandwich Rolls, 15 oz",2.75,15 oz,N/A,Aldi
+2024-08-13,"Blueberry Muffins, 4 count",4.35,14.1 oz,N/A,Aldi
+2024-08-13,"Chocolate Chip Muffins, 4 count",4.35,14.1 oz,N/A,Aldi
+2024-08-13,"Ready  to Bake Crescent Rolls, 8 count",2.05,8 oz.,N/A,Aldi
+2024-08-13,"Blueberry Mini Muffins, 12 oz",3.95,12 oz,N/A,Aldi
+2024-08-13,"Triple Chocolate  Creme Cake, 20 oz",4.69,20 oz,N/A,Aldi
+2024-08-13,"Cinnamon Raisin Mini Bagels, 18 oz",2.75,18 oz,N/A,Aldi
+2024-08-13,"Sprouted 7 Grain Bread, 16 oz",4.29,16 oz,N/A,Aldi
+2024-08-13,"Sliced Sourdough  Round, 24 oz",3.49,24 oz,N/A,Aldi
+2024-08-13,"Artisan Flatbread, 14.1 oz",4.39,14.1 oz,N/A,Aldi
+2024-08-13,"Spinach Herb Wraps, 15 oz",2.85,15 oz,N/A,Aldi
+2024-08-13,"Brioche Rolls, 16.9 oz",4.95,16.9 oz,N/A,Aldi
+2024-08-13,"Sun-Dried Tomato Wraps, 15 oz",2.85,15 oz,N/A,Aldi
+2024-08-13,"Center Split Deli Rolls - 6 count, 15 oz",2.45,15 oz,N/A,Aldi
+2024-08-13,"Chocolate  Chip Sliced Brioche Loaf, 1.1 lb",5.19,17.6 oz,N/A,Aldi
+2024-08-13,"Cinnamon  Rolls with Icing, 8 count",2.05,8 ct,N/A,Aldi
+2024-08-13,"Large Croissants, 10.5 oz",2.99,10.5 oz,N/A,Aldi
+2024-08-13,"Large  Burrito Flour Tortillas, 8 count",2.05,8 ct,N/A,Aldi
+2024-08-13,"Kitchen Sink Cookies, 14 oz",3.65,14 oz,N/A,Aldi
+2024-08-13,"Crunchy  Hard Taco Shells, 12 count",1.49,4.6 oz,N/A,Aldi
+2024-08-13,"Garlic Naan Bread, 17.6 oz",4.55,17.6 oz,N/A,Aldi
+2024-08-13,"Ciabatta Sandwich Rolls, 1.1 lb",2.65,18 oz,N/A,Aldi
+2024-08-13,"6"" White  Corn Tortillas, 30 count",1.85,25 oz,N/A,Aldi
+2024-08-13,"Classic  Kaiser Buns, 8 count",3.09,20.5 oz,N/A,Aldi
+2024-08-13,"Jumbo  Flaky  Biscuits, 16 oz",1.89,16 oz,N/A,Aldi
+2024-08-13,"Jumbo  Buttermilk Biscuits, 8 count",1.89,16 oz,N/A,Aldi
+2024-08-13,"6"" Yellow  Corn Tortillas, 30 count",1.85,25 oz,N/A,Aldi
+2024-08-13,"Heat  & Serve Garlic Knots, 8 count",2.79,10.4 oz,N/A,Aldi
+2024-08-13,"Seedtastic Organic  Bread, 27 oz",4.49,27 oz,N/A,Aldi
+2024-08-13,"Brioche Buns, 6 count",3.19,10.58 oz,N/A,Aldi
+2024-08-13,"Gluten Free Wide Pan Whole Grain Bread, 20 oz",7.25,20 oz,N/A,Aldi
+2024-08-13,"Maple French Toast Bagels, 17.5 oz",4.39,17.5 oz,N/A,Aldi
+2024-08-13,"Butterbread, 20 oz",3.79,20 oz,N/A,Aldi
+2024-08-13,"Pre Sliced Mini Hawaiian Bagel, 12 count",2.79,18 oz,N/A,Aldi
+2024-08-13,"Pane Italian Bread, 24 oz",5.49,24 oz,N/A,Aldi
+2024-08-13,"Organic Thin-Sliced 21 Whole Grains and Seeds Bread, 20.5 oz",5.75,20.5 oz,N/A,Aldi
+2024-08-13,"Organic  Graintastic Thin-sliced Bread, 20.4 oz",3.59,20.4 oz,N/A,Aldi
+2024-08-13,"Whole Wheat with Flax & Oat Bran Bread, 8 oz",2.99,8 oz,N/A,Aldi
+2024-08-13,"Club Rolls, 15.5 oz",3.85,15 oz,N/A,Aldi
+2024-08-13,"Keto Multiseed Tortillas, 7.8 oz",3.85,7.8 oz.,N/A,Aldi
+2024-08-13,"Bagel  Skinny's, 13 oz",2.89,13 oz,N/A,Aldi
+2024-08-13,"Pains au Chocolat, 12.69 oz",4.39,12.69 oz,N/A,Aldi
+2024-08-13,"Graintastic Organic  Bread, 27 oz",4.49,27 oz,N/A,Aldi
+2024-08-13,"Gluten Free Wide Pan White Bread, 20 oz",7.25,20 oz,N/A,Aldi
+2024-08-13,"Bagel Skinny's,  13 oz",2.89,13 oz,N/A,Aldi
+2024-08-13,"Plain Protein  Wraps, 12 oz",3.69,12 oz,N/A,Aldi
+2024-08-13,"Croissant Butter Flavor Buns, 4 count",3.99,10.6 oz,N/A,Aldi
+2024-08-13,"Keto Plain Tortillas, 7.8 oz",3.85,7.8 oz.,N/A,Aldi
+2024-08-13,"Organic  Seedtastic Thin-Sliced Bread, 20.4 oz",3.59,20.4 oz,N/A,Aldi
+2024-08-13,"Honey Wheat Bread, 20 oz",3.55,20 oz,N/A,Aldi
+2024-08-13,"Sesame Seed  Brioche Buns, 6 count",4.15,10.58 oz,N/A,Aldi
+2024-08-13,"Brioche Bagel, 17.5 oz",4.39,17.5 oz,N/A,Aldi
+2024-08-13,"Cheesecake  Sampler, 8 count",4.95,16 oz,N/A,Aldi
+2024-08-13,"Keto  Friendly White Bread, 14 oz",3.99,14 oz,N/A,Aldi
+2024-08-13,"Keto  Friendly Wheat Bread, 14 oz",3.99,14 oz,N/A,Aldi
+2024-08-13,"Garlic Mini Naan, 12.7 oz",4.55,12.7 oz,N/A,Aldi
+2024-08-13,"Soft  Taco Dinner Kit, 14 oz",3.45,14 oz,N/A,Aldi
+2024-08-13,"Crunchy  Taco Dinner Kit, 8.6 oz",3.45,8.6 oz,N/A,Aldi
+2024-08-13,"Hot Dog Buns, 13 oz",2.75,13 oz,N/A,Aldi
+2024-08-13,"Butter Bars, 11.2 oz",5.29,11.2 oz,N/A,Aldi
+2024-08-13,"Lemon Bars, 13.5 oz",5.29,13.5 oz,N/A,Aldi
+2024-08-13,"Sliced Italian Loaf, 24 oz",4.39,24 oz,N/A,Aldi
+2024-08-13,"Confetti Cake Mini Muffin, 40 count",5.39,16.5 oz,N/A,Aldi
+2024-08-13,"Chocolate Chip Mini Muffin, 40 count",5.39,16.5 oz,N/A,Aldi
+2024-08-13,"All  Butter Croissants, 6 count",4.39,12 oz,N/A,Aldi
+2024-08-13,"Carb Control Plain Wraps, 12 oz",3.45,12 oz,N/A,Aldi
+2024-08-13,"Carb Control Whole Wheat Wraps, 8 count",3.45,12 oz,N/A,Aldi
+2024-08-13,"40 Calorie Wheat Bread, 20 oz",2.35,20 oz,N/A,Aldi
+2024-08-13,"Chocolate Frosted Mini Donut, 14 oz",3.49,14 oz,N/A,Aldi
+2024-08-13,"Powdered Sugar Mini Donut, 14 oz",3.49,14 oz,N/A,Aldi
+2024-08-13,"Cinnamon  Crunch  Mini Muffins, 20 count",2.75,8.25 oz,N/A,Aldi
+2024-08-13,"Cotton  Candy  Mini Muffins, 20 count",2.75,8.25 oz,N/A,Aldi
+2024-08-13,"Oreo Mini Muffins, 13 oz",3.99,N/A,N/A,Aldi
+2024-08-13,"Cream Cheese Filled Croissant, 4 count",3.99,9.59 oz,N/A,Aldi
+2024-08-13,"Raspberry Filled Croissant, 4 count",3.99,9.59 oz,N/A,Aldi
+2024-08-13,"Chocolate  S'mores Soufflé, 2.8 oz",1.99,2.8 oz,N/A,Aldi
+2024-08-13,"Banana  Caramel Soufflé, 2.8 oz",1.99,2.8 oz,N/A,Aldi
+2024-08-13,"Hatch Green Chile Tortillas, 8 count",2.48,11.57 oz,N/A,Aldi
+2024-08-13,"Limoncello Cheesecake, 3.5 oz",2.59,3.5 oz,N/A,Aldi
+2024-08-13,"Sweet Ube Bread, 18 oz",3.99,18 oz,N/A,Aldi
+2024-08-13,"Triple Chocolate Mini Muffins, 9 count",4.29,14 oz,N/A,Aldi
+2024-08-13,"Strawberry Mini Muffins, 9 count",4.29,14 oz,N/A,Aldi
+date,item_name,price,price_per_unit,sale_price,store
+2024-08-13,"Organic Coconut  Oil, 14 oz",4.89,14 oz,N/A,Aldi
+2024-08-13,"Parsley Flakes, 0.25 oz",0.85,0.25 oz,N/A,Aldi
+2024-08-13,"Garlic Powder,  3.12 oz",0.85,3.12 oz,N/A,Aldi
+2024-08-13,"Organic Whole Wheat Spaghetti, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Brown Gravy Mix, 0.87 oz",0.39,0.87 oz,N/A,Aldi
+2024-08-13,"Reduced  Sodium Taco Seasoning Mix, 1 oz",0.45,1 oz,N/A,Aldi
+2024-08-13,"Roasted  Garlic Balsamic Vinaigrette Dressing, 12 fl oz",2.69,12 fl oz,N/A,Aldi
+2024-08-13,"Ranch Salad Dressing and Seasoning Mix, 1 oz",0.55,1 oz,N/A,Aldi
+2024-08-13,"Italian Salad Dressing and Seasoning Mix, 0.7 oz",0.55,0.7 oz,N/A,Aldi
+2024-08-13,"Spaghetti,  32 oz",2.09,32 oz,N/A,Aldi
+2024-08-13,"Organic Macaroni and Cheese, 6 oz",1.75,6 oz,N/A,Aldi
+2024-08-13,"Ultimate  Cheeseburger Cheesy Skillet Dinner Kit, 12.8 oz",2.35,12.8 oz,N/A,Aldi
+2024-08-13,"Organic Apple Cider Vinegar, 33.8 oz",5.75,33.8 fl oz,N/A,Aldi
+2024-08-13,"Condensed Cream of Chicken Soup, 10.5 oz",0.75,10.5 oz,N/A,Aldi
+2024-08-13,"Beef Broth, 32 oz",1.45,32 oz,N/A,Aldi
+2024-08-13,"Beef Cooking Stock, 32 oz",1.49,32 oz,N/A,Aldi
+2024-08-13,"Organic  Low Sodium Chicken Broth, 32 oz",1.95,32 oz,N/A,Aldi
+2024-08-13,"Organic Garlic Powder, 2.5 oz",2.15,2.5 oz,N/A,Aldi
+2024-08-13,"USDA  Organic Black Beans, 15 oz Can",1.09,15.5 oz,N/A,Aldi
+2024-08-13,"German Style Sauerkraut, 24 oz",1.75,24 oz,N/A,Aldi
+2024-08-13,"Mild  Fresh Cut Salsa, 16 oz",2.75,16 oz,N/A,Aldi
+2024-08-13,"Medium Fresh  Cut Salsa, 16 oz",2.75,16 oz,N/A,Aldi
+2024-08-13,"Vegetable Cooking Stock, 32 oz",1.49,32 oz,N/A,Aldi
+2024-08-13,"Teriyaki Sauce, 14.5 oz",2.45,14.5 oz,N/A,Aldi
+2024-08-13,"New  Orleans Style Jambalaya Rice Mix, 8 oz",1.19,8 oz,N/A,Aldi
+2024-08-13,"Pineapple Chunks in 100% Pineapple Juice, 20 oz Can",1.39,20 oz,N/A,Aldi
+2024-08-13,"Dry Black Beans, 32 fl oz",2.99,32 oz,N/A,Aldi
+2024-08-13,"Butter Flavored Pancake Syrup, 24 oz",2.59,24 fl oz,N/A,Aldi
+2024-08-13,"Oregano Leaves, 0.75 oz",0.85,0.75 oz,N/A,Aldi
+2024-08-13,"Organic Ground Cumin, 1.5 oz",2.15,1.5 oz,N/A,Aldi
+2024-08-13,"Pure Olive Oil, 16.9 fl oz",7.25,16.9 fl oz,N/A,Aldi
+2024-08-13,"Korma Curry Sauce, 15 oz",2.99,16 oz,N/A,Aldi
+2024-08-13,"Cinnamon  Applesauce Cups, 6 count",2.15,6 x 4 oz,N/A,Aldi
+2024-08-13,"Roasted Garlic  Alfredo Sauce, 15 oz",1.65,15 oz,N/A,Aldi
+2024-08-13,"Sardines in Mustard Sauce, 3.75 oz",1.09,3.75 oz,N/A,Aldi
+2024-08-13,"Italian Seasoning, 0.75 oz",0.85,0.75 oz,N/A,Aldi
+2024-08-13,"Ground Cinnamon, 2.37 oz",0.89,2.37 oz,N/A,Aldi
+2024-08-13,"Four Cheese  Homestyle  Instant Mashed Potatoes, 4 oz",0.99,4 oz,N/A,Aldi
+2024-08-13,"Marshmallows, 10 oz",1.05,10 oz,N/A,Aldi
+2024-08-13,"Rice Pilaf Mix, 6.09 oz",1.05,6.09 oz,N/A,Aldi
+2024-08-13,"Tomato  Ketchup, 38 oz",1.89,38 oz,N/A,Aldi
+2024-08-13,"Distilled  White Vinegar, 32 fl oz",1.35,32 fl oz,N/A,Aldi
+2024-08-13,"Organic 90 Second Seven Grains, 8.8 oz",2.55,8.8 oz,N/A,Aldi
+2024-08-13,"Organic  Beef Bone Broth, 32 oz",3.09,32 oz,N/A,Aldi
+2024-08-13,"Distilled White Vinegar, 128 fl oz",3.25,128 fl oz,N/A,Aldi
+2024-08-13,"Ready  to Bake Pizza Dough, 16 oz",1.35,16 oz,N/A,Aldi
+2024-08-13,"Organic Ketchup, 20 oz",2.09,20 oz,N/A,Aldi
+2024-08-13,"Strawberry & Orange Gel Cups, 4 count",1.25,4 x 3.25 oz,N/A,Aldi
+2024-08-13,"Organic Chipotle Ranch Dressing, 12 fl oz",3.05,12 fl oz,N/A,Aldi
+2024-08-13,"Non GMO Unsweetened Applesauce Squeezies, 3.2 oz pouches, 12 pack",6.05,12 x 3.2 oz,N/A,Aldi
+2024-08-13,"Organic Raspberry  Preserves, 11 oz",2.39,11 oz,N/A,Aldi
+2024-08-13,"Steak Seasoning, 3.4 oz",1.05,3.4 oz,N/A,Aldi
+2024-08-13,"Lemon Pepper Seasoning, 3.5 oz",0.85,3.5 oz,N/A,Aldi
+2024-08-13,"Organic Cayenne Pepper, 1.62 oz",2.15,1.7 oz,N/A,Aldi
+2024-08-13,"Table Blend Salt Free Seasoning Blend, 2.5 oz",2.95,2.5 oz,N/A,Aldi
+2024-08-13,"Lemon Pepper Salt Free Seasoning Blend, 2.5 oz",2.95,2.5 oz,N/A,Aldi
+2024-08-13,"Creamy  Beef Stroganoff Cheesy Skillet Dinner Kit, 11.6 oz",2.35,11.6 oz,N/A,Aldi
+2024-08-13,"Balsamic Vinegar of Modena, 16.9 fl oz",2.75,16.9 oz,N/A,Aldi
+2024-08-13,"Baking Powder, 8.1 oz",2.09,8.1 oz,N/A,Aldi
+2024-08-13,"Zesty  Italian Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Thousand  Island Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Mandarin Orange  Gel Bowls, 4 count",2.35,4 x 4.3 oz,N/A,Aldi
+2024-08-13,"Belgian  Semi Sweet Chocolate Chunks, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Light Mayonnaise, 30 fl oz",3.45,30 fl oz,N/A,Aldi
+2024-08-13,"Peaches in  Naturally Flavored Strawberry Gel Bowls, 4 count",2.35,4 x 4.3 oz,N/A,Aldi
+2024-08-13,"Mixed Fruit  in Blackcherry Gel Bowls, 4 count",2.35,4 x 4.3 oz,N/A,Aldi
+2024-08-13,"Kosher Dill Pickle Spears, 32 fl oz",3.29,32 fl oz,N/A,Aldi
+2024-08-13,"Pineapple Titbits Fruit Bowl in 100% Juice - 4 pack, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Peach  Fruit Bowl in 100% Juice - 4 pack, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Buttermilk  Ranch Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Garlic and Herb Long Grain & Wild Rice Mix, 5.9 oz",2.09,5.9 oz,N/A,Aldi
+2024-08-13,"Clover  Honey, 24 oz",4.79,24 oz,N/A,Aldi
+2024-08-13,"Pork and Beans in Tomato Sauce, 16 oz Can",0.95,16 oz,N/A,Aldi
+2024-08-13,"Hickory BBQ Sauce, 18 oz",1.29,18 oz,N/A,Aldi
+2024-08-13,"Vienna Sausage, 4.6 oz",0.85,4.6 oz,N/A,Aldi
+2024-08-13,"Fat Free Refried Beans, 16 oz",1.09,16 oz,N/A,Aldi
+2024-08-13,"Yellow Cling Peach Slices in Extra Light Syrup, 14.75 oz",1.55,14.75 oz,N/A,Aldi
+2024-08-13,"Fruit Cocktail in Heavy Syrup, 15.25 oz",1.45,15.25 oz,N/A,Aldi
+2024-08-13,"Chicken Stuffing Mix, 6 oz",0.99,6 oz,N/A,Aldi
+2024-08-13,"Sardines in Spring Water, 4.25 oz",1.09,4.25 oz,N/A,Aldi
+2024-08-13,"Tomato Paste, 6 oz",0.95,6 oz,N/A,Aldi
+2024-08-13,"Fruit  Bowls Mandarin Oranges in 100% Juice - 4 count, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Organic 90 Second Quinoa and Brown Rice, 8.8 oz",2.55,8.8 oz,N/A,Aldi
+2024-08-13,Organic Blueberry  Preserves 11 oz,2.39,11 oz,N/A,Aldi
+2024-08-13,"Jellied Cranberry Sauce, 14 oz",1.75,14 oz,N/A,Aldi
+2024-08-13,"Mini Marshmallows, 10 oz",1.05,10 oz,N/A,Aldi
+2024-08-13,"Solid White Tuna in Water, 5 oz",1.55,5 oz,N/A,Aldi
+2024-08-13,"Original Chili Seasoning Mix, 1.25 oz",0.55,1.25 oz,N/A,Aldi
+2024-08-13,"Minced Garlic in Extra Virgin Olive Oil, 7 oz",2.19,7 oz,N/A,Aldi
+2024-08-13,"Chicken Flavored Rice Mix, 3.9 oz",1.05,6.9 oz,N/A,Aldi
+2024-08-13,"Blackberry Fruit Spread with 75% Fruit, 9.95 oz",2.85,9.95 oz,N/A,Aldi
+2024-08-13,"Strawberry Fruit Spread with 75% Fruit, 9.95 oz",2.85,9.95 oz,N/A,Aldi
+2024-08-13,"Powdered Sugar,  32 oz",2.09,32 oz,N/A,Aldi
+2024-08-13,"USDA  Organic Red Kidney Beans, 15.5 oz Can",0.99,15 oz,N/A,Aldi
+2024-08-13,"Sucralose Sweetener, 100 count",1.65,100 ct,N/A,Aldi
+2024-08-13,"Almond  Flour, 16 oz",5.65,16 oz,N/A,Aldi
+2024-08-13,"Great Northern Beans, 15.5 oz Can",0.89,15.5 oz,N/A,Aldi
+2024-08-13,"Honey  Bear, 12 oz",3.69,12 oz,N/A,Aldi
+2024-08-13,"Honey  Mustard Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Ranch  Dressing, 16 fl oz",1.89,16 oz,N/A,Aldi
+2024-08-13,"Italian  Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Ground Black Pepper, 3 oz",3.19,3 oz,N/A,Aldi
+2024-08-13,"Semi-Sweet Mini Chocolate Morsels, 12 oz",2.55,12 oz,N/A,Aldi
+2024-08-13,"Himalayan Pink Salt Grinder, 3.53 oz",2.09,3.53 oz,N/A,Aldi
+2024-08-13,"Sea Salt Grinder, 3.53 oz",2.09,3.15 oz,N/A,Aldi
+2024-08-13,"Macaroni and Cheese, 7.25 oz",0.65,7.25 oz,N/A,Aldi
+2024-08-13,"Pink  Salmon, 14.75 oz",2.85,14.75 oz,N/A,Aldi
+2024-08-13,"Sliced  Carrots, 14.5 oz Can",1.05,14.5 oz,N/A,Aldi
+2024-08-13,"Deli-Sliced Jalapeno Peppers, 16 fl oz",2.55,16 fl oz,N/A,Aldi
+2024-08-13,"Belgian  Dark Chocolate Chunks, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Cream Style Sweet Corn, 14.75 oz",0.69,14.75 oz,N/A,Aldi
+2024-08-13,"Raspberry Fruit Spread with 75% Fruit, 9.95 oz",2.85,9.95 oz,N/A,Aldi
+2024-08-13,"Pure Vegetable Oil, 48 fl oz",3.85,48 fl oz,N/A,Aldi
+2024-08-13,"Tomato, Basil and Garlic Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"Lentils, 16 oz",1.55,16 oz,N/A,Aldi
+2024-08-13,"Strawberry Preserves, 18 oz",2.45,18 oz,N/A,Aldi
+2024-08-13,"Cornbread Stuffing Mix, 6 oz",0.99,6 oz,N/A,Aldi
+2024-08-13,"Kosher Baby Whole Dill Pickles, 16 oz",1.65,16 fl oz,N/A,Aldi
+2024-08-13,"Black Peppercorn Grinder, 1.76 oz",2.19,1.76 oz,N/A,Aldi
+2024-08-13,"Semi-Sweet Chocolate Morsels, 12 oz",2.55,12 oz,N/A,Aldi
+2024-08-13,"Gluten  Free Pancake and Baking Mix, 16 oz",3.25,16 oz,N/A,Aldi
+2024-08-13,"Strawberry Gel  Snacks Cups, 4 count",1.25,4 x 3.25 oz,N/A,Aldi
+2024-08-13,"Hot Chili Seasoning Mix, 1.25 oz",0.55,1.25 oz,N/A,Aldi
+2024-08-13,"Organic White Rice, 2 lb",2.95,28 oz,N/A,Aldi
+2024-08-13,"Pears  Fruit Bowl in 100% Juice - 4 pack, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Cherry  Mixed Fruit in 100% Juice - 4 count, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Tropical Fruit Bowl in 100% Juice - 4 pack, 4 oz",2.19,4 x 4 oz,N/A,Aldi
+2024-08-13,"Garlic Salt with Parsley, 3.5 oz",1.09,3.5 oz,N/A,Aldi
+2024-08-13,"Stewed Tomatoes, 14.5 oz",1.05,14.5 oz,N/A,Aldi
+2024-08-13,"Reduced Sodium Chili Seasoning Mix, 1.25 oz",0.55,1.25 oz,N/A,Aldi
+2024-08-13,"Unsweetened  Applesauce Cups, 6 count",1.75,6 x 4 oz,N/A,Aldi
+2024-08-13,"Pure Corn Oil, 48 fl oz",5.39,48 fl oz,N/A,Aldi
+2024-08-13,"Real Mayonnaise, 30 oz",3.45,30 fl oz,N/A,Aldi
+2024-08-13,"Pure Vanilla Extract, 2 oz",3.25,2 fl oz,N/A,Aldi
+2024-08-13,"Mild Chili Beans, 15.5 oz",0.89,15.5 oz,N/A,Aldi
+2024-08-13,"Tikka Masala Curry Sauce, 15 oz",2.99,16 oz,N/A,Aldi
+2024-08-13,"Butter Chicken Curry Sauce, 15 oz",2.99,15 oz,N/A,Aldi
+2024-08-13,"Sweet Orange Marmalade Preserves, 18 oz",2.45,18 oz,N/A,Aldi
+2024-08-13,"Provolini  Antipasti Olives, 7 oz",3.55,7 oz,N/A,Aldi
+2024-08-13,"Shells and Cheese, 12 oz",1.49,12 oz,N/A,Aldi
+2024-08-13,"Organic  Salsa Medium, 16 oz",2.95,16 oz,N/A,Aldi
+2024-08-13,"Organic  Salsa Hot, 16 oz",2.95,16 oz,N/A,Aldi
+2024-08-13,"Organic  Salsa Mild, 16 oz",2.95,16 oz,N/A,Aldi
+2024-08-13,"Taco  Seasoning Mix, 1 oz",0.45,1 oz,N/A,Aldi
+2024-08-13,"Spicy Brown Mustard, 12 oz",1.45,12 oz,N/A,Aldi
+2024-08-13,"Canned Diced Tomatoes with Green Chilies, 10 oz",0.95,10 oz,N/A,Aldi
+2024-08-13,"Mushroom Risotto, 6 oz",1.99,6 oz,N/A,Aldi
+2024-08-13,"Blackeye Peas, 15.5 oz Can",1.29,15.5 oz,N/A,Aldi
+2024-08-13,"Caesar Croutons, 5 oz",1.25,5 oz,N/A,Aldi
+2024-08-13,"Cheese and Garlic Croutons, 5 oz",1.25,5 oz,N/A,Aldi
+2024-08-13,"Creamy Alfredo  Sauce, 15 oz",1.65,15 oz,N/A,Aldi
+2024-08-13,"Gluten  Free Brownie Mix, 16 oz",3.25,16 oz,N/A,Aldi
+2024-08-13,"Pure Canola Oil, 48 fl oz",3.55,48 fl oz,N/A,Aldi
+2024-08-13,"Apricot Preserves, 18 oz",2.45,18 oz,N/A,Aldi
+2024-08-13,"Organic Marinara Pasta Sauce, 23.5 oz",2.15,25 oz,N/A,Aldi
+2024-08-13,"Kalamata Pitted Olives, 6 oz",2.49,6 oz,N/A,Aldi
+2024-08-13,"Mandarin Oranges in Light Syrup, 15 oz",1.45,15 oz,N/A,Aldi
+2024-08-13,"Organic Tomato Basil Pasta Sauce, 24 oz",2.15,25 oz,N/A,Aldi
+2024-08-13,"Light  Brown Sugar, 32 oz",2.09,32 oz,N/A,Aldi
+2024-08-13,"Wide  Egg Noodles, 16 oz",1.65,16 oz,N/A,Aldi
+2024-08-13,"Long Grain White Rice, 3 lb",2.19,3 lb,N/A,Aldi
+2024-08-13,"Chopped  Green Chiles, 4 oz Can",0.89,4 oz,N/A,Aldi
+2024-08-13,"Quartered Marinated Artichoke Hearts, 12 oz",2.85,12 oz,N/A,Aldi
+2024-08-13,"Black  Beans, 15 oz Can",0.89,15 oz,N/A,Aldi
+2024-08-13,"Diced Tomatoes, 14.5 oz",0.85,14.5 oz,N/A,Aldi
+2024-08-13,"Strawberry Gelatin Mix, 3 oz",0.89,3 oz,N/A,Aldi
+2024-08-13,"Green Split Peas, 16 oz",1.55,16 oz,N/A,Aldi
+2024-08-13,"Canned Mushrooms, Pieces & Stems, 4 oz",1.45,4 oz,N/A,Aldi
+2024-08-13,"Extra Moist Classic White Cake Mix, 15.25 oz",1.09,15.25 oz,N/A,Aldi
+2024-08-13,"Dry Pinto Beans, 32 oz",2.15,32 oz,N/A,Aldi
+2024-08-13,"Dry Great Northern Beans, 32 oz",2.65,32 oz,N/A,Aldi
+2024-08-13,"Crushed Tomatoes, 28 oz",1.65,28 oz,N/A,Aldi
+2024-08-13,"Pork Luncheon Meat, 12 oz",2.15,12 oz,N/A,Aldi
+2024-08-13,"Lite Pancake Syrup, 24 oz",2.59,24 fl oz,N/A,Aldi
+2024-08-13,"Creamy Peanut Butter, 18 oz",2.09,18 oz,N/A,Aldi
+2024-08-13,"Hamburger Dill Pickle Chips, 32 fl oz",1.55,32 fl oz,N/A,Aldi
+2024-08-13,"Canned  Cut Green Beans, 15 oz",0.69,15 oz,N/A,Aldi
+2024-08-13,"Chunky Chicken Noodle Soup, 18.6 oz",1.85,18.6 oz,N/A,Aldi
+2024-08-13,"Original Chili with Beans, 15 oz",2.09,14 oz,N/A,Aldi
+2024-08-13,"Canned  Corned Beef, 12 oz",3.19,12 oz,N/A,Aldi
+2024-08-13,"Chunky  Blue Cheese Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Cannellini Beans, 15.5 oz",0.89,15.5 oz,N/A,Aldi
+2024-08-13,"White Wine Vinegar, 16.9 fl oz",2.75,16.9 oz,N/A,Aldi
+2024-08-13,"Reduced Sodium Soy Sauce, 15 fl oz",1.65,15 fl oz,N/A,Aldi
+2024-08-13,"Large Ripe Pitted Black Olives, 6 oz",2.05,6 oz,N/A,Aldi
+2024-08-13,"Creamy  Peanut Butter, 40 oz",3.29,40 oz,N/A,Aldi
+2024-08-13,"Chunk Light Tuna in Water, 5 oz Can",0.95,5 oz,N/A,Aldi
+2024-08-13,"Chunk Light Tuna in Oil, 5 oz",0.85,5 oz,N/A,Aldi
+2024-08-13,"Instant  White Rice, 28 oz",2.85,28 oz,N/A,Aldi
+2024-08-13,"Stevia No Calorie Sweetener, 9.7 oz",5.25,9.7 oz,N/A,Aldi
+2024-08-13,"Quartered Artichoke Hearts in Water, 12 oz",2.85,12 oz,N/A,Aldi
+2024-08-13,"Dijon Mustard, 12 oz",1.45,12 oz,N/A,Aldi
+2024-08-13,"Rosso Pesto Sauce, 6.7 oz",2.45,6.7 oz,N/A,Aldi
+2024-08-13,"Organic Spaghetti, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Organic Linguine, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Traditional Refried Beans, 16 oz",1.09,16 oz,N/A,Aldi
+2024-08-13,"Complete Buttermilk  Pancake & Waffle Mix, 32 oz",2.15,32 oz,N/A,Aldi
+2024-08-13,"Chili with No Beans, 15 oz",2.39,15 oz,N/A,Aldi
+2024-08-13,"Meat Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"Mushroom  Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"Orange Gelatin Mix, 3 oz",0.89,3 oz,N/A,Aldi
+2024-08-13,"Roasted Garlic Couscous, 5.8 oz",1.99,5.8 oz,N/A,Aldi
+2024-08-13,"Medium Sweet Peas, 15 oz",0.75,15 oz,N/A,Aldi
+2024-08-13,"Angel Hair Pasta, 32 oz",2.09,32 oz,N/A,Aldi
+2024-08-13,"Three  Cheese Vinaigrette Dressing, 12 fl oz",2.69,12 fl oz,N/A,Aldi
+2024-08-13,"Pear Slices in Heavy Syrup, 15 oz",1.65,15.25 oz,N/A,Aldi
+2024-08-13,"Canned  Whole Kernel Golden Sweet Corn, 15.25 oz",0.69,15.25 oz,N/A,Aldi
+2024-08-13,"Raspberry  Splash Vinaigrette Dressing, 12 fl oz",2.69,12 fl oz,N/A,Aldi
+2024-08-13,"Instant Sugar Free Vanilla Pudding Mix, 1 oz",0.95,1 oz,N/A,Aldi
+2024-08-13,"Pinto Beans, 30 oz",1.65,30 oz,N/A,Aldi
+2024-08-13,"House  Italian Vinaigrette Dressing, 12 fl oz",2.69,12 fl oz,N/A,Aldi
+2024-08-13,"Canned  Whole New Potatoes, 15 oz",1.05,15 oz,N/A,Aldi
+2024-08-13,"Condensed  Cream of Mushroom Soup, 10.5 oz",0.75,10.5 oz,N/A,Aldi
+2024-08-13,"Whipped Dressing, 30 fl oz",3.45,30 fl oz,N/A,Aldi
+2024-08-13,"Mixed Vegetables, 15 oz Can",1.05,15 oz,N/A,Aldi
+2024-08-13,"Original Pancake Syrup, 24 fl oz",2.55,24 fl oz,N/A,Aldi
+2024-08-13,"Maple  & Cured Bacon Baked Beans, 28 oz",1.85,28 oz,N/A,Aldi
+2024-08-13,"Tomato Sauce, 8 oz",0.55,8 oz,N/A,Aldi
+2024-08-13,"Peach Slices in Heavy Syrup, 15.25 oz",1.55,15.25 oz,N/A,Aldi
+2024-08-13,"Original Applesauce, 24 oz",2.99,24 oz,N/A,Aldi
+2024-08-13,"Dark Chocolate Morsels, 10 oz",2.55,10 oz,N/A,Aldi
+2024-08-13,"Fruit Cocktail in 100% Fruit Juice, 15 oz",1.45,15 oz,N/A,Aldi
+2024-08-13,"Spanish Manzanilla Pitted Stuff Olives, 5.75 oz",1.75,5.75 oz,N/A,Aldi
+2024-08-13,"Home Style Corned Beef Hash, 15 oz Can",2.99,15 oz,N/A,Aldi
+2024-08-13,"New  Orleans Style Dirty Rice Mix, 8 oz",1.19,8 oz,N/A,Aldi
+2024-08-13,"Crunchy Peanut Butter, 18 oz",2.09,18 oz,N/A,Aldi
+2024-08-13,"Concord  Grape Jelly, 30 oz",2.85,30 oz,N/A,Aldi
+2024-08-13,"Fudge  Brownie Mix, 18.3 oz",1.39,18.3 oz,N/A,Aldi
+2024-08-13,"All Purpose Flour, 5 lb",2.59,5 lb,N/A,Aldi
+2024-08-13,"Iodized Table Salt, 26 oz",0.75,26 oz,N/A,Aldi
+2024-08-13,"Soy Sauce, 15 fl oz",1.65,15 fl oz,N/A,Aldi
+2024-08-13,"Mild  Chunky Salsa, 24 oz",1.99,24 oz,N/A,Aldi
+2024-08-13,"Chocolate Syrup,  24 oz",2.15,24 oz,N/A,Aldi
+2024-08-13,"Chunky  Medium Salsa, 24 oz",2.19,24 oz,N/A,Aldi
+2024-08-13,"Yellow Mustard, 20 oz",1.05,20 oz,N/A,Aldi
+2024-08-13,"Olive Oil Mayonnaise, 30 fl oz",3.45,30 fl oz,N/A,Aldi
+2024-08-13,"Greek  Vinaigrette Dressing, 12 fl oz",2.69,12 fl oz,N/A,Aldi
+2024-08-13,"Fast Rising Instant Yeast Packets, 3 count",0.99,0.75 oz,N/A,Aldi
+2024-08-13,"Extra  Moist Classic Yellow Cake Mix, 15.25 oz",1.09,15.25 oz,N/A,Aldi
+2024-08-13,"Homestyle Baked  Beans, 28 oz",2.05,28 oz,N/A,Aldi
+2024-08-13,"French Style Green Beans, 14.5 oz",0.69,14.5 oz,N/A,Aldi
+2024-08-13,"Sardines in Soybean Oil, 3.75 oz",1.09,4.25 oz,N/A,Aldi
+2024-08-13,"Very Young Sweet Small Peas, 15 oz Can",1.05,15 oz,N/A,Aldi
+2024-08-13,"Cherry Pie  Filling and Topping, 21 oz",2.75,21 oz,N/A,Aldi
+2024-08-13,"Chocolate  Frosting, 16 oz",1.75,16 oz,N/A,Aldi
+2024-08-13,"Cream  Cheese Frosting, 16 oz",1.75,16 oz,N/A,Aldi
+2024-08-13,"Genovese Pesto Sauce, 6.7 oz",2.45,6.7 oz,N/A,Aldi
+2024-08-13,"Active Dry Yeast Packets, 3 count",0.99,0.75 oz,N/A,Aldi
+2024-08-13,"Vanilla  Frosting, 16 oz",1.75,16 oz,N/A,Aldi
+2024-08-13,"Natural Creamy Peanut Butter, 16 oz",2.15,16 oz,N/A,Aldi
+2024-08-13,"Cinnamon Applesauce, 24 oz",2.99,24 oz,N/A,Aldi
+2024-08-13,"Granulated Sugar, 4 lb",2.95,4 lb,N/A,Aldi
+2024-08-13,"Steak Sauce,  10 fl oz",1.79,10 oz,N/A,Aldi
+2024-08-13,"Graham  Cracker Pie Crust, 6 oz",1.39,6 oz,N/A,Aldi
+2024-08-13,"Baking Soda, 16 oz",0.99,16 oz,N/A,Aldi
+2024-08-13,"Classic  Caesar Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Premium Chunk  Chicken Breast, 12.5 oz",2.95,12.5 oz,N/A,Aldi
+2024-08-13,"Mild Banana Pepper Rings, 16 fl oz",2.55,16 fl oz,N/A,Aldi
+2024-08-13,"Chocolate Pudding  Cups - 4 pack, 3.2 oz",1.25,4 x 3.2 oz,N/A,Aldi
+2024-08-13,"New  Orleans Style Red Beans and Rice Mix, 8 oz",1.19,8 oz,N/A,Aldi
+2024-08-13,"Extra Moist Devil's Food Cake Mix, 15.25 oz",1.09,15.25 oz,N/A,Aldi
+2024-08-13,"Seasoned Salt, 16 oz",3.19,16 oz,N/A,Aldi
+2024-08-13,"Minced Garlic in Water, 8 oz",2.19,8 oz,N/A,Aldi
+2024-08-13,"Hazelnut Spread, 13 oz",2.59,13 oz,N/A,Aldi
+2024-08-13,"Buttery Instant Mashed Potatoes, 4 oz",0.99,4 oz,N/A,Aldi
+2024-08-13,"Chicken Broth, 32 oz",1.45,32 oz,N/A,Aldi
+2024-08-13,"Fat Free Reduced Sodium Chicken Broth, 32 oz",1.45,32 fl oz,N/A,Aldi
+2024-08-13,"Premium Sicilian Extra Virgin Olive Oil, 16.9 fl oz",10.45,16.9 fl oz,N/A,Aldi
+2024-08-13,"Non-GMO Grapeseed Oil, 25 fl oz",4.85,25 fl oz,N/A,Aldi
+2024-08-13,"Sardines in Hot Sauce, 3.75 oz",1.09,3.75 oz,N/A,Aldi
+2024-08-13,"Sweet and Sour Sauce, 14.5 oz",2.45,14.5 oz,N/A,Aldi
+2024-08-13,"Unsweetened  Applesauce, 46 oz",3.45,46 oz,N/A,Aldi
+2024-08-13,"Paprika, 2.12 oz",0.85,2.12 oz,N/A,Aldi
+2024-08-13,"Onion Powder, 2.62 oz",0.85,2.62 oz,N/A,Aldi
+2024-08-13,"Organic Strawberry  Preserves, 11 oz",2.39,11 oz,N/A,Aldi
+2024-08-13,"Traditional  Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"Marinara  Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"Four Cheese Sauce, 24 oz",1.95,24 oz,N/A,Aldi
+2024-08-13,"Hot  Sauce, 12 fl oz",1.89,12 fl oz,N/A,Aldi
+2024-08-13,"Rotini Pasta, 16 oz",1.09,16 oz,N/A,Aldi
+2024-08-13,"Chili Powder, 2.5 oz",0.85,2.5 oz,N/A,Aldi
+2024-08-13,"Organic  Wildflower Honey, 12 oz",4.39,12 oz,N/A,Aldi
+2024-08-13,"Panko Breadcrumbs, 8 oz",1.99,8 oz,N/A,Aldi
+2024-08-13,"Reduced Sodium Brown Gravy Mix, 0.87 oz",0.39,0.87 oz,N/A,Aldi
+2024-08-13,"Organic Extra Virgin Olive Oil, 16.9 fl oz",7.69,19.9 fl oz,N/A,Aldi
+2024-08-13,"German Bean Soup, 28 oz",2.75,28 oz,N/A,Aldi
+2024-08-13,"Stevia  No Calorie Sweetener Packets, 80 count",3.89,80 ct,N/A,Aldi
+2024-08-13,"Smoked Oysters in Cottonseed Oil, 3 oz",1.45,3 oz,N/A,Aldi
+2024-08-13,"Organic  Chicken Bone Broth, 32 oz",3.09,32 oz,N/A,Aldi
+2024-08-13,"Organic  Brown Rice, 32 oz",2.95,32 oz,N/A,Aldi
+2024-08-13,"Raw Honey, 24 oz",8.25,24 oz,N/A,Aldi
+2024-08-13,"Original Long Grain & Wild Rice Mix, 6 oz",2.09,6 oz,N/A,Aldi
+2024-08-13,"Creamy Almond  Butter, 12 oz",3.69,12 oz,N/A,Aldi
+2024-08-13,"Parmesan Couscous, 5.9 oz",1.99,5.9 oz,N/A,Aldi
+2024-08-13,"Original  Baked Beans, 28 oz",1.85,28 oz,N/A,Aldi
+2024-08-13,"Strawberry  Applesauce Cups, 6 count",2.15,6 x 4 oz,N/A,Aldi
+2024-08-13,"Four Cheese Risotto, 6 oz",1.99,6 oz,N/A,Aldi
+2024-08-13,"Red Wine Vinegar, 16.9 fl oz",2.75,16.9 oz,N/A,Aldi
+2024-08-13,"Pure  Maple Syrup, 12.5 fl oz",6.15,12.5 fl oz,N/A,Aldi
+2024-08-13,"Ready to Serve Roasted Chicken Flavored Rice with Herbs and Carrots, 8.8 oz",1.49,8.8 oz,N/A,Aldi
+2024-08-13,"USDA  Organic Pinto Beans, 15.5 oz Can",0.99,15 oz,N/A,Aldi
+2024-08-13,"Organic Creamy Peanut Butter, 16 oz",4.39,16 oz,N/A,Aldi
+2024-08-13,"Organic  Light Brown Sugar Pouch, 24 oz",3.45,24 oz,N/A,Aldi
+2024-08-13,"Organic Cane Sugar Pouch, 24 oz",3.45,32 oz,N/A,Aldi
+2024-08-13,"Tomato Basil Sauce, 24 oz",1.95,24 oz,N/A,Aldi
+2024-08-13,"Canned Garbanzo Beans Chick Peas, 15.5 oz",0.89,15.5 oz,N/A,Aldi
+2024-08-13,"Elbow  Macaroni, 32 oz",2.09,32 oz,N/A,Aldi
+2024-08-13,"Organic  Vegetable Broth, 32oz",1.95,32 oz,N/A,Aldi
+2024-08-13,"Four Cheese  Alfredo Sauce, 15 oz",1.65,15 oz,N/A,Aldi
+2024-08-13,"Giant   Marshmallows, 24 oz",2.19,24 oz,N/A,Aldi
+2024-08-13,"Unsweetened Baking Cocoa Powder, 8 oz",2.65,8 oz,N/A,Aldi
+2024-08-13,"Sweet Relish, 16 fl oz",1.75,16 fl oz,N/A,Aldi
+2024-08-13,"Butterscotch Morsels, 11 oz",2.55,11 oz,N/A,Aldi
+2024-08-13,"Milk Chocolate Morsels, 11.5 oz",2.55,11.5 oz,N/A,Aldi
+2024-08-13,"Original  Applesauce Cups, 6 count",1.75,6 x 4 oz,N/A,Aldi
+2024-08-13,"Organic  Chicken Broth, 32 oz",1.95,32 oz,N/A,Aldi
+2024-08-13,"Harvest Potato Soup, 28 oz",2.75,28 oz,N/A,Aldi
+2024-08-13,"Italian Seasoned Croutons, 5 oz",1.25,5 oz,N/A,Aldi
+2024-08-13,"Spanish Style Yellow Rice, 7 oz",1.65,7 oz,N/A,Aldi
+2024-08-13,"Original Chunk  Light Tuna in Water Pouch, 2.5oz",0.59,2.5 oz,N/A,Aldi
+2024-08-13,"Zesty Lemon  Pepper Tuna in Water Pouch, 2.5 oz",0.59,2.5 oz,N/A,Aldi
+2024-08-13,"Sweet  and Spicy Tuna in Water Pouch, 2.5 oz",0.59,2.5 oz,N/A,Aldi
+2024-08-13,"Organic Caesar Dressing, 12 fl oz",3.05,12 fl oz,N/A,Aldi
+2024-08-13,"Ground Cumin, 2 oz",0.85,2 oz,N/A,Aldi
+2024-08-13,"Minced Onion, 2 oz",0.85,2 oz,N/A,Aldi
+2024-08-13,"Organic Ground Cinnamon, 1.5 oz",2.15,1.5 oz,N/A,Aldi
+2024-08-13,"Organic Oregano Leaves, 0.5 oz",2.15,0.5 oz,N/A,Aldi
+2024-08-13,"Garlic and Herb Salt Free Seasoning Blend, 2.5 oz",2.95,2.5 oz,N/A,Aldi
+2024-08-13,"Crushed Red Pepper, 1.5 oz",0.89,1.5 oz,N/A,Aldi
+2024-08-13,"Original BBQ Sauce, 18 oz",1.29,18 oz,N/A,Aldi
+2024-08-13,"Honey BBQ Sauce, 18 oz",1.29,18 oz,N/A,Aldi
+2024-08-13,"Organic  Beef Broth, 32 oz",1.95,32 oz,N/A,Aldi
+2024-08-13,"Marinara Sauce, 24 oz",1.95,24 oz,N/A,Aldi
+2024-08-13,"Sweet Bread and Butter Pickle Chips, 24 fl oz",2.19,24 fl oz,N/A,Aldi
+2024-08-13,"Diced Tomatoes with Basil, Garlic and Oregano, 14.5 oz",1.05,14.5 oz,N/A,Aldi
+2024-08-13,"General Tso's Sauce, 14.5 oz",2.45,14.5 oz,N/A,Aldi
+2024-08-13,"Original Salt Free Seasoning Blend, 2.5 oz",2.95,2.5 oz,N/A,Aldi
+2024-08-13,"Organic  Quinoa, 16 oz",3.75,16 oz,N/A,Aldi
+2024-08-13,"Farfalle Pasta, 12 oz",1.09,12 oz,N/A,Aldi
+2024-08-13,"Organic Shells and White Cheddar, 6 oz",1.75,6 oz,N/A,Aldi
+2024-08-13,"Hearty Pea Soup, 28 oz",2.75,28 oz,N/A,Aldi
+2024-08-13,"Instant Vanilla Pudding Mix, 3.4 oz",0.95,3.4 oz,N/A,Aldi
+2024-08-13,"Balsamic  Vinaigrette Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Instant Sugar Free Chocolate Pudding Mix, 1.4 oz",0.95,1.4 oz,N/A,Aldi
+2024-08-13,"Organic Aged Balsamic Dressing, 12 fl oz",3.05,12 fl oz,N/A,Aldi
+2024-08-13,"Vanilla Pudding Cups, 4 count",1.25,4 x 3.2 oz,N/A,Aldi
+2024-08-13,"Instant Chocolate Pudding Mix, 3.9 oz",0.95,3.9 oz,N/A,Aldi
+2024-08-13,"Fire Roasted Diced Tomatoes, 14.5 oz Can",1.29,14.5 oz,N/A,Aldi
+2024-08-13,"California  French Style Dressing, 16 fl oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Light Ranch Salad Dressing, 16 oz",1.89,16 fl oz,N/A,Aldi
+2024-08-13,"Gluten  Free Yellow Cake Mix, 15 oz",3.25,15 oz,N/A,Aldi
+2024-08-13,"Canned Dark Red Kidney Beans, 15.5 oz",0.89,15.5 oz,N/A,Aldi
+2024-08-13,"Everything Bagel Seasoning, 2.3 oz",2.05,2.3 oz,N/A,Aldi
+2024-08-13,"Roasted Vegetable and Chicken Long Grain & Wild Rice Mix, 6.3 oz",2.09,6.3 oz,N/A,Aldi
+2024-08-13,"Organic Crushed Red Pepper, 1.12 oz",2.15,1.12 oz,N/A,Aldi
+2024-08-13,"Organic Ground Turmeric, 1.37 oz",2.15,1.37 oz,N/A,Aldi
+2024-08-13,"Avocado  Oil, 16.9 fl oz",5.49,16.9 fl oz,N/A,Aldi
+2024-08-13,"Ranch  Dressing, 36 oz",3.85,36 oz,N/A,Aldi
+2024-08-13,"Parboiled Long Grain Rice, 5 lb",4.35,5 lb,N/A,Aldi
+2024-08-13,"Restaurant Style Salsa, 16 oz",2.19,16 oz,N/A,Aldi
+2024-08-13,"Pineapple Salsa, 16 oz",2.19,16 oz,N/A,Aldi
+2024-08-13,"Black Bean & Corn Salsa, 16 oz",2.19,16 oz,N/A,Aldi
+2024-08-13,"Organic Oil and Vinegar Dressing, 12 fl oz",3.05,12 fl oz,N/A,Aldi
+2024-08-13,"Hot Fudge Ice  Cream Topping, 16 oz",2.45,16 oz,N/A,Aldi
+2024-08-13,"Premium  Double Chocolate Brownie Mix, 18 oz",2.19,18 oz,N/A,Aldi
+2024-08-13,"Fall Harvest Soup, 28 oz",2.75,28 oz,N/A,Aldi
+2024-08-13,"Light  Organic Agave Nectar, 23.5 oz",4.49,23.5 oz,N/A,Aldi
+2024-08-13,"Organic  Raw Agave Nectar, 23.5 oz",4.49,23.5 oz,N/A,Aldi
+2024-08-13,"Scalloped  Potatoes, 4.7 oz",1.09,4.7 oz.,N/A,Aldi
+2024-08-13,"White Baking Morsels, 11 oz",2.55,11 oz,N/A,Aldi
+2024-08-13,"Original Dry Rub Seasoning, 12 oz",5.19,12 oz,N/A,Aldi
+2024-08-13,"Variety  Pack Applesauce Squeezies, 12 count",6.05,12 x 3.2 oz,N/A,Aldi
+2024-08-13,"Onion Recipe, Soup & Dip Mix, 2 oz",0.89,2 x 1 oz,N/A,Aldi
+2024-08-13,"Chicken Rice & Sauce, 5.6 oz",1.09,5.6 oz,N/A,Aldi
+2024-08-13,"Chunky Chicken Noodle Soup, 18.6 oz Can",2.49,18.6 oz,N/A,Aldi
+2024-08-13,"Roasted  Garlic Pasta Sauce, 24 oz",1.49,24 oz,N/A,Aldi
+2024-08-13,"A1  Steak Sauce, 10 oz",4.39,10 oz,N/A,Aldi
+2024-08-13,"Chunky Chicken Noodle Soup, 18.6 oz Can",2.49,18.6 oz,N/A,Aldi
+2024-08-13,"No  Bake Double Chocolate Cheesecake, 9.2 oz",4.09,9.24 oz,N/A,Aldi
+2024-08-13,"Hot Sauce, 12 oz",2.99,12 oz,N/A,Aldi
+2024-08-13,"Restaurant  Style Asian Salad Dressing, 16 oz",1.95,16 fl oz,N/A,Aldi
+2024-08-13,"Ranch  & Bacon Pasta Salad Kit, 7.5 oz",1.75,7.5 oz,N/A,Aldi
+2024-08-13,"Classic Balsamic Glaze, 8.5 fl oz",4.05,8.5 fl oz,N/A,Aldi
+2024-08-13,"Morena Pure Cane Sugar, 6 lb",7.05,6 lb,N/A,Aldi
+2024-08-13,"90 Second Microwaveable Basmati Rice, 8.8 oz",1.55,8.8 oz,N/A,Aldi
+2024-08-13,"Yakisoba Chicken Flavor, 4 oz",1.09,4 oz,N/A,Aldi
+2024-08-13,"Original Barbecue Sauce, 28 oz",3.29,28 oz,N/A,Aldi
+2024-08-13,"Ready to Eat Chicken Salad Kit with Crackers, 3.5 oz",1.55,3.5 oz,N/A,Aldi
+2024-08-13,"Canola Cooking Spray, 8 oz",2.49,8 oz,N/A,Aldi
+2024-08-13,"Caramel  Ice Cream Topping, 16 oz",2.45,16 oz,N/A,Aldi
+2024-08-13,"Chunky New England Clam Chowder Soup, 18.8 oz Can",2.49,18.8 oz,N/A,Aldi
+2024-08-13,"Asiago Cheese Bagel Seasoning, 2.4 oz",2.05,2.4 oz,N/A,Aldi
+2024-08-13,"Bread & Butter Garden Pickle Chips, 25 oz",2.99,25 fl oz,N/A,Aldi
+2024-08-13,"Kosher Dill  Garden Pickle Spears, 25 oz",2.99,25 fl oz,N/A,Aldi
+2024-08-13,"Four Pepper Restaurant Style, 16 oz",3.29,16 oz,N/A,Aldi
+2024-08-13,"Slow Cooked Tomato and Sweet Basil Soup, 15.5 oz",2.99,15.5 oz,N/A,Aldi
+2024-08-13,"Au  Gratin  Potatoes, 4.7 oz",1.09,4.7 oz,N/A,Aldi
+2024-08-13,"Condensed Chicken Noodle Soup, 10.75 oz Can",1.39,10.75 oz,N/A,Aldi
+2024-08-13,"Avocado Oil Cooking Spray, 4 fl oz",2.95,4.7 fl oz,N/A,Aldi
+2024-08-13,"Tomato  Basil Pasta Sauce, 24 oz",3.79,24 oz,N/A,Aldi
+2024-08-13,"Restaurant  Style Mediterranean Salad Dressing, 16 oz",1.95,16 fl oz,N/A,Aldi
+2024-08-13,"Dilly Bites - 6 Pack, 3.25 oz",6.59,19.5 fl oz,N/A,Aldi
+2024-08-13,"Slow Cooked Broccoli and Cheddar Soup, 15.5 oz",2.99,15.5 oz,N/A,Aldi
+2024-08-13,"Cheddar Broccoli Rice & Sauce, 5.7 oz",1.09,5.7 oz,N/A,Aldi
+2024-08-13,"Express Mac and Cheese Cups, 4 count",3.85,8.2 oz,N/A,Aldi
+2024-08-13,"Spanish Rice & Sauce, 5.6 oz",1.09,5.6 oz.,N/A,Aldi
+2024-08-13,"Corn Muffin Mix, 8.5 oz",0.69,8.5 oz,N/A,Aldi
+2024-08-13,"Instant Lunch Ramen Noodle Soup Cups, Chicken Flavor, 6 count",2.85,13.5 oz,N/A,Aldi
+2024-08-13,"Strawberry Balsamic Glaze, 8.5 fl oz",4.05,8.5 fl oz,N/A,Aldi
+2024-08-13,"Organic Diced Tomatoes, 14 oz",1.35,14.5 oz,N/A,Aldi
+2024-08-13,"Ramen  Noodle Soup Chicken Flavor, 12 count",3.95,36 oz,N/A,Aldi
+2024-08-13,Instant Mashed Potatoes,2.19,13.75 oz,N/A,Aldi
+2024-08-13,"Jalapeno Bagel Seasoning, 2.3 oz",2.05,2.3 oz,N/A,Aldi
+2024-08-13,"Chunk Light Tuna in Water, 5 oz Can",1.25,5 oz,N/A,Aldi
+2024-08-13,"Bronze Cut Rigatoni, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Bronze Cut Conchiglie, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Avocado Tomatillo Salsa, 16 oz",3.29,16 oz,N/A,Aldi
+2024-08-13,"Peach Slices in 100% Juice, 15 oz",1.55,15 oz,N/A,Aldi
+2024-08-13,"Yakisoba Teriyaki Beef Flavor, 4 oz",1.09,4 oz,N/A,Aldi
+2024-08-13,"Roasted Garlic Risotto, 6 oz",1.99,6 oz,N/A,Aldi
+2024-08-13,"Sliced  Potatoes, 15 oz Can",1.05,15 oz,N/A,Aldi
+2024-08-13,"Ginger Dressing, 11 oz",3.85,11 oz,N/A,Aldi
+2024-08-13,"Organic Basil Stir in Paste, 2.8 oz",2.65,2.8 oz,N/A,Aldi
+2024-08-13,"Miracle Whip, 30 fl oz",5.39,30 fl oz,N/A,Aldi
+2024-08-13,"Honey Barbecue Sauce, 28 oz",3.29,28 oz,N/A,Aldi
+2024-08-13,"Organic Ginger Stir in Paste, 2.8 oz",2.65,2.8 oz,N/A,Aldi
+2024-08-13,"Protein Pancake Mix, 18.5 oz",4.39,18.5 oz,N/A,Aldi
+2024-08-13,"Protein Oat Pancake Mix, 18.5 oz",4.39,18.5 oz,N/A,Aldi
+2024-08-13,"Olive Oil Cooking Spray, 7 oz",4.55,7 oz,N/A,Aldi
+2024-08-13,"Avocado Ranch Dressing, 11 oz",3.85,11 oz,N/A,Aldi
+2024-08-13,"Slow Cooked Baked Potato with Bacon Soup, 15.5 oz",2.99,15.5 oz,N/A,Aldi
+2024-08-13,"90 Second Microwaveable Jasmine Rice, 8.8 oz",1.55,8.8 oz,N/A,Aldi
+2024-08-13,"Apple Thyme Dressing, 11 oz",3.85,11 oz,N/A,Aldi
+2024-08-13,"Rice  Pudding Cups, 4 count",3.09,4 x 3.75 oz,N/A,Aldi
+2024-08-13,"Pink Salt Bagel Seasoning, 2.4 oz",2.05,2.4 oz,N/A,Aldi
+2024-08-13,"No Bake  Classic Cheesecake, 11.1 oz",4.09,11.1 oz,N/A,Aldi
+2024-08-13,"Condensed Cream of Mushroom Soup, 10.5 oz",1.39,10.5 oz,N/A,Aldi
+2024-08-13,"Organic Garlic Stir in Paste, 2.8 oz",2.65,2.8 oz,N/A,Aldi
+2024-08-13,"Ready to Eat Fat Free Tuna Salad Kit with Wheat Crackers, 3.5 oz",1.55,3.5 oz,N/A,Aldi
+2024-08-13,"Mayonnaise, 32 fl oz",5.15,30 fl oz,N/A,Aldi
+2024-08-13,"Butter Cooking Spray, 8 oz",2.49,8 oz,N/A,Aldi
+2024-08-13,"Ready to Eat Tuna Salad Kit with Crackers, 3.5 oz",1.55,3.5 oz,N/A,Aldi
+2024-08-13,"Roasted  Garlic Homestyle Instant Mashed Potatoes, 4 oz",0.99,4 oz,N/A,Aldi
+2024-08-13,"Verde Salsa, 16 oz",3.29,16 oz,N/A,Aldi
+2024-08-13,"Non-GMO Vegan Korean Style Sweet Chili Noodle Bowl, 8 oz",2.98,8 oz,N/A,Aldi
+2024-08-13,"Non-GMO Vegan Japanese Style Yakisoba Noodle Bowl, 7.9 oz",2.98,7.9 oz,N/A,Aldi
+2024-08-13,"Sesame  Teriyaki Wok Sauce, 14 oz",2.89,14 oz,N/A,Aldi
+2024-08-13,"Chickpea Penne, 12 oz",2.99,12 oz,N/A,Aldi
+2024-08-13,"Smoky Dry Rub Seasoning, 13.5 oz",5.19,13.5 oz,N/A,Aldi
+2024-08-13,"Non-GMO Vegan Thai Style Pad Thai Noodle Bowl, 8.1 oz",2.98,8.1 oz,N/A,Aldi
+2024-08-13,"Orange  Ginger Wok Sauce, 14 oz",2.89,14 oz,N/A,Aldi
+2024-08-13,"Bronze Cut Linguine, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Bronze Cut Fettuccine, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Gluten Free Brown Rice Pho Noodles, 8 oz",2.49,8 oz,N/A,Aldi
+2024-08-13,"White Cheddar Macaroni and Cheese Cups, 4 count",5.89,8.04 oz,N/A,Aldi
+2024-08-13,"Sriracha  Teriyaki Wok Sauce, 14 oz",2.89,14 oz,N/A,Aldi
+2024-08-13,"Real Aged Cheddar Macaroni and Cheese Cups, 4 count",5.89,8.04 oz,N/A,Aldi
+2024-08-13,"Gluten Free White Rice Ramen Noodles, 8 oz",2.49,8 oz,N/A,Aldi
+2024-08-13,"Blackened  Dry Rub Seasoning, 11.5 oz",5.19,11.5 oz,N/A,Aldi
+2024-08-13,"Condensed Cream of Chicken Soup, 10.75 oz Can",1.39,10.5 oz,N/A,Aldi
+2024-08-13,"Healthy Chunky Chicken Noodle Soup, 18.6 oz",1.85,18.6 oz,N/A,Aldi
+2024-08-13,"Condensed Tomato Soup, 10.75 oz Can",1.39,10.75 oz,N/A,Aldi
+2024-08-13,"Restaurant  Style Italian Salad Dressing, 16 oz",1.95,16 fl oz,N/A,Aldi
+2024-08-13,"Spicy  Ranch Dressing, 16 fl oz",1.65,16 fl oz,N/A,Aldi
+2024-08-13,"Salsa  Ranch Dressing, 16 fl oz",1.65,16 fl oz,N/A,Aldi
+2024-08-13,"Guacamole  Ranch Dressing, 16 fl oz",1.65,16 fl oz,N/A,Aldi
+2024-08-13,"Chunky Steak & Potato Soup, 18.8 oz Can",2.49,18.8 oz,N/A,Aldi
+2024-08-13,"Chunky Chicken Pot Pie Soup, 18.8 oz",2.49,18.8 oz,N/A,Aldi
+2024-08-13,"Chunky Creamy Chicken & Dumplings Soup, 18.8 oz Can",2.49,18.8 oz,N/A,Aldi
+2024-08-13,"Non GMO Grapeseed Oil Spray, 4.7 fl oz",2.95,4.7 fl oz,N/A,Aldi
+2024-08-13,"Non GMO Olive Oil Spray, 4.7 fl oz",2.95,4.7 fl oz,N/A,Aldi
+2024-08-13,"Fettucine, 2 lb",2.09,32 oz,N/A,Aldi
+2024-08-13,"Chickpea Rotini, 12 oz",2.99,12 oz,N/A,Aldi
+2024-08-13,"Hazelnut Spread With Cocoa, 13 oz",3.99,13 oz,N/A,Aldi
+2024-08-13,"Tomato Basil Pasta Sauce, 24 oz",7.59,24 oz,N/A,Aldi
+2024-08-13,"Marinara Pasta Sauce, 24 oz",7.59,24 oz,N/A,Aldi
+2024-08-13,"Premium White Cheddar and Black Pepper Macaroni and Cheese, 12 oz",2.55,12 oz,N/A,Aldi
+2024-08-13,"Premium Smoked Gouda Macaroni and Cheese, 12 oz",2.55,12 oz,N/A,Aldi
+2024-08-13,"Bronze Cut Penne, 1 lb",1.85,16 oz,N/A,Aldi
+2024-08-13,"Pear Slices in 100% Juice, 15 oz",1.65,15 oz,N/A,Aldi
+2024-08-13,"Apple  Cinnamon Applesauce Squeezies, 12 count",6.05,12 x 3.2 oz,N/A,Aldi
+2024-08-13,"Stone Ground Mustard, 12 oz",1.45,12 oz,N/A,Aldi
+2024-08-13,"Street  Corn 4-in-1 Seasoning Blend, 6.7 oz",4.39,6.7 oz,N/A,Aldi
+2024-08-13,"Taco  Cart 4-in-1 Seasoning Blend, 5.7 oz",4.39,5.7 oz,N/A,Aldi
+2024-08-13,"Teriyaki Ramen Takeout Boxes, 8.11 oz",2.75,8.11 oz.,N/A,Aldi
+2024-08-13,"Kung Pao Ramen Takeout Boxes, 8.11 oz",2.75,8.11 oz,N/A,Aldi
+2024-08-13,"Pad Thai Ramen Takeout Boxes, 8.11 oz",2.75,8.11 oz,N/A,Aldi
+2024-08-13,"Himalayan Pink Salt Ghee, 9 oz",9.99,9 oz,N/A,Aldi
+2024-08-13,"Garlic  Ghee, 9 oz",9.99,9 oz,N/A,Aldi
+2024-08-13,"Organic 90 Second Basmati Rice, 8.8 oz",2.55,8.8 oz,N/A,Aldi
+2024-08-13,"Penne, 16 oz",1.09,16 oz,N/A,Aldi
+2024-08-13,"Organic Ready to Serve White Jasmine Rice, 8.5 oz",2.29,8.5 oz,N/A,Aldi
+2024-08-13,"Organic Ready to Serve White Basmati Rice, 8.5 oz",2.29,8.5 oz,N/A,Aldi
+2024-08-13,"Vodka  Pasta Sauce, 24 oz",3.79,24 oz,N/A,Aldi
+2024-08-13,"Marinara  Pasta Sauce, 24 oz",3.79,24 oz,N/A,Aldi
+2024-08-13,"Roasted Chicken Ramen Cup, 2.5 oz",1.49,2.5 oz,N/A,Aldi
+2024-08-13,"Braised Beef Ramen Cup, 2.5 oz",1.49,2.5 oz,N/A,Aldi
+2024-08-13,"Cookie  Brownie Bars Mix, 17.4 oz",2.19,17.4 oz,N/A,Aldi
+2024-08-13,"Peanut  Butter Cookie Brownie Bars Mix, 17.2 oz",2.19,17.2 oz,N/A,Aldi
+2024-08-13,"Taco  Filling, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Southwest  Burrito Bowl, 10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Pad Thai,  10 oz",3.29,10 oz,N/A,Aldi
+2024-08-13,"Original Ranch Salad Dressing, 16 fl oz",3.98,16 fl oz,N/A,Aldi
+2024-08-13,"Ranch  Dressing, 12 oz",2.19,12 oz,N/A,Aldi
+2024-08-13,"Cilantro  Avocado Dressing, 12 oz",2.19,12 oz,N/A,Aldi
+2024-08-13,"Pizza Sauce, 14 oz",1.29,14 oz,N/A,Aldi
+2024-08-13,"Refrigerated  Ready to Bake Pie Crusts, 2 count",2.35,14.1 oz,N/A,Aldi
+2024-08-13,"Reese's Brownie Mix, 16 oz",4.05,16 oz,N/A,Aldi
+2024-08-13,"Heart of Palm Angel Hair Pasta, 12 oz",2.99,12 oz,N/A,Aldi
+2024-08-13,"Heart of Palm Linguine Pasta, 12 oz",2.99,12 oz,N/A,Aldi
+2024-08-13,"Extra Virgin Olive Oil, 16.9 fl oz",6.05,16.9 oz,N/A,Aldi
+2024-08-13,"Instant Jasmine Rice, 12 oz",2.15,12 oz,N/A,Aldi
+2024-08-13,"Japanese BBQ Sauce, 17 oz",8.78,17 oz,N/A,Aldi
+2024-08-13,"Orange Sauce, 14.5 oz",2.45,14.5 oz,N/A,Aldi
+2024-08-13,"Bang Bang Stir Fry Sauce, 14.5 oz",2.45,14.5 oz,N/A,Aldi
+2024-08-13,"Brown Basmati Rice, 32 oz",3.85,2 lb.,N/A,Aldi
+2024-08-13,"White Basmati Rice, 32 oz",3.85,2 lb.,N/A,Aldi
+2024-08-13,"Bronze Cut Spaghetti, 16 oz",1.85,16 oz,N/A,Aldi
+2024-08-13,"Butter Chickpea & Veggie, 10.5 oz",3.15,10.05 oz,N/A,Aldi
+2024-08-13,"Lentil and Veggie Tikka Masala, 10.5 oz",3.15,10.05 oz,N/A,Aldi
+2024-08-13,"Chickpea and Korma, 10.5 oz",3.15,10.05 oz,N/A,Aldi
+2024-08-13,"Nashville  Hot Rub Seasoning, 11.4 oz",5.19,11.4 oz,N/A,Aldi
+2024-08-13,Jasmine Rice,6.49,5 lb,N/A,Aldi
+2024-08-13,"Strawberry  Pie Filling & Topping, 21 oz",2.55,20 oz,N/A,Aldi
+2024-08-13,"Blueberry  Pie Filling & Topping, 21 oz",2.55,20 oz,N/A,Aldi
+2024-08-13,"Cajun  Grill Seasoning, 6.3 oz",3.29,6.3 oz,N/A,Aldi
+2024-08-13,"Salt, Pepper, &  Garlic Grill Seasoning, 6 oz",3.29,6 oz,N/A,Aldi
+2024-08-13,"Bold  & Spicy Baked Beans, 28 oz",2.05,28 oz,N/A,Aldi
+2024-08-13,"Hot Honey,  12 oz",6.29,N/A,N/A,Aldi
+2024-08-13,"Countryside  BBQ Baked Beans, 28 oz",2.05,28 oz,N/A,Aldi
+2024-08-13,"Key  Lime Habanero Hot Sauce, 8 fl oz",2.75,8 oz,N/A,Aldi
+2024-08-13,"Lemon  Lime Hot Sauce, 8 fl oz",2.75,8 oz,N/A,Aldi
+2024-08-13,"Blood  Orange Hot Sauce, 8 fl oz",2.75,8 oz,N/A,Aldi
+2024-08-13,"Brown sugar Hickory Bean, 28 oz",1.85,28 oz,N/A,Aldi
+2024-08-13,Organic Brown Rice Quinoa Fusilli,2.39,16 oz,N/A,Aldi
+2024-08-13,Organic Brown Rice Quinoa Penne,2.39,16 oz,N/A,Aldi
+2024-08-13,"Chow Mein Noodle Meal Kit, 11.4 oz",3.45,11.4 oz,N/A,Aldi
+2024-08-13,"Pad Thai Noodle Meal Kit, 11.4 oz",3.45,11.4 oz,N/A,Aldi
+2024-08-13,Instant Corn Masa,3.15,4 lbs.,N/A,Aldi
+2024-08-13,Medium Pico de Gallo,3.29,10 oz,N/A,Aldi
+2024-08-13,Mild Pico de Gallo,3.29,10 oz,N/A,Aldi
+2024-08-13,Penne Ritorte,3.29,16 oz,N/A,Aldi
+2024-08-13,Cavatappi,3.29,16 oz,N/A,Aldi
+2024-08-13,Fusilloni,3.29,16 oz,N/A,Aldi
+2024-08-13,"Cantina Salsa, Mild",2.75,16 oz,N/A,Aldi
+2024-08-13,"Cantina Salsa, Medium",2.75,16 oz,N/A,Aldi
+2024-08-13,"Gluten Free Hot Pickle Sandwich Slices, 19 fl oz",3.29,19 Fl Oz,N/A,Aldi
+2024-08-13,"Gluten Free Kosher Dill Pickle Sandwich Slices, 19 fl oz",3.29,19 Fl Oz,N/A,Aldi
+2024-08-13,"Geki Chili Infused Chicken Flavor Noodles, 3.17 oz",1.19,3.17 oz,N/A,Aldi
+2024-08-13,"Sugar Free Strawberry Jam, 9.7 oz",2.99,9.7 oz,N/A,Aldi
+2024-08-13,"Sugar  Free Raspberry Jam, 9.7 oz",2.99,9.7 oz,N/A,Aldi
+2024-08-13,"Creamy Cookie Butter, 12.34 oz",3.39,12.34 oz,N/A,Aldi
+2024-08-13,"Crunchy Cookie Butter, 12.34 oz",3.39,12.34 oz,N/A,Aldi
+2024-08-13,"Buffalo Style Chicken Snack, 2.6 oz",1.49,2.6 oz,N/A,Aldi
+2024-08-13,"Teriyaki Beef Flavor Stir Fry Noodle Cup, 3 oz",1.06,3 oz,N/A,Aldi
+2024-08-13,"Mango Chutney Ready to Serve White Rice, 8.8 oz",1.49,8.8 oz,N/A,Aldi
+2024-08-13,"Sweet and Sour Ready to Serve White Rice, 8.8 oz",1.49,8.8 oz,N/A,Aldi
+2024-08-13,"Authentic Wonton Strips, 3.5 oz",1.49,3.5 oz,N/A,Aldi
+2024-08-13,"Fruit & Veggie Dino SqueeZ - 20 pack, 3.2 oz pouch",10.99,N/A,N/A,Aldi
+2024-08-13,"Buttermilk Pancake & Waffle Mix, 32 oz",2.99,32 oz,N/A,Aldi
+2024-08-13,"Fruit & Veggie Dino SqueeZ - 20 pack, 3.2 oz pouch",10.99,N/A,N/A,Aldi
+2024-08-13,"Buttermilk Pancake & Waffle Mix, 32 oz",2.99,32 oz,N/A,Aldi
