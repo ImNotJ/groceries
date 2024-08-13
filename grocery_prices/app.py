@@ -86,7 +86,47 @@ else:
 
             fig.update_layout(title='Price Over Time', yaxis_title='Price (USD)', xaxis_title='Date', yaxis_range=[0, None], legend_title_text='')
 
+            # Display the plot
             st.plotly_chart(fig)
+
+            # Calculate inflation and CPI
+            start_price = filtered_df[filtered_df['date'] == filtered_df['date'].min()]['price_per_unit'].mean()
+            end_price = filtered_df[filtered_df['date'] == filtered_df['date'].max()]['price_per_unit'].mean()
+            inflation = ((end_price - start_price) / start_price) * 100
+            cpi = (end_price / start_price) * 100
+
+            # Display inflation and CPI
+            st.markdown("### Inflation and CPI")
+            st.markdown(f"**Inflation:** {inflation:.2f}%")
+            st.markdown(f"**CPI:** {cpi:.2f}")
+
+            # How to use the graph and the Streamlit dashboard
+            st.sidebar.markdown("### How to Use the Graph and Dashboard:")
+            st.sidebar.markdown("""
+            - **Select Store:** Choose one or more stores from the list to filter the data.
+            - **Select Date Range:** Use the date inputs to select the start and end dates for the data you want to view.
+            - **Select Category:** Choose one or more categories to filter the items displayed.
+            - **Select Grocery Item:** Depending on the number of stores selected, choose a specific grocery item to view its price history.
+            - **View Graph:** The graph will display the price history of the selected items over the chosen date range.
+            - **Inflation and CPI:** Below the graph, you will see the calculated inflation and CPI based on the selected filters.
+            """)
+            
+            # Display inflation and CPI
+            st.sidebar.markdown("### About Inflation and CPI")
+            # Description of inflation and CPI
+            st.sidebar.markdown("""
+            **Inflation:** The percentage increase in the price of the selected item or category over the selected date range.
+            
+            **CPI (Consumer Price Index):** A measure that examines the weighted average of prices of the selected item or category relative to the base period (start date).
+            """)
+
+            # Description of the data
+            st.sidebar.markdown("### About the Data:")
+            st.sidebar.markdown("""
+            The data is sourced from the respective stores' websites in Cary, NC. The items selected for data scraping are store brand items unless no store brand item for that grocery item exists, in which case the name brand item is used. The prices listed do not include sale prices and also list price per weight or price per unit if provided on the website for standardization across stores.
+            """)
+
+            
         else:
             st.write("No data available for the selected filters.")
     else:
