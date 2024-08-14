@@ -25,15 +25,18 @@ def clean_data(input_file, output_file):
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
 
     # 5. Fill missing prices with 0
-    df['price'].fillna(0, inplace=True)
+    df['price'] = df['price'].fillna(0)
 
     # 6. Remove any duplicate rows
-    df.drop_duplicates(inplace=True)
+    df = df.drop_duplicates()
 
     # 7. Clean item names for Aldi: replace multiple spaces with a single space
     df.loc[df['store'] == 'Aldi', 'item_name'] = df.loc[df['store'] == 'Aldi', 'item_name'].str.replace(r'\s+', ' ', regex=True)
 
-    # 8. Split price_per_unit into price_per_unit and ppu_unit for Walmart
+    # 8. Remove parenthesis and everything within for Wegmans items
+    df.loc[df['store'] == 'Wegmans', 'item_name'] = df.loc[df['store'] == 'Wegmans', 'item_name'].str.replace(r'\s*\(.*?\)\s*', '', regex=True)
+
+    # 9. Split price_per_unit into price_per_unit and ppu_unit for Walmart
     def split_price_per_unit_walmart(value):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
@@ -52,7 +55,7 @@ def clean_data(input_file, output_file):
             return pd.Series([price_per_unit, ppu_unit])
         return pd.Series([None, 'N/A'])
 
-    # 9. Split price_per_unit into price_per_unit and ppu_unit for Aldi
+    # 10. Split price_per_unit into price_per_unit and ppu_unit for Aldi
     def split_price_per_unit_aldi(value, price):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
@@ -74,7 +77,7 @@ def clean_data(input_file, output_file):
             return pd.Series([price_per_unit, unit])
         return pd.Series([price, 'N/A'])
 
-    # 10. Split price_per_unit into price_per_unit and ppu_unit for Wegmans
+    # 11. Split price_per_unit into price_per_unit and ppu_unit for Wegmans
     def split_price_per_unit_wegmans(value):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
@@ -96,21 +99,21 @@ def clean_data(input_file, output_file):
     )
 
     # Fill missing price_per_unit with 'N/A'
-    df['price_per_unit'].fillna('N/A', inplace=True)
+    df['price_per_unit'] = df['price_per_unit'].fillna('N/A')
 
     # Keep only the item with the highest price for each item_name
     df = df.loc[df.groupby('item_name')['price'].idxmax()]
 
     # Remove the sale_price column
-    df.drop(columns=['sale_price'], inplace=True)
+    df = df.drop(columns=['sale_price'])
 
     # Filter the DataFrame to keep only the specified items
     filtered_items = list(item_mapping.keys())
-    df_filtered = df[df['item_name'].isin(filtered_items)]
+    df_filtered = df[df['item_name'].isin(filtered_items)].copy()
 
     # Add alt_name and category columns
-    df_filtered['alt_name'] = df_filtered['item_name'].map(lambda x: item_mapping[x]['alt_name'])
-    df_filtered['category'] = df_filtered['item_name'].map(lambda x: item_mapping[x]['category'])
+    df_filtered.loc[:, 'alt_name'] = df_filtered['item_name'].map(lambda x: item_mapping[x]['alt_name'])
+    df_filtered.loc[:, 'category'] = df_filtered['item_name'].map(lambda x: item_mapping[x]['category'])
 
     # Display the cleaned and filtered data
     print("Filtered and Cleaned Data:")
