@@ -11,14 +11,19 @@ import logging
 class AldiSpider(scrapy.Spider):
     name = 'aldi'
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, start_url=None, total_pages=1, *args, **kwargs):
         super(AldiSpider, self).__init__(*args, **kwargs)
+        self.start_url = start_url
+        self.total_pages = int(total_pages)
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
+        if not self.start_url:
+            logging.error("No start URL provided.")
+            return
+
         # First request to the specific link
-        initial_url = 'https://new.aldi.us/products/fresh-produce/k/13'
-        yield scrapy.Request(url=initial_url, callback=self.parse, meta={'page': 1, 'total_pages': 7, 'initial': True})
+        yield scrapy.Request(url=self.start_url, callback=self.parse, meta={'page': 1, 'total_pages': self.total_pages, 'initial': True})
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -75,7 +80,7 @@ class AldiSpider(scrapy.Spider):
             self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
             # Construct the next page URL
-            base_url = 'https://new.aldi.us/products/fresh-produce/k/13?page={page}'
+            base_url = self.start_url.split('?')[0] + '?page={page}'
             next_url = base_url.format(page=next_page)
 
             # Make a new request for the next page
@@ -83,4 +88,3 @@ class AldiSpider(scrapy.Spider):
 
     def closed(self, reason):
         self.driver.quit()
-
