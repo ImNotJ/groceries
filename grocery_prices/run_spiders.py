@@ -110,6 +110,12 @@ if __name__ == "__main__":
     # p12.start()
     # p12.join()
 
+    weg_start_url = 'https://shop.wegmans.com/shop/categories/75'
+    weg_total_pages = 1
+    p13 = multiprocessing.Process(target=run_spider, args=('wegmans', 'prices.csv', weg_start_url, weg_total_pages))
+    p13.start()
+    p13.join()
+
     # After scraping, run the cleaning script
-    subprocess.run(['python', 'clean_data.py', raw_output_file, cleaned_output_file])
+    subprocess.run(['python', 'clean_data.py', 'prices.csv', 'clean.csv'])
 
