@@ -58,12 +58,16 @@ def clean_data(input_file, output_file):
             quantity = float(match.group(1))
             unit = match.group(2).strip()
             price_per_unit = round(price / quantity, 3)
+            if unit.startswith("fl"):
+                unit = "fl oz"
             return pd.Series([price_per_unit, unit])
         match = re.match(r'(\d*\.?\d+)\s*(\w+)', value)
         if match:
             quantity = float(match.group(1))
             unit = match.group(2).strip()
             price_per_unit = round(price / quantity, 3)
+            if unit.startswith("fl"):
+                unit = "fl oz"
             return pd.Series([price_per_unit, unit])
         return pd.Series([price, 'N/A'])
 

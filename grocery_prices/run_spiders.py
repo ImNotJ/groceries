@@ -49,31 +49,67 @@ if __name__ == "__main__":
     # p2.start()
     # p2.join()
 
-    # Run the Aldi spider with arbitrary start_url and total_pages
-    aldi_start_url = 'https://new.aldi.us/products/fresh-produce/k/13'
-    aldi_total_pages = 7
-    p3 = multiprocessing.Process(target=run_spider, args=('aldi', 'prices.csv', aldi_start_url, aldi_total_pages))
-    p3.start()
-    p3.join()
+    # # Run the Aldi spider with arbitrary start_url and total_pages
+    # aldi_start_url = 'https://new.aldi.us/products/fresh-produce/k/13'
+    # aldi_total_pages = 7
+    # p3 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p3.start()
+    # p3.join()
 
-    aldi_start_url = 'https://new.aldi.us/products/bakery-bread/k/6'
-    aldi_total_pages = 6
-    p4 = multiprocessing.Process(target=run_spider, args=('aldi', 'prices.csv', aldi_start_url, aldi_total_pages))
-    p4.start()
-    p4.join()
+    # aldi_start_url = 'https://new.aldi.us/products/bakery-bread/k/6'
+    # aldi_total_pages = 6
+    # p4 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p4.start()
+    # p4.join()
 
-    aldi_start_url = 'https://new.aldi.us/products/pantry-essentials/k/16'
-    aldi_total_pages = 25
-    p5 = multiprocessing.Process(target=run_spider, args=('aldi', 'prices.csv', aldi_start_url, aldi_total_pages))
-    p5.start()
-    p5.join()
+    # aldi_start_url = 'https://new.aldi.us/products/pantry-essentials/k/16'
+    # aldi_total_pages = 25
+    # p5 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p5.start()
+    # p5.join()
 
-    aldi_start_url = 'https://new.aldi.us/products/fresh-meat-seafood/k/12'
-    aldi_total_pages = 7
-    p5 = multiprocessing.Process(target=run_spider, args=('aldi', 'prices.csv', aldi_start_url, aldi_total_pages))
-    p5.start()
-    p5.join()
+    # aldi_start_url = 'https://new.aldi.us/products/fresh-meat-seafood/k/12'
+    # aldi_total_pages = 7
+    # p6 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p6.start()
+    # p6.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/dairy-eggs/k/10'
+    # aldi_total_pages = 13
+    # p7 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p7.start()
+    # p7.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/frozen-foods/k/14'
+    # aldi_total_pages = 13
+    # p8 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p8.start()
+    # p8.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/breakfast-cereals/k/9'
+    # aldi_total_pages = 7
+    # p9 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p9.start()
+    # p9.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/snacks/k/20'
+    # aldi_total_pages = 19
+    # p10 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p10.start()
+    # p10.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/beverages/k/7'
+    # aldi_total_pages = 13
+    # p11 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p11.start()
+    # p11.join()
+
+    # aldi_start_url = 'https://new.aldi.us/products/deli/k/11'
+    # aldi_total_pages = 10
+    # p12 = multiprocessing.Process(target=run_spider, args=('aldi', raw_output_file, aldi_start_url, aldi_total_pages))
+    # p12.start()
+    # p12.join()
 
     # After scraping, run the cleaning script
-    subprocess.run(['python', 'clean_data.py', 'prices.csv', 'clean.csv'])
+    subprocess.run(['python', 'clean_data.py', raw_output_file, cleaned_output_file])
 
