@@ -24,8 +24,8 @@ df = load_data(data_folder)
 # Replace N/A in price_per_unit with price
 df['price_per_unit'] = df['price_per_unit'].fillna(df['price'])
 
-# Append unit to alt_name
-df['alt_name_with_unit'] = df.apply(lambda row: f"{row['alt_name']} (/{row['ppu_unit']})" if pd.notna(row['ppu_unit']) else row['alt_name'], axis=1)
+# Create a column for the legend with alt_name and ppu_unit
+df['alt_name_with_unit_legend'] = df.apply(lambda row: f"{row['alt_name']} ({row['ppu_unit']})" if pd.notna(row['ppu_unit']) else row['alt_name'], axis=1)
 
 # Streamlit app
 st.title('Historical Prices Dashboard')
@@ -49,9 +49,9 @@ else:
 
     # Filter alt names based on selected categories
     if categories:
-        filtered_alt_names = sorted(df[df['category'].isin(categories)]['alt_name_with_unit'].unique())
+        filtered_alt_names = sorted(df[df['category'].isin(categories)]['alt_name'].unique())
     else:
-        filtered_alt_names = sorted(df['alt_name_with_unit'].unique())
+        filtered_alt_names = sorted(df['alt_name'].unique())
 
     # Alt name selection
     if len(selected_stores) > 1:
@@ -68,7 +68,7 @@ else:
         if categories:
             filtered_df = filtered_df[filtered_df['category'].isin(categories)]
         if alt_names:
-            filtered_df = filtered_df[filtered_df['alt_name_with_unit'].isin(alt_names)]
+            filtered_df = filtered_df[filtered_df['alt_name'].isin(alt_names)]
 
         # Plotting with Plotly
         if not filtered_df.empty:
@@ -77,7 +77,7 @@ else:
                               labels={'price_per_unit': 'Price per Unit', 'date': 'Date'},
                               hover_data={'price_per_unit': True, 'ppu_unit': True})
             else:
-                fig = px.line(filtered_df, x='date', y='price_per_unit', color='alt_name_with_unit', 
+                fig = px.line(filtered_df, x='date', y='price_per_unit', color='alt_name_with_unit_legend', 
                               labels={'price_per_unit': 'Price per Unit', 'date': 'Date'},
                               hover_data={'price_per_unit': True, 'ppu_unit': True})
 
