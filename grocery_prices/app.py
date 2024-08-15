@@ -1,34 +1,37 @@
 import streamlit as st
 import pandas as pd
 import os
-import glob
 import plotly.express as px
 
-# Function to read and concatenate all CSV files in the folder
-def load_data(folder_path):
-    all_files = glob.glob(os.path.join(folder_path, "*.csv"))
-    if not all_files:
-        return pd.DataFrame()  # Return an empty DataFrame if no files are found
-    
+def load_data(data_folder):
     df_list = []
-    for file in all_files:
-        df = pd.read_csv(file)
-        # Extract date from filename assuming format cleaned_prices-YYYY-MM-DD.csv
-        date_str = os.path.basename(file).split('-')[1:]
-        date_str = '-'.join(date_str).split('.')[0]
-        df['date'] = pd.to_datetime(date_str)
-        df_list.append(df)
+    for filename in os.listdir(data_folder):
+        if filename.endswith(".csv"):
+            file_path = os.path.join(data_folder, filename)
+            print(f"Loading file: {file_path}")  # Debugging statement
+            df = pd.read_csv(file_path)
+            df_list.append(df)
+    
+    if not df_list:
+        raise ValueError("No CSV files found in the data folder.")
+    
     return pd.concat(df_list, ignore_index=True)
 
-# Load data
-data_folder = './data/cleaned_prices/'
+# Example usage
+data_folder = "data/cleaned_prices"
 df = load_data(data_folder)
 
-# Replace N/A in price_per_unit with price
-df['price_per_unit'] = df['price_per_unit'].fillna(df['price'])
+# Debugging statement to inspect DataFrame columns
+print("DataFrame columns:", df.columns)
+
+# Check if 'price_per_unit' column exists
+if 'price_per_unit' in df.columns:
+    df['price_per_unit'] = df['price_per_unit'].fillna(df['price'])
+else:
+    print("Column 'price_per_unit' does not exist in the DataFrame.")
 
 # Create a column for the legend with alt_name and ppu_unit
-df['alt_name_with_unit_legend'] = df.apply(lambda row: f"{row['alt_name']} ({row['ppu_unit']})" if pd.notna(row['ppu_unit']) else row['alt_name'], axis=1)
+df['alt_name_with_unit_legend'] = df.apply(lambda row: f"{row['alt_name']} ({row['ppu_unit']})", axis=1)
 
 # Create a column for the legend with store name and ppu_unit
 df['store_with_unit_legend'] = df.apply(
