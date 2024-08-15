@@ -127,10 +127,18 @@ else:
                 inflation = ((end_price - start_price) / start_price) * 100
                 cpi = (end_price / start_price) * 100
 
-                # Display inflation and CPI for each store
-                st.markdown(f"***{store}***")
-                st.markdown(f"**Inflation:** {inflation:.2f}%")
-                st.markdown(f"**CPI:** {cpi:.2f}")
+                # Determine the color and arrow for inflation
+                if inflation > 0:
+                    inflation_color = "red"
+                    inflation_arrow = "↑"
+                else:
+                    inflation_color = "green"
+                    inflation_arrow = "↓"
+
+                # Display inflation and CPI for each store with custom styling
+                st.markdown(f"<h3 style='font-size:24px;'>{store}</h3>", unsafe_allow_html=True)
+                st.markdown(f"<p style='color:{inflation_color}; font-size:20px;'>**Inflation:** {inflation:.2f}% {inflation_arrow}</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='font-size:20px;'>**CPI:** {cpi:.2f}</p>", unsafe_allow_html=True)
 
             # How to use the graph and the Streamlit dashboard
             st.sidebar.markdown("### How to Use the Graph and Dashboard:")
