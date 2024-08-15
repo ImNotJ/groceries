@@ -3,7 +3,8 @@ name: Run Spiders Daily
 on:
   schedule:
     # Run at 6 AM EST every day
-    - cron: '0 18 15 * *'  # 6 AM EST is 11 AM UTC
+    - cron: '0 18 30 * *'  # 6 AM EST is 11 AM UTC
+  workflow_dispatch:
 
 jobs:
   run-spiders:
