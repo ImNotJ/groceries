@@ -137,7 +137,7 @@ else:
 
                 # Display inflation and CPI for each store with custom styling
                 st.markdown(f"<h3 style='font-size:24px;'>{store}</h3>", unsafe_allow_html=True)
-                st.markdown(f"**Inflation:** <span style='color:{inflation_color}; font-size:16px;'>{inflation:.2f}% {inflation_arrow}</span>", unsafe_allow_html=True)
+                st.markdown(f"**Inflation:** <span style='color:{inflation_color}; font-size:20px;'>{inflation:.2f}% {inflation_arrow}</span>", unsafe_allow_html=True)
                 st.markdown(f"**CPI:** <span style='font-size:20px;'>{cpi:.2f}</span>", unsafe_allow_html=True)
 
             # How to use the graph and the Streamlit dashboard
