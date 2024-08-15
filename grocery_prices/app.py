@@ -7,6 +7,9 @@ import plotly.express as px
 # Function to read and concatenate all CSV files in the folder
 def load_data(folder_path):
     all_files = glob.glob(os.path.join(folder_path, "*.csv"))
+    if not all_files:
+        return pd.DataFrame()  # Return an empty DataFrame if no files are found
+    
     df_list = []
     for file in all_files:
         df = pd.read_csv(file)
