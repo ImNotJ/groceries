@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import os
-import glob
 import plotly.express as px
 
 # Function to read and concatenate all CSV files in the folder
@@ -32,6 +31,12 @@ def load_data(data_folder):
 # Example usage
 data_folder = "./grocery_prices/data/cleaned_prices/"
 df = load_data(data_folder)
+
+# Ensure 'date' column is in datetime format
+if 'date' in df.columns:
+    df['date'] = pd.to_datetime(df['date'])
+else:
+    raise KeyError("Column 'date' does not exist in the DataFrame.")
 
 # Debugging statement to inspect DataFrame columns
 print("DataFrame columns:", df.columns)
@@ -65,8 +70,8 @@ if not selected_stores:
     st.write("Please select a store to begin.")
 else:
     # Date selection
-    start_date = st.sidebar.date_input('Start Date:', df['date'].min())
-    end_date = st.sidebar.date_input('End Date:', df['date'].max())
+    start_date = st.sidebar.date_input('Start Date:', df['date'].min().date())
+    end_date = st.sidebar.date_input('End Date:', df['date'].max().date())
 
     # Category selection
     categories = st.sidebar.multiselect('Select Category:', sorted(df['category'].unique()))
