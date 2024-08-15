@@ -6,6 +6,13 @@ import plotly.express as px
 
 # Function to read and concatenate all CSV files in the folder
 def load_data(data_folder):
+    # Convert to absolute path
+    data_folder = os.path.abspath(data_folder)
+    
+    # Print the current working directory and data folder path for debugging
+    print("Current working directory:", os.getcwd())
+    print("Data folder path:", data_folder)
+    
     if not os.path.exists(data_folder):
         raise FileNotFoundError(f"The directory {data_folder} does not exist.")
     
@@ -35,7 +42,6 @@ if 'price_per_unit' in df.columns:
 else:
     print("Column 'price_per_unit' does not exist in the DataFrame.")
 
-# Continue with the rest of your code
 # Create a column for the legend with alt_name and ppu_unit
 df['alt_name_with_unit_legend'] = df.apply(lambda row: f"{row['alt_name']} ({row['ppu_unit']})", axis=1)
 
