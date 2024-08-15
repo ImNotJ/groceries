@@ -128,7 +128,7 @@ else:
                 cpi = (end_price / start_price) * 100
 
                 # Display inflation and CPI for each store
-                st.markdown(f"**{store}**")
+                st.markdown(f"***{store}***")
                 st.markdown(f"**Inflation:** {inflation:.2f}%")
                 st.markdown(f"**CPI:** {cpi:.2f}")
 
