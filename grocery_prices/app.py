@@ -27,6 +27,12 @@ df['price_per_unit'] = df['price_per_unit'].fillna(df['price'])
 # Create a column for the legend with alt_name and ppu_unit
 df['alt_name_with_unit_legend'] = df.apply(lambda row: f"{row['alt_name']} ({row['ppu_unit']})" if pd.notna(row['ppu_unit']) else row['alt_name'], axis=1)
 
+# Create a column for the legend with store name and ppu_unit
+df['store_with_unit_legend'] = df.apply(
+    lambda row: f"{row['store']} ({row['ppu_unit']})" if pd.notna(row['ppu_unit']) and row['ppu_unit'] != 'N/A' else row['store'], 
+    axis=1
+)
+
 # Streamlit app
 st.title('Historical Prices Dashboard')
 
@@ -73,7 +79,7 @@ else:
         # Plotting with Plotly
         if not filtered_df.empty:
             if len(selected_stores) > 1:
-                fig = px.line(filtered_df, x='date', y='price_per_unit', color='store', 
+                fig = px.line(filtered_df, x='date', y='price_per_unit', color='store_with_unit_legend', 
                               labels={'price_per_unit': 'Price per Unit', 'date': 'Date'},
                               hover_data={'price_per_unit': True, 'ppu_unit': True})
             else:
@@ -89,16 +95,19 @@ else:
             # Display the plot
             st.plotly_chart(fig)
 
-            # Calculate inflation and CPI
-            start_price = filtered_df[filtered_df['date'] == filtered_df['date'].min()]['price_per_unit'].mean()
-            end_price = filtered_df[filtered_df['date'] == filtered_df['date'].max()]['price_per_unit'].mean()
-            inflation = ((end_price - start_price) / start_price) * 100
-            cpi = (end_price / start_price) * 100
-
-            # Display inflation and CPI
+            # Calculate inflation and CPI for each store
             st.markdown("### Inflation and CPI")
-            st.markdown(f"**Inflation:** {inflation:.2f}%")
-            st.markdown(f"**CPI:** {cpi:.2f}")
+            for store in selected_stores:
+                store_df = filtered_df[filtered_df['store'] == store]
+                start_price = store_df[store_df['date'] == store_df['date'].min()]['price_per_unit'].mean()
+                end_price = store_df[store_df['date'] == store_df['date'].max()]['price_per_unit'].mean()
+                inflation = ((end_price - start_price) / start_price) * 100
+                cpi = (end_price / start_price) * 100
+
+                # Display inflation and CPI for each store
+                st.markdown(f"**{store}**")
+                st.markdown(f"**Inflation:** {inflation:.2f}%")
+                st.markdown(f"**CPI:** {cpi:.2f}")
 
             # How to use the graph and the Streamlit dashboard
             st.sidebar.markdown("### How to Use the Graph and Dashboard:")
