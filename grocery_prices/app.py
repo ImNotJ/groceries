@@ -30,7 +30,7 @@ def load_data(data_folder):
     return pd.concat(df_list, ignore_index=True)
 
 # Example usage
-data_folder = "./data/cleaned_prices/"
+data_folder = "./grocery_prices/data/cleaned_prices/"
 df = load_data(data_folder)
 
 # Debugging statement to inspect DataFrame columns
