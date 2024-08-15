@@ -67,7 +67,7 @@ stores = sorted(df['store'].unique())
 selected_stores = st.sidebar.multiselect('Select Store:', stores)
 
 if not selected_stores:
-    st.write("Please select a store to begin.")
+    st.write("Please select one or more stores to begin.")
 else:
     # Date selection
     start_date = st.sidebar.date_input('Start Date:', df['date'].min().date())
