@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import plotly.express as px
 import time
+import psutil
 
 # Function to read and concatenate all CSV files in the folder with retry logic
 def load_data(data_folder, retries=3, delay=2):
@@ -25,6 +26,7 @@ def load_data(data_folder, retries=3, delay=2):
                 try:
                     df = pd.read_csv(file_path)
                     df_list.append(df)
+                    print(f"Successfully loaded {file_path}")
                     break  # Exit the retry loop if successful
                 except Exception as e:
                     print(f"Error loading file {file_path} on attempt {attempt + 1}: {e}")
@@ -36,7 +38,16 @@ def load_data(data_folder, retries=3, delay=2):
     if not df_list:
         raise ValueError("No CSV files found in the data folder.")
     
-    return pd.concat(df_list, ignore_index=True)
+    # Log memory usage
+    process = psutil.Process(os.getpid())
+    print(f"Memory usage before concatenation: {process.memory_info().rss / 1024 ** 2:.2f} MB")
+    
+    concatenated_df = pd.concat(df_list, ignore_index=True)
+    
+    # Log memory usage after concatenation
+    print(f"Memory usage after concatenation: {process.memory_info().rss / 1024 ** 2:.2f} MB")
+    
+    return concatenated_df
 
 # Example usage
 data_folder = "./grocery_prices/data/cleaned_prices/"
