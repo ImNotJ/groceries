@@ -99,6 +99,9 @@ else:
         if alt_names:
             filtered_df = filtered_df[filtered_df['alt_name'].isin(alt_names)]
 
+        # Sort the filtered DataFrame by date to ensure sequential plotting
+        filtered_df = filtered_df.sort_values(by='date')
+
         # Plotting with Plotly
         if not filtered_df.empty:
             if len(selected_stores) > 1:
@@ -150,7 +153,7 @@ else:
             - **View Graph:** The graph will display the price history of the selected items over the chosen date range.
             - **Inflation and CPI:** Below the graph, you will see the calculated inflation and CPI based on the selected filters.
             """)
-            
+
             # Display inflation and CPI
             st.sidebar.markdown("### About Inflation and CPI")
             # Description of inflation and CPI
@@ -170,7 +173,6 @@ else:
             st.sidebar.markdown("### Learn More:")
             st.sidebar.markdown("[My Github Repository](https://github.com/ImNotJ/groceries)")
 
-            
         else:
             st.write("No data available for the selected filters.")
     else:

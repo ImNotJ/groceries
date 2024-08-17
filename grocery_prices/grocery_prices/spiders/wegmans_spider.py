@@ -18,13 +18,13 @@ class WegmansSpider(scrapy.Spider):
 
     def __init__(self, start_url=None, total_pages=1, *args, **kwargs):
         super(WegmansSpider, self).__init__(*args, **kwargs)
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--headless")
+        self.chrome_options.add_argument("--no-sandbox")
+        self.chrome_options.add_argument("--disable-dev-shm-usage")
         self.start_url = start_url
         self.total_pages = int(total_pages)
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
 
     def start_requests(self):
         if not self.start_url:
@@ -117,4 +117,5 @@ class WegmansSpider(scrapy.Spider):
             yield scrapy.Request(url=next_url, callback=self.parse, meta={'page': next_page, 'total_pages': total_pages})
 
     def closed(self, reason):
-        self.driver.quit()
+        if self.driver:
+            self.driver.quit()

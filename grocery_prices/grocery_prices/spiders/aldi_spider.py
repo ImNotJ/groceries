@@ -14,13 +14,13 @@ class AldiSpider(scrapy.Spider):
 
     def __init__(self, start_url=None, total_pages=1, *args, **kwargs):
         super(AldiSpider, self).__init__(*args, **kwargs)
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--headless")
+        self.chrome_options.add_argument("--no-sandbox")
+        self.chrome_options.add_argument("--disable-dev-shm-usage")
         self.start_url = start_url
         self.total_pages = int(total_pages)
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
 
     def start_requests(self):
         if not self.start_url:
@@ -78,11 +78,8 @@ class AldiSpider(scrapy.Spider):
 
         # Check if there are more pages to scrape
         if initial or next_page <= total_pages:
-            # # Introduce a delay before making the next request
-            # time.sleep(300)
-            
-            # Reinitialize the driver
-            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+            # Reinitialize the driver with headless options
+            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
 
             # Construct the next page URL
             base_url = self.start_url.split('?')[0] + '?page={page}'
@@ -92,4 +89,5 @@ class AldiSpider(scrapy.Spider):
             yield scrapy.Request(url=next_url, callback=self.parse, meta={'page': next_page, 'total_pages': total_pages})
 
     def closed(self, reason):
-        self.driver.quit()
+        if self.driver:
+            self.driver.quit()

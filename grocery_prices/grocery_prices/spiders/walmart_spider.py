@@ -14,11 +14,11 @@ class WalmartSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super(WalmartSpider, self).__init__(*args, **kwargs)
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--headless")
+        self.chrome_options.add_argument("--no-sandbox")
+        self.chrome_options.add_argument("--disable-dev-shm-usage")
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
 
     def start_requests(self):
         # First request to the specific link
@@ -78,10 +78,10 @@ class WalmartSpider(scrapy.Spider):
         # Check if there are more pages to scrape
         if initial or next_page <= total_pages:
             # Introduce a delay before making the next request
-            time.sleep(300)
+            time.sleep(300)  # Adjust this delay as needed
             
-            # Reinitialize the driver
-            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+            # Reinitialize the driver with headless options
+            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
             
             # Construct the next page URL
             base_url = 'https://www.walmart.com/browse/food/great-value-food/976759_7128585_9834661?page={page}&affinityOverride=default'
@@ -91,4 +91,5 @@ class WalmartSpider(scrapy.Spider):
             yield scrapy.Request(url=next_url, callback=self.parse, meta={'page': next_page, 'total_pages': total_pages})
 
     def closed(self, reason):
-        self.driver.quit()
+        if self.driver:
+            self.driver.quit()
