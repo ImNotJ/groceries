@@ -20,8 +20,11 @@ def load_data(data_folder):
         if filename.endswith(".csv"):
             file_path = os.path.join(data_folder, filename)
             print(f"Loading file: {file_path}")  # Debugging statement
-            df = pd.read_csv(file_path)
-            df_list.append(df)
+            try:
+                df = pd.read_csv(file_path)
+                df_list.append(df)
+            except Exception as e:
+                print(f"Error loading file {file_path}: {e}")
     
     if not df_list:
         raise ValueError("No CSV files found in the data folder.")
