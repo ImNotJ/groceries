@@ -33,13 +33,18 @@ def load_data(data_folder):
 
 # Example usage
 data_folder = "./grocery_prices/data/cleaned_prices/"
-df = load_data(data_folder)
+try:
+    df = load_data(data_folder)
+except Exception as e:
+    st.error(f"Error loading data: {e}")
+    st.stop()
 
 # Ensure 'date' column is in datetime format
 if 'date' in df.columns:
     df['date'] = pd.to_datetime(df['date'])
 else:
-    raise KeyError("Column 'date' does not exist in the DataFrame.")
+    st.error("Column 'date' does not exist in the DataFrame.")
+    st.stop()
 
 # Debugging statement to inspect DataFrame columns
 print("DataFrame columns:", df.columns)
