@@ -197,7 +197,12 @@ else:
             # Description of the data
             st.sidebar.markdown("### About the Data:")
             st.sidebar.markdown("""
-            The data is sourced from the respective stores' websites in Cary, NC. The items selected for data scraping are store brand items unless no store brand item for that grocery item exists, in which case the name brand item is used. The prices listed do not include sale prices and also list price per weight or price per unit if provided on the website for standardization across stores.
+            The data is sourced from the respective stores' websites in Cary, NC. The items selected for data scraping are store brand items unless no store brand item for that grocery item exists, in which case the name brand item is used. The prices listed do not include sale prices and also list price per weight or price per unit if provided on the website for standardization across stores. 
+            """)
+
+            st.sidebar.markdown("### Disclaimer:")
+            st.sidebar.markdown("""
+            Please note that the data collected is not perfect, and there is often missing data when scraped from the internet. In addition, please take the inflation numbers with a grain of salt, as food and groceries are not a particularly accurate incicator of the economy and economic trends. This is because food and grocery prices are influenced by a variety of factors, including weather, supply chain disruptions, and consumer demand, making them extremely volatile.  
             """)
 
             # Link to GitHub repository
