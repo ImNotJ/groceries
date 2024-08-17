@@ -49,10 +49,15 @@ def load_data(data_folder, retries=3, delay=2):
     
     return concatenated_df
 
+# Caching the load_data function
+@st.cache
+def load_data_with_cache(data_folder):
+    return load_data(data_folder)
+
 # Example usage
 data_folder = "./grocery_prices/data/cleaned_prices/"
 try:
-    df = load_data(data_folder)
+    df = load_data_with_cache(data_folder)
 except Exception as e:
     st.error(f"Error loading data: {e}")
     st.stop()
