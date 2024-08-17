@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import os
 import plotly.express as px
+import time
 
-# Function to read and concatenate all CSV files in the folder
-def load_data(data_folder):
+# Function to read and concatenate all CSV files in the folder with retry logic
+def load_data(data_folder, retries=3, delay=2):
     # Convert to absolute path
     data_folder = os.path.abspath(data_folder)
     
@@ -20,11 +21,17 @@ def load_data(data_folder):
         if filename.endswith(".csv"):
             file_path = os.path.join(data_folder, filename)
             print(f"Loading file: {file_path}")  # Debugging statement
-            try:
-                df = pd.read_csv(file_path)
-                df_list.append(df)
-            except Exception as e:
-                print(f"Error loading file {file_path}: {e}")
+            for attempt in range(retries):
+                try:
+                    df = pd.read_csv(file_path)
+                    df_list.append(df)
+                    break  # Exit the retry loop if successful
+                except Exception as e:
+                    print(f"Error loading file {file_path} on attempt {attempt + 1}: {e}")
+                    if attempt < retries - 1:
+                        time.sleep(delay)  # Wait before retrying
+                    else:
+                        raise e  # Raise the exception if all retries fail
     
     if not df_list:
         raise ValueError("No CSV files found in the data folder.")
