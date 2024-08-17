@@ -4,7 +4,7 @@
 
 The Grocery Prices Project is a comprehensive tool designed to track and analyze the prices of common household groceries from three major stores: Wegmans, Walmart, and Aldi. This project leverages web scraping, data cleaning, and a Streamlit app to present the data in an accessible and informative manner. The project aims to provide insights into price trends, inflation, and the Consumer Price Index (CPI) for groceries.
 
-The app is deployed at [https://grocery-prices.streamlit.app/](https://grocery-prices.streamlit.app/) deployed using GitHub Actions with a continuous integration and deployment pipeline on the Streamlit Cloud.
+The app is deployed at [https://grocery-prices.streamlit.app/](https://grocery-prices.streamlit.app/) deployed using AWS with a continuous integration and deployment pipeline.
 
 ## Table of Contents
 
