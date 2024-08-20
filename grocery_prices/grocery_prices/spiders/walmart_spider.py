@@ -3,7 +3,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
 from scrapy.selector import Selector
 from grocery_prices.items import GroceryPriceItem
 from datetime import datetime
@@ -14,11 +13,7 @@ class WalmartSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super(WalmartSpider, self).__init__(*args, **kwargs)
-        self.chrome_options = Options()
-        self.chrome_options.add_argument("--headless")
-        self.chrome_options.add_argument("--no-sandbox")
-        self.chrome_options.add_argument("--disable-dev-shm-usage")
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def start_requests(self):
         # First request to the specific link
@@ -78,10 +73,10 @@ class WalmartSpider(scrapy.Spider):
         # Check if there are more pages to scrape
         if initial or next_page <= total_pages:
             # Introduce a delay before making the next request
-            time.sleep(300)  # Adjust this delay as needed
+            time.sleep(300)
             
-            # Reinitialize the driver with headless options
-            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
+            # Reinitialize the driver
+            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
             
             # Construct the next page URL
             base_url = 'https://www.walmart.com/browse/food/great-value-food/976759_7128585_9834661?page={page}&affinityOverride=default'
@@ -91,5 +86,4 @@ class WalmartSpider(scrapy.Spider):
             yield scrapy.Request(url=next_url, callback=self.parse, meta={'page': next_page, 'total_pages': total_pages})
 
     def closed(self, reason):
-        if self.driver:
-            self.driver.quit()
+        self.driver.quit()

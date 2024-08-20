@@ -1,0 +1,187 @@
+date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
+2024-08-18,"100% Apple Juice, 64 fl oz",2.09,0.033,Aldi,fl oz,Apple Juice,Beverages
+2024-08-17,"2% Milk, 1 gal",2.85,2.85,Aldi,gal,Milk,Dairy
+2024-08-17,"Active Dry Yeast Packets, 3 count",0.99,1.32,Aldi,oz,Dry Yeast,Baking Goods
+2024-08-17,"All Purpose Flour, 5 lb",2.59,0.518,Aldi,lb,Flour,Baking Goods
+2024-08-18,Avocado,1.79,1.79,Wegmans,each,Avocados,Fresh Produce
+2024-08-17,"Avocados, each",0.95,0.95,Aldi,each,Avocados,Fresh Produce
+2024-08-17,"Baking Potatoes, 5 lb",3.65,N/A,Aldi,N/A,Potatoes,Fresh Produce
+2024-08-17,"Baking Powder, 8.1 oz",2.09,0.258,Aldi,oz,Baking Powder,Baking Goods
+2024-08-17,"Baking Soda, 16 oz",0.99,0.062,Aldi,oz,Baking Soda,Baking Goods
+2024-08-17,"Balsamic Vinegar of Modena, 16.9 fl oz",2.99,0.177,Aldi,oz,Balsamic Vinegar,Oils/Vinegars
+2024-08-18,"Bananas, Sold by the Each",0.21,0.49,Wegmans,lb,Bananas,Fresh Produce
+2024-08-17,"Bananas, per lb",0.16,0.485,Aldi,lb,Bananas,Fresh Produce
+2024-08-17,"Basil, 0.75 oz",1.95,2.6,Aldi,oz,Basil,Fresh Produce
+2024-08-18,Beefsteak Tomatoes,2.05,2.49,Wegmans,lb,Tomatoes,Fresh Produce
+2024-08-18,"Black Tea Bags, 100 Count",2.19,0.022,Aldi,ct,Tea Bags,Beverages
+2024-08-17,Broccoli Crowns,1.75,1.75,Aldi,lb,Broccoli,Fresh Produce
+2024-08-18,Bulk Garlic,0.76,4.49,Wegmans,lb,Garlic,Fresh Produce
+2024-08-17,"Canned Whole Kernel Golden Sweet Corn, 15.25 oz",0.69,0.045,Aldi,oz,Green Chiles,Sauces/Canned Goods
+2024-08-17,"Carrots, 2 lb",1.55,0.775,Aldi,lb,Carrots,Fresh Produce
+2024-08-17,"Chicken Broth, 32 oz",1.49,0.047,Aldi,oz,Chicken Stock,Sauces/Canned Goods
+2024-08-17,"Chili Powder, 2.5 oz",1.25,0.5,Aldi,oz,Chili Powder,Condiments/Spices
+2024-08-17,"Chopped Green Chiles, 4 oz Can",0.89,0.223,Aldi,oz,Green Chiles,Sauces/Canned Goods
+2024-08-17,"Chunk Light Tuna in Water, 5 oz Can",1.25,0.25,Aldi,oz,Tuna,Sauces/Canned Goods
+2024-08-18,Cilantro,1.99,1.99,Wegmans,oz,Cilantro,Fresh Produce
+2024-08-17,Cilantro Bunch,0.75,0.75,Aldi,each,Cilantro,Fresh Produce
+2024-08-18,"Cinnamon Crunch Squares, 19.3 oz",3.09,0.16,Aldi,oz,Cereal,Snacks
+2024-08-18,"Classic Roast Medium Ground Coffee, 30.5 oz",8.49,0.278,Aldi,oz,Coffee,Beverages
+2024-08-17,"Concord Grape Jelly, 30 oz",2.85,0.095,Aldi,oz,Jelly,Sauces/Canned Goods
+2024-08-17,"Condensed Tomato Soup, 10.75 oz Can",1.39,0.129,Aldi,oz,Soups,Sauces/Canned Goods
+2024-08-17,"Creamy Alfredo Sauce, 15 oz",1.69,0.113,Aldi,oz,Alfredo Sauce,Sauces/Canned Goods
+2024-08-17,"Creamy Peanut Butter, 18 oz",2.19,0.122,Aldi,oz,Peanut Butter,Sauces/Canned Goods
+2024-08-17,"Crushed Red Pepper, 1.5 oz",1.25,0.833,Aldi,oz,Red Pepper,Condiments/Spices
+2024-08-17,"Deli Sliced Provolone Cheese, 8 oz",1.85,0.231,Aldi,oz,Sliced Cheese,Dairy
+2024-08-18,"Deluxe Mixed Nuts with Sea Salt, 30 oz",13.75,0.458,Aldi,oz,Nuts,Snacks
+2024-08-17,"Fajita Flour Tortillas, 20 count",2.19,0.095,Aldi,oz,Tortillas,Grains
+2024-08-17,"Flat Leaf Spinach, 8 oz",1.65,0.206,Aldi,oz,Spinach,Fresh Produce
+2024-08-17,Fresh 93% Lean 7% Fat Ground Beef,6.39,6.39,Aldi,lb,Beef,Meat/Protein
+2024-08-17,Fresh Chicken Breasts,6.11,3.491,Aldi,lb,Chicken,Meat/Protein
+2024-08-17,"Frozen Berry Medley, 32 oz",6.99,0.218,Aldi,oz,Frozen Fruit and Berries,Frozen Goods
+2024-08-17,"Frozen Homestyle Waffles, 10 count",2.19,0.178,Aldi,oz,Waffle,Frozen Goods
+2024-08-17,"Garlic, 3 pack",1.75,0.583,Aldi,ct,Garlic,Fresh Produce
+2024-08-17,"Grade A Large White Eggs, 1 dozen",2.75,0.229,Aldi,ct,Eggs,Meat/Protein
+2024-08-17,"Graham Cracker Pie Crust, 6 oz",1.65,0.275,Aldi,oz,Pie Crust,Frozen Goods
+2024-08-17,"Granulated Sugar, 4 lb",3.29,0.823,Aldi,lb,Granulated Sugar,Baking Goods
+2024-08-17,"Green Peppers, 3 pack",2.19,0.73,Aldi,ct,Bell Peppers,Fresh Produce
+2024-08-17,"Ground Black Pepper, 3 oz",3.29,1.097,Aldi,oz,Black Pepper,Condiments/Spices
+2024-08-17,"Hash Brown Patties, 20 count",6.05,0.302,Aldi,ct,Hash Browns,Snacks
+2024-08-17,"Honey Bear, 12 oz",3.69,0.307,Aldi,oz,Honey,Baking Goods
+2024-08-18,"Honey Smoked Turkey Breast & White Turkey, 1 lb",5.19,0.324,Aldi,oz,Turkey,Meat/Protein
+2024-08-17,"Italian Bread Loaf, 16 oz",4.19,0.262,Aldi,oz,Sandwich Bread,Grains
+2024-08-18,Italian Parsley,1.49,1.49,Wegmans,lb,Parsley,Fresh Produce
+2024-08-18,Large Fresh Limes,0.5,N/A,Wegmans,N/A,Lime,Fresh Produce
+2024-08-18,Lemons,0.79,0.79,Wegmans,each,Lemon,Fresh Produce
+2024-08-17,"Lemons, 2 lb",4.29,2.145,Aldi,lb,Lemon,Fresh Produce
+2024-08-17,"Limes, 1 lb",2.75,2.75,Aldi,lb,Lime,Fresh Produce
+2024-08-18,"Movie Theater Butter Microwave Popcorn, 12 count",5.29,0.441,Aldi,x,Popcorn,Snacks
+2024-08-17,"Mozzarella String Cheese, 12 count",2.59,0.216,Aldi,oz,String Cheese,Dairy
+2024-08-17,"Nonfat Vanilla Blended Greek Yogurt, 32 oz",3.85,0.12,Aldi,oz,Greek Yogurt,Dairy
+2024-08-18,"Orange Juice From Concentrate, 1 gal",8.15,0.064,Aldi,fl oz,Orange Juice,Beverages
+2024-08-17,"Organic Apple Cider Vinegar, 33.8 oz",5.75,0.17,Aldi,fl oz,Apple Cider Vinegar,Oils/Vinegars
+2024-08-18,Organic Broccoli,3.49,3.49,Wegmans,ct,Broccoli,Fresh Produce
+2024-08-17,"Organic Coconut Oil, 14 oz",4.89,0.349,Aldi,oz,Coconut Oil,Oils/Vinegars
+2024-08-17,"Organic Diced Tomatoes, 14 oz",1.45,0.1,Aldi,oz,Diced Tomatoes,Sauces/Canned Goods
+2024-08-17,"Organic Ground Cinnamon, 1.5 oz",2.55,1.7,Aldi,oz,Cinnamon,Condiments/Spices
+2024-08-17,"Organic Ground Cumin, 1.5 oz",2.55,1.7,Aldi,oz,Cumin,Condiments/Spices
+2024-08-17,"Organic Light Brown Sugar Pouch, 24 oz",3.45,0.144,Aldi,oz,Brown Sugar,Baking Goods
+2024-08-17,"Organic Pink Lady Apples, 3 lb",4.85,1.617,Aldi,lb,Apples,Fresh Produce
+2024-08-17,"Organic Quinoa, 16 oz",3.75,0.234,Aldi,oz,Quinoa,Grains
+2024-08-17,"Organic White Rice, 2 lb",3.55,0.111,Aldi,oz,Rice,Grains
+2024-08-17,"Panko Breadcrumbs, 8 oz",1.99,0.249,Aldi,oz,Breadcrumbs,Grains
+2024-08-17,"Paprika, 2.12 oz",1.25,0.59,Aldi,oz,Paprika,Condiments/Spices
+2024-08-17,"Parsley, 2 oz",1.05,0.525,Aldi,oz,Parsley,Fresh Produce
+2024-08-17,"Penne, 16 oz",1.09,0.068,Aldi,oz,Pasta,Grains
+2024-08-17,"Pepperoni Rising Crust Pizza, 30.20 oz",4.39,0.145,Aldi,oz,Pizza,Frozen Goods
+2024-08-18,Pink Lady Apples,1.47,2.99,Wegmans,lb,Apples,Fresh Produce
+2024-08-17,"Powdered Sugar, 32 oz",2.09,0.065,Aldi,oz,Powdered Sugar,Baking Goods
+2024-08-17,"Pure Vanilla Extract, 2 oz",5.49,2.745,Aldi,fl oz,Vanilla Extract,Baking Goods
+2024-08-17,"Pure Vegetable Oil, 48 fl oz",4.15,0.086,Aldi,fl oz,Vegetable Oil,Oils/Vinegars
+2024-08-17,"Quick Oats, 42 oz",4.35,0.104,Aldi,oz,Quick Oats,Snacks
+2024-08-17,"Ranch Dressing, 12 oz",2.19,0.182,Aldi,oz,Ranch,Condiments/Spices
+2024-08-17,"Red Wine Vinegar, 16.9 fl oz",2.99,0.177,Aldi,oz,Red Wine Vinegar,Oils/Vinegars
+2024-08-17,"Restaurant Style Italian Salad Dressing, 16 oz",1.95,0.122,Aldi,fl oz,Salad Dressing,Condiments/Spices
+2024-08-17,"Restaurant Style Salsa, 16 oz",2.19,0.137,Aldi,oz,Salsa,Sauces/Canned Goods
+2024-08-18,"Restaurant Style Tortilla Chips, 13 oz",1.95,0.15,Aldi,oz,Tortilla Chips,Snacks
+2024-08-18,"Saltine Crackers, 16 oz",1.89,0.118,Aldi,oz,Crackers,Snacks
+2024-08-17,"Sea Salt Grinder, 3.53 oz",2.09,0.663,Aldi,oz,Sea Salt,Condiments/Spices
+2024-08-17,"Shredded Mozzarella Cheese, 16 oz",3.79,0.237,Aldi,oz,Shredded Cheese,Dairy
+2024-08-18,"Sliced Cooked Ham, 14 oz",2.75,0.196,Aldi,oz,Ham,Meat/Protein
+2024-08-17,"Sour Cream, 16 oz",1.99,0.124,Aldi,oz,Sour Cream,Dairy
+2024-08-17,"Steak Sauce, 10 fl oz",1.89,0.189,Aldi,oz,Steak Sauce,Condiments/Spices
+2024-08-17,"Steamtable Frozen Mixed Vegetable, 12 oz",1.05,0.088,Aldi,oz,Frozen Veggies,Frozen Goods
+2024-08-17,"Strawberries, 1 lb",2.49,2.49,Aldi,lb,Strawberries,Fresh Produce
+2024-08-17,"Tomato Ketchup, 38 oz",2.05,0.054,Aldi,oz,Ketchup,Condiments/Spices
+2024-08-17,"Tomatoes On the Vine, 24 oz",3.19,0.133,Aldi,oz,Tomatoes,Fresh Produce
+2024-08-17,"Traditional Pasta Sauce, 24 oz",1.75,0.073,Aldi,oz,Pasta Sauce,Sauces/Canned Goods
+2024-08-17,"USDA Organic Black Beans, 15 oz Can",1.09,0.07,Aldi,oz,Black Beans,Sauces/Canned Goods
+2024-08-17,"Unsalted Butter Sticks, 1 lb",4.19,0.262,Aldi,oz,Butter,Dairy
+2024-08-18,Wegmans 100% California Extra Virgin Olive Oil,16.99,0.5,Wegmans,fl oz,Olive Oil,Oils/Vinegars
+2024-08-18,Wegmans Amore Alfredo Pasta Sauce,6.49,0.43,Wegmans,oz,Alfredo Sauce,Sauces/Canned Goods
+2024-08-18,Wegmans Baking Powder,2.19,0.27,Wegmans,oz,Baking Powder,Baking Goods
+2024-08-18,Wegmans Basil,3.49,1.75,Wegmans,oz,Basil,Fresh Produce
+2024-08-18,Wegmans Black Tea Bags,2.79,0.03,Wegmans,ct,Tea Bags,Beverages
+2024-08-18,"Wegmans Boneless Skinless Chicken Breast, Raised without Antibiotics",9.04,5.99,Wegmans,lb,Chicken,Meat/Protein
+2024-08-18,Wegmans Canned Chicken Broth,2.49,0.05,Wegmans,oz,Chicken Stock,Sauces/Canned Goods
+2024-08-18,Wegmans Canned French Roast Ground Coffee,3.99,0.36,Wegmans,oz,Coffee,Beverages
+2024-08-18,"Wegmans Chunk Light Yellowfin Tuna in Water, 8 PACK, FAMILY PACK",10.49,0.22,Wegmans,oz,Tuna,Sauces/Canned Goods
+2024-08-18,Wegmans Cinnamon Squares Cereal,1.99,0.17,Wegmans,oz,Cereal,Snacks
+2024-08-18,Wegmans Classic Mayonnaise,3.99,0.13,Wegmans,fl oz,Mayonnaise,Condiments/Spices
+2024-08-18,Wegmans Coarse Crystals Sea Salt,2.49,0.17,Wegmans,oz,Sea Salt,Condiments/Spices
+2024-08-18,Wegmans Concord Grape Jelly,3.99,0.12,Wegmans,oz,Jelly,Sauces/Canned Goods
+2024-08-18,Wegmans Confectioners' 10-X Powdered Sugar,2.49,0.08,Wegmans,oz,Powdered Sugar,Baking Goods
+2024-08-18,Wegmans Creamy Peanut Butter,3.89,0.1,Wegmans,oz,Peanut Butter,Sauces/Canned Goods
+2024-08-18,Wegmans Crisp N Sweet Whole Kernel Corn,0.69,0.05,Wegmans,oz,Green Chiles,Sauces/Canned Goods
+2024-08-18,Wegmans Curly Cooking Spinach,3.29,0.33,Wegmans,oz,Spinach,Fresh Produce
+2024-08-18,"Wegmans Deluxe Salted Mixed Nuts, FAMILY PACK",13.99,0.41,Wegmans,oz,Nuts,Snacks
+2024-08-18,Wegmans Diced Green Chile Peppers,2.49,0.36,Wegmans,oz,Green Chiles,Sauces/Canned Goods
+2024-08-18,"Wegmans Dressing, Creamy Ranch",1.99,0.12,Wegmans,fl oz,Ranch,Condiments/Spices
+2024-08-18,Wegmans Enriched Long Grain White Rice,6.49,0.65,Wegmans,lb,Rice,Grains
+2024-08-18,Wegmans Enriched Unbleached All Purpose Flour,3.69,0.74,Wegmans,lb,Flour,Baking Goods
+2024-08-18,"Wegmans Extra Thin Sliced Provolone Cheese, 20 Slices",2.99,0.39,Wegmans,oz,Sliced Cheese,Dairy
+2024-08-18,Wegmans Fresh Cut Sliced Strawberries,8.27,8.99,Wegmans,lb,Strawberries,Fresh Produce
+2024-08-18,"Wegmans Frozen Fully Cooked Chicken Breast Nuggets, FAMILY PACK",0.0,0.22,Wegmans,oz,Chicken Nuggets,Frozen Goods
+2024-08-18,"Wegmans Frozen Mixed Berries, FAMILY PACK",0.0,0.17,Wegmans,oz,Frozen Fruit and Berries,Frozen Goods
+2024-08-18,Wegmans Frozen Mixed Vegetables,1.99,0.17,Wegmans,oz,Frozen Veggies,Frozen Goods
+2024-08-18,Wegmans Frozen Thin Crust Uncured Pepperoni Pizza,3.99,0.3,Wegmans,oz,Pizza,Frozen Goods
+2024-08-18,"Wegmans Gordita Style Burrito Tortillas, 10 Inch, 8 Count",2.49,0.12,Wegmans,oz,Tortillas,Grains
+2024-08-18,"Wegmans Grade AA Large Eggs, 12 Count",2.99,0.12,Wegmans,oz,Eggs,Meat/Protein
+2024-08-18,Wegmans Granulated White Sugar,2.89,0.72,Wegmans,lb,Granulated Sugar,Baking Goods
+2024-08-18,Wegmans Greek Vanilla Nonfat Yogurt,0.79,0.15,Wegmans,oz,Greek Yogurt,Dairy
+2024-08-18,Wegmans Ground Beef 90/10,6.54,6.29,Wegmans,lb,Beef,Meat/Protein
+2024-08-18,Wegmans Habanero Hot Sauce,2.49,0.5,Wegmans,fl oz,Hot Sauce,Condiments/Spices
+2024-08-18,Wegmans Hash Brown Patties,2.99,0.13,Wegmans,oz,Hash Browns,Snacks
+2024-08-18,Wegmans Hot Salsa,3.99,0.25,Wegmans,oz,Salsa,Sauces/Canned Goods
+2024-08-18,"Wegmans Italian Classics Balsamic Vinegar of Modena, Two Leaf",3.99,0.24,Wegmans,fl oz,Balsamic Vinegar,Oils/Vinegars
+2024-08-18,Wegmans Italian Classics Organic White Wine Vinegar with The Mother,4.49,0.27,Wegmans,fl oz,White Wine Vinegar,Oils/Vinegars
+2024-08-18,Wegmans Italian Classics Vodka Blush Pasta Sauce,2.99,0.13,Wegmans,oz,Pasta Sauce,Sauces/Canned Goods
+2024-08-18,Wegmans Light Brown Sugar,2.49,0.08,Wegmans,oz,Brown Sugar,Baking Goods
+2024-08-18,Wegmans Mild White Cheddar Shredded Cheese,2.29,0.29,Wegmans,oz,Shredded Cheese,Dairy
+2024-08-18,"Wegmans Mixed Peppers, 3 Pack",4.49,0.28,Wegmans,oz,Bell Peppers,Fresh Produce
+2024-08-18,Wegmans Near Our Stores Wild & Raw Honey Squeeze Bottle,7.99,0.67,Wegmans,oz,Honey,Baking Goods
+2024-08-18,Wegmans No Pulp Premium Orange Juice with Added Calcium & Vitamin D,2.89,0.06,Wegmans,fl oz,Orange Juice,Beverages
+2024-08-18,Wegmans Nutritional Yeast,5.79,1.1,Wegmans,oz,Dry Yeast,Baking Goods
+2024-08-18,"Wegmans Onions, Yellow",1.99,1.0,Wegmans,lb,Onion,Fresh Produce
+2024-08-18,Wegmans Organic 100% Apple Juice,2.99,0.05,Wegmans,fl oz,Apple Juice,Beverages
+2024-08-18,Wegmans Organic 2% Reduced Fat Milk,6.99,6.99,Wegmans,gal,Milk,Dairy
+2024-08-18,"Wegmans Organic Black Beans, No Salt Added",1.49,0.1,Wegmans,oz,Black Beans,Sauces/Canned Goods
+2024-08-18,Wegmans Organic Carrots,1.49,0.09,Wegmans,oz,Carrots,Fresh Produce
+2024-08-18,Wegmans Organic Chili Seasoning,4.99,2.4,Wegmans,oz,Chili Powder,Condiments/Spices
+2024-08-18,Wegmans Organic Diced Tomatoes,2.69,0.1,Wegmans,oz,Diced Tomatoes,Sauces/Canned Goods
+2024-08-18,Wegmans Organic Extra Virgin Unrefined Coconut Oil,9.99,0.4,Wegmans,fl oz,Coconut Oil,Oils/Vinegars
+2024-08-18,Wegmans Organic Ground Black Pepper,3.99,1.33,Wegmans,oz,Black Pepper,Condiments/Spices
+2024-08-18,"Wegmans Organic Popcorn, Himalayan Salt, FAMILY PACK",10.99,0.76,Wegmans,oz,Popcorn,Snacks
+2024-08-18,Wegmans Organic Premium Pure Vanilla Extract,7.49,3.75,Wegmans,fl oz,Vanilla Extract,Baking Goods
+2024-08-18,Wegmans Organic Restaurant-Style Tortilla Chips,4.99,0.31,Wegmans,oz,Tortilla Chips,Snacks
+2024-08-18,"Wegmans Organic Seasoning, Powder, Garlic",4.99,1.59,Wegmans,oz,Garlic Powder,Condiments/Spices
+2024-08-18,"Wegmans Organic Seasoning, Powder, Paprika",4.99,2.32,Wegmans,oz,Paprika,Condiments/Spices
+2024-08-18,Wegmans Organic Semi-Sweet Chocolate Morsels,3.49,0.35,Wegmans,oz,Chocolate Chips,Baking Goods
+2024-08-18,"Wegmans Organic Spices, Ground, Cumin",4.99,2.57,Wegmans,oz,Cumin,Condiments/Spices
+2024-08-18,"Wegmans Organic Spices, Ground, Nutmeg",4.99,2.43,Wegmans,oz,Nutmeg,Condiments/Spices
+2024-08-18,"Wegmans Organic Spices, Ground, Vietnamese Cinnamon",4.99,3.01,Wegmans,oz,Cinnamon,Condiments/Spices
+2024-08-18,Wegmans Organic Tomato Ketchup,3.49,0.11,Wegmans,oz,Ketchup,Condiments/Spices
+2024-08-18,Wegmans Organic Tomato Soup,2.99,0.2,Wegmans,oz,Soups,Sauces/Canned Goods
+2024-08-18,Wegmans Organic Tri-Color Quinoa Blend,8.99,0.28,Wegmans,oz,Quinoa,Grains
+2024-08-18,"Wegmans Organic Unsalted Butter, 4 Sticks",5.99,0.37,Wegmans,oz,Butter,Dairy
+2024-08-18,"Wegmans Organic Vinegar, Apple Cider, with The Mother",4.99,0.15,Wegmans,fl oz,Apple Cider Vinegar,Oils/Vinegars
+2024-08-18,"Wegmans Organic Waffles, Homestyle, FAMILY PACK",17.99,0.3,Wegmans,oz,Waffle,Frozen Goods
+2024-08-18,Wegmans Organic White Sandwich Bread Made with Oatmeal,6.49,0.32,Wegmans,oz,Sandwich Bread,Grains
+2024-08-18,Wegmans Organic Yellow Mustard,2.29,0.19,Wegmans,oz,Mustard,Condiments/Spices
+2024-08-18,Wegmans Original Saltine Crackers,1.79,0.11,Wegmans,oz,Crackers,Snacks
+2024-08-18,Wegmans Parmesan Italian Dressing,1.99,0.12,Wegmans,fl oz,Salad Dressing,Condiments/Spices
+2024-08-18,"Wegmans Part-Skim Mozzarella Cheese Sticks, 12 Count",3.49,0.29,Wegmans,oz,String Cheese,Dairy
+2024-08-18,Wegmans Penne Rigate Pasta,0.99,0.06,Wegmans,oz,Pasta,Grains
+2024-08-18,"Wegmans Potatoes, Russet",2.49,0.5,Wegmans,lb,Potatoes,Fresh Produce
+2024-08-18,Wegmans Quick Oats,4.49,0.11,Wegmans,oz,Quick Oats,Snacks
+2024-08-18,Wegmans Red Wine Vinegar,2.49,0.16,Wegmans,fl oz,Red Wine Vinegar,Oils/Vinegars
+2024-08-18,Wegmans Sour Cream,2.69,0.11,Wegmans,oz,Sour Cream,Dairy
+2024-08-18,"Wegmans Sprouted Grain Pizza Crust, 12 Inch",3.99,0.33,Wegmans,oz,Pie Crust,Frozen Goods
+2024-08-18,Wegmans Steak Sauce,2.79,0.28,Wegmans,oz,Steak Sauce,Condiments/Spices
+2024-08-18,"Wegmans Thin Sliced Turkey Cutlets, Raised without Antibiotics",0.0,N/A,Wegmans,N/A,Turkey,Meat/Protein
+2024-08-18,Wegmans Uncured Honey Ham,3.99,0.5,Wegmans,oz,Ham,Meat/Protein
+2024-08-18,Wegmans Vegetable Oil,7.99,0.06,Wegmans,fl oz,Vegetable Oil,Oils/Vinegars
+2024-08-18,"Wegmans Vinegar, White Distilled",1.79,0.06,Wegmans,fl oz,White Vinegar,Oils/Vinegars
+2024-08-18,Wegmans White Panko Bread Crumbs,2.29,0.23,Wegmans,oz,Breadcrumbs,Grains
+2024-08-17,"White Onions, 2 lb",2.85,1.425,Aldi,lb,Onion,Fresh Produce
+2024-08-17,"White Wine Vinegar, 16.9 fl oz",2.99,0.177,Aldi,oz,White Wine Vinegar,Oils/Vinegars
+2024-08-17,"Yellow Mustard, 20 oz",1.05,0.053,Aldi,oz,Mustard,Condiments/Spices
