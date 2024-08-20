@@ -6,6 +6,10 @@ from datetime import datetime
 import os
 import subprocess
 
+# Define the repository path
+repo_path = r'C:\Users\Administrator\groceries\grocery_prices'
+os.chdir(repo_path)
+
 def run_spider(spider_name, output_file, start_url=None, total_pages=None):
     settings = get_project_settings()
     settings.set('FEEDS', {
