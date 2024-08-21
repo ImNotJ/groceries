@@ -17,5 +17,5 @@ subprocess.run(['git', 'add', '.'])
 # Commit the changes
 subprocess.run(['git', 'commit', '-m', commit_message])
 
-# Push the changes
+# Push the changes a
 subprocess.run(['git', 'push'])
