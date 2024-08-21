@@ -7,7 +7,7 @@ import os
 import subprocess
 
 # Define the repository path
-repo_path = r'C:\Users\Administrator\groceries\grocery_prices'
+repo_path = r'C:\Users\Jai Saravanan\Documents\Projects\groceries\grocery_prices'
 os.chdir(repo_path)
 
 def run_spider(spider_name, output_file, start_url=None, total_pages=None):
