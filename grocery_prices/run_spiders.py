@@ -6,9 +6,9 @@ from datetime import datetime
 import os
 import subprocess
 
-# Define the repository path
-repo_path = r'C:\Users\Administrator\groceries\grocery_prices'
-os.chdir(repo_path)
+# # Define the repository path
+# repo_path = r'C:\Users\Administrator\groceries\grocery_prices'
+# os.chdir(repo_path)
 
 def run_spider(spider_name, output_file, start_url=None, total_pages=None):
     settings = get_project_settings()
@@ -45,8 +45,8 @@ if __name__ == "__main__":
     p1.start()
     p1.join()
 
-    # # Introduce a delay (e.g., 5 minutes)
-    # time.sleep(300)  # 300 seconds = 5 minutes
+    # Introduce a delay (e.g., 5 minutes)
+    time.sleep(300)  # 300 seconds = 5 minutes
 
     # Run the second spider in a separate process
     p2 = multiprocessing.Process(target=run_spider, args=('walmart2', raw_output_file))
