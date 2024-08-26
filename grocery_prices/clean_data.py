@@ -18,25 +18,28 @@ def clean_data(input_file, output_file):
     # 2. Remove quotation marks from item names
     # df['item_name'] = df['item_name'].str.replace('"', '') 
 
-    # 3. Trim " /ea" from the end of the price for Wegmans
-    df.loc[df['store'] == 'Wegmans', 'price'] = df.loc[df['store'] == 'Wegmans', 'price'].str.replace(' /ea', '')
+    # 3. Ensure the 'price' column is treated as a string before using string operations
+    df.loc[df['store'] == 'Wegmans', 'price'] = df.loc[df['store'] == 'Wegmans', 'price'].astype(str)
 
-    # 4. Convert price columns to numeric, handling non-numeric values
+    # 4. Trim " /ea" from the end of the price for Wegmans
+    df.loc[df['store'] == 'Wegmans', 'price'] = df.loc[df['store'] == 'Wegmans', 'price'].str.replace(' /ea', '', regex=False)
+
+    # 5. Convert price columns to numeric, handling non-numeric values
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
 
-    # 5. Fill missing prices with 0
+    # 6. Fill missing prices with 0
     df['price'] = df['price'].fillna(0)
 
-    # 6. Remove any duplicate rows
+    # 7. Remove any duplicate rows
     df = df.drop_duplicates()
 
-    # 7. Clean item names for Aldi: replace multiple spaces with a single space
+    # 8. Clean item names for Aldi: replace multiple spaces with a single space
     df.loc[df['store'] == 'Aldi', 'item_name'] = df.loc[df['store'] == 'Aldi', 'item_name'].str.replace(r'\s+', ' ', regex=True)
 
-    # 8. Remove parenthesis and everything within for Wegmans items
+    # 9. Remove parenthesis and everything within for Wegmans items
     df.loc[df['store'] == 'Wegmans', 'item_name'] = df.loc[df['store'] == 'Wegmans', 'item_name'].str.replace(r'\s*\(.*?\)\s*', '', regex=True)
 
-    # 9. Split price_per_unit into price_per_unit and ppu_unit for Walmart
+    # 10. Split price_per_unit into price_per_unit and ppu_unit for Walmart
     def split_price_per_unit_walmart(value):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
@@ -55,7 +58,7 @@ def clean_data(input_file, output_file):
             return pd.Series([price_per_unit, ppu_unit])
         return pd.Series([None, 'N/A'])
 
-    # 10. Split price_per_unit into price_per_unit and ppu_unit for Aldi
+    # 11. Split price_per_unit into price_per_unit and ppu_unit for Aldi
     def split_price_per_unit_aldi(value, price):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
@@ -77,7 +80,7 @@ def clean_data(input_file, output_file):
             return pd.Series([price_per_unit, unit])
         return pd.Series([price, 'N/A'])
 
-    # 11. Split price_per_unit into price_per_unit and ppu_unit for Wegmans
+    # 12. Split price_per_unit into price_per_unit and ppu_unit for Wegmans
     def split_price_per_unit_wegmans(value):
         if pd.isna(value):
             return pd.Series([None, 'N/A'])
