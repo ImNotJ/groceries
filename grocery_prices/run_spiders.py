@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 import subprocess
 
-Define the repository path
+# Define the repository path
 repo_path = r'C:\Users\Administrator\groceries\grocery_prices'
 os.chdir(repo_path)
 
