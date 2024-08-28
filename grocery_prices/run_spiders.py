@@ -42,18 +42,18 @@ if __name__ == "__main__":
     os.makedirs('./data/prices', exist_ok=True)
     os.makedirs('./data/cleaned_prices', exist_ok=True)
 
-    # # Run the first spider in a separate process
-    # p1 = multiprocessing.Process(target=run_spider, args=('walmart', raw_output_file))
-    # p1.start()
-    # p1.join()
+    # Run the first spider in a separate process
+    p1 = multiprocessing.Process(target=run_spider, args=('walmart', raw_output_file))
+    p1.start()
+    p1.join()
 
-    # # Introduce a delay (e.g., 5 minutes)
-    # time.sleep(300)  # 300 seconds = 5 minutes
+    # Introduce a delay (e.g., 5 minutes)
+    time.sleep(300)  # 300 seconds = 5 minutes
 
-    # # Run the second spider in a separate process
-    # p2 = multiprocessing.Process(target=run_spider, args=('walmart2', raw_output_file))
-    # p2.start()
-    # p2.join()
+    # Run the second spider in a separate process
+    p2 = multiprocessing.Process(target=run_spider, args=('walmart2', raw_output_file))
+    p2.start()
+    p2.join()
 
     # Run the Aldi spider with arbitrary start_url and total_pages
     aldi_start_url = 'https://new.aldi.us/products/fresh-produce/k/13'
