@@ -1,0 +1,88 @@
+date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
+2024-09-07,Cilantro,1.99,1.99,Wegmans,oz,Cilantro,Fresh Produce
+2024-09-07,"Cinnamon Crunch Squares, 19.3 oz",3.09,0.16,Aldi,oz,Cereal,Snacks
+2024-09-07,"Classic Roast Medium Ground Coffee, 30.5 oz",9.35,0.307,Aldi,oz,Coffee,Beverages
+2024-09-07,"Fresh Banana Fruit, Each",0.24,0.5,Walmart,lb,Bananas,Fresh Produce
+2024-09-07,"Fresh Broccoli Crowns, Each",1.34,1.78,Walmart,lb,Broccoli,Fresh Produce
+2024-09-07,"Fresh Cilantro, Bunch",0.57,0.143,Walmart,oz,Cilantro,Fresh Produce
+2024-09-07,"Fresh Color Bell Peppers, 3 Count",2.98,0.993,Walmart,count,Bell Peppers,Fresh Produce
+2024-09-07,"Fresh Hass Avocados, Each",0.98,N/A,Walmart,N/A,Avocados,Fresh Produce
+2024-09-07,"Fresh Lemon, Each",0.68,N/A,Walmart,N/A,Lemon,Fresh Produce
+2024-09-07,"Fresh Lime, Each",0.25,N/A,Walmart,N/A,Lime,Fresh Produce
+2024-09-07,"Fresh Slicing Tomato, Each",1.21,1.98,Walmart,lb,Tomatoes,Fresh Produce
+2024-09-07,"Fresh Strawberries, 1 lb Container",2.98,0.186,Walmart,oz,Strawberries,Fresh Produce
+2024-09-07,"Frozen Berry Medley, 32 oz",7.69,0.24,Aldi,oz,Frozen Fruit and Berries,Frozen Goods
+2024-09-07,"Frozen Homestyle Waffles, 10 count",1.65,0.134,Aldi,oz,Waffle,Frozen Goods
+2024-09-07,"Great Value 100% Apple Juice, 96 fl oz",2.84,0.03,Walmart,fl oz,Apple Juice,Beverages
+2024-09-07,"Great Value 100% Pasteurized Orange Juice with No Pulp, 52 fl oz",3.48,0.067,Walmart,fl oz,Orange Juice,Beverages
+2024-09-07,"Great Value Alfredo Pasta Sauce, 16 Oz",1.82,0.114,Walmart,oz,Alfredo Sauce,Sauces/Canned Goods
+2024-09-07,"Great Value All Natural Boneless Skinless Chicken Breasts, 3 lb (Frozen)",9.74,N/A,Walmart,N/A,Chicken,Meat/Protein
+2024-09-07,"Great Value All-Purpose Enriched Flour, 5LB Bag",2.38,0.03,Walmart,oz,Flour,Baking Goods
+2024-09-07,"Great Value Baking Soda, 1 Lb",0.92,0.058,Walmart,oz,Baking Soda,Baking Goods
+2024-09-07,"Great Value Baking Unsweetened Cocoa Powder, 8 oz Tub",2.48,0.31,Walmart,oz,Cocoa Powder,Baking Goods
+2024-09-07,"Great Value Black Tea Bags, 8 oz, 100 Count",2.12,2.12,Walmart,100,Tea Bags,Beverages
+2024-09-07,"Great Value Buttermilk Waffles, 24 Count",4.14,0.14,Walmart,oz,Waffle,Frozen Goods
+2024-09-07,"Great Value Canned Medium Diced Green Chiles, 4 Oz",0.84,0.21,Walmart,oz,Green Chiles,Sauces/Canned Goods
+2024-09-07,"Great Value Chili Powder, 3 oz",1.12,0.373,Walmart,oz,Chili Powder,Condiments/Spices
+2024-09-07,"Great Value Cinnamon Crunch Breakfast Cereal, 20.25 oz",2.98,0.147,Walmart,oz,Cereal,Snacks
+2024-09-07,"Great Value Classic Ranch Salad Dressing & Dip, 16 fl oz",1.97,0.123,Walmart,fl oz,Ranch,Condiments/Spices
+2024-09-07,"Great Value Concord Grape Jelly, 30 oz",2.74,0.091,Walmart,oz,Jelly,Sauces/Canned Goods
+2024-09-07,"Great Value Confectioners Powdered Sugar, 32 oz",2.22,0.069,Walmart,oz,Powdered Sugar,Baking Goods
+2024-09-07,"Great Value Creamy Peanut Butter, 16 oz",1.94,0.121,Walmart,oz,Peanut Butter,Sauces/Canned Goods
+2024-09-07,"Great Value Crushed Red Pepper, 1.75 oz",1.44,0.823,Walmart,oz,Red Pepper,Condiments/Spices
+2024-09-07,"Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz, 12 Count",2.24,0.28,Walmart,oz,Sliced Cheese,Dairy
+2024-09-07,"Great Value Deluxe Mixed Nuts, 30 oz",13.98,0.466,Walmart,oz,Nuts,Snacks
+2024-09-07,"Great Value Diced Tomatoes in Tomato Juice, 14.5 oz Can",0.96,0.066,Walmart,oz,Diced Tomatoes,Sauces/Canned Goods
+2024-09-07,"Great Value Distilled White Vinegar, 32 fl oz",1.58,0.049,Walmart,fl oz,White Vinegar,Oils/Vinegars
+2024-09-07,"Great Value Double Acting Baking Powder, 8.1 oz",1.98,0.244,Walmart,oz,Baking Powder,Baking Goods
+2024-09-07,"Great Value Extra Butter Flavored Microwave Popcorn, 2.55 oz, 12 Count",4.82,0.157,Walmart,oz,Popcorn,Snacks
+2024-09-07,"Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese, 8 oz Bag",2.24,0.28,Walmart,oz,Shredded Cheese,Dairy
+2024-09-07,"Great Value Frozen Mixed Vegetables, 12 oz Steamable Bag",0.98,0.082,Walmart,oz,Frozen Veggies,Frozen Goods
+2024-09-07,"Great Value Frozen Whole Berry Medley, 16 oz",3.52,0.22,Walmart,oz,Frozen Fruit and Berries,Frozen Goods
+2024-09-07,"Great Value Garlic Powder, 3.4 oz",1.12,0.329,Walmart,oz,Garlic Powder,Condiments/Spices
+2024-09-07,"Great Value Golden Sweet Whole Kernel Corn, Canned Corn, 15 oz Can",0.64,0.043,Walmart,oz,Green Chiles,Sauces/Canned Goods
+2024-09-07,"Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",3.54,0.111,Walmart,oz,Greek Yogurt,Dairy
+2024-09-07,"Great Value Ground Black Pepper, 3 oz",3.12,1.04,Walmart,oz,Black Pepper,Condiments/Spices
+2024-09-07,"Great Value Ground Cumin, 2.5 oz",1.28,0.512,Walmart,oz,Cumin,Condiments/Spices
+2024-09-07,"Great Value Honey, 12 oz Plastic Bear",3.74,0.312,Walmart,oz,Honey,Baking Goods
+2024-09-07,"Great Value Kosher Ground Cinnamon, 2.5 oz",1.24,0.496,Walmart,oz,Cinnamon,Condiments/Spices
+2024-09-07,"Great Value Light Brown Sugar, 32 oz",2.22,0.069,Walmart,oz,Brown Sugar,Baking Goods
+2024-09-07,"Great Value Long Grain Enriched Rice, 32 oz",1.77,0.055,Walmart,oz,Rice,Grains
+2024-09-07,"Great Value Mayonnaise, 30 fl oz",3.38,0.113,Walmart,fl oz,Mayonnaise,Condiments/Spices
+2024-09-07,"Great Value Meat-Based Chicken Broth, 32 oz Carton, Ready-to-Serve, Shelf-Stable/Ambient, Gluten-Free",1.37,0.043,Walmart,oz,Chicken Stock,Sauces/Canned Goods
+2024-09-07,"Great Value Medium Soft Taco Flour Tortillas, 16 oz, 10 Count",1.98,0.124,Walmart,oz,Tortillas,Grains
+2024-09-07,"Great Value Milk Chocolate Chips, 11.5 oz",2.97,0.258,Walmart,oz,Chocolate Chips,Baking Goods
+2024-09-07,"Great Value Mozzarella String Cheese Sticks, 12 oz Bag, 12 Count (Refrigerated)",3.34,0.278,Walmart,oz,String Cheese,Dairy
+2024-09-07,"Great Value Organic Unrefined Virgin Coconut Oil, 14 fl oz",5.98,0.427,Walmart,fl oz,Coconut Oil,Oils/Vinegars
+2024-09-07,"Great Value Original Sour Cream, 16 oz Tub",1.97,0.123,Walmart,oz,Sour Cream,Dairy
+2024-09-07,"Great Value Paprika, 2.5 oz",1.12,0.448,Walmart,oz,Paprika,Condiments/Spices
+2024-09-07,Great Value Patties Shredded Seasoned Poatato Hash Brown,2.97,0.132,Walmart,oz,Hash Browns,Snacks
+2024-09-07,"Great Value Plain Bread Crumbs, 15 oz",1.22,0.081,Walmart,oz,Breadcrumbs,Grains
+2024-09-07,"Great Value Pure Granulated Sugar, 4 lb",3.14,0.049,Walmart,oz,Granulated Sugar,Baking Goods
+2024-09-07,"Great Value Ready to Bake Regular Chocolate Chip Cookie Dough, 16.5 oz",2.97,0.18,Walmart,oz,Cookie Dough,Frozen Goods
+2024-09-07,"Great Value Restaurant Style White Corn Tortilla Chips, 13 oz",1.98,0.152,Walmart,oz,Tortilla Chips,Snacks
+2024-09-07,"Great Value Rising Crust Pepperoni Pizza, Marinara Sauce, 28.25 oz (Frozen)",4.97,0.176,Walmart,oz,Pizza,Frozen Goods
+2024-09-07,"Great Value Roast Beef Lunchmeat, 7oz Plastic Tub, 10 G of Protein per 2 oz (56g) Serving",3.97,9.02,Walmart,lb,Beef,Meat/Protein
+2024-09-07,"Great Value Saltine Crackers, 16 oz, 4 Count",1.74,0.109,Walmart,oz,Crackers,Snacks
+2024-09-07,"Great Value Sweet Cream Unsalted Butter Sticks, 4 Count,16 oz",4.26,0.266,Walmart,oz,Butter,Dairy
+2024-09-07,"Great Value Thick and Chunky Salsa Mild, 16 oz",1.98,0.124,Walmart,oz,Salsa,Sauces/Canned Goods
+2024-09-07,"Great Value Thin Sliced Black Forest Ham Lunchmeat, Family Pack, 1lb, Resealable Plastic Tub, 10 G of Protein per 2oz Serving",4.97,4.97,Walmart,lb,Ham,Meat/Protein
+2024-09-07,"Great Value Thin Sliced Oven Roasted Turkey Breast Family Pack, 16 oz Plastic Tub, 9 Grams of Protein per 2 oz Serving",5.47,5.47,Walmart,lb,Turkey,Meat/Protein
+2024-09-07,"Great Value Tomato Condensed Soup, 10.75 oz",0.68,0.063,Walmart,oz,Soups,Sauces/Canned Goods
+2024-09-07,"Great Value Tomato Ketchup, 32 oz",1.94,0.061,Walmart,oz,Ketchup,Condiments/Spices
+2024-09-07,"Great Value Traditional Italian Salad Dressing & Marinade, 16 fl oz",1.97,0.123,Walmart,fl oz,Salad Dressing,Condiments/Spices
+2024-09-07,"Great Value Traditional Pasta Sauce, 24 oz",1.67,0.07,Walmart,oz,Pasta Sauce,Sauces/Canned Goods
+2024-09-07,"Great Value Vegetable Oil, 48 fl oz",3.97,0.083,Walmart,fl oz,Vegetable Oil,Oils/Vinegars
+2024-09-07,"Great Value White Sandwich Bread, 20 oz",1.42,0.071,Walmart,oz,Sandwich Bread,Grains
+2024-09-07,"Great Value, Large White Eggs, 12 Count",2.64,0.22,Walmart,count,Eggs,Meat/Protein
+2024-09-07,"Great Value, No Salt Added, Canned Black Beans, 15 oz Can",0.86,0.057,Walmart,oz,Black Beans,Sauces/Canned Goods
+2024-09-07,"Marketside Fresh Spinach, 10 oz Bag, Fresh",1.98,0.198,Walmart,ounces,Spinach,Fresh Produce
+2024-09-07,Organic Broccoli,3.49,3.49,Wegmans,ct,Broccoli,Fresh Produce
+2024-09-07,"Quick Oats, 42 oz",4.05,0.096,Aldi,oz,Quick Oats,Snacks
+2024-09-07,"Steamtable Frozen Mixed Vegetable, 12 oz",0.99,0.083,Aldi,oz,Frozen Veggies,Frozen Goods
+2024-09-07,Wegmans Basil,3.49,1.75,Wegmans,oz,Basil,Fresh Produce
+2024-09-07,Wegmans Curly Cooking Spinach,3.29,0.33,Wegmans,oz,Spinach,Fresh Produce
+2024-09-07,"Wegmans Frozen Fully Cooked Chicken Breast Nuggets, FAMILY PACK",0.0,0.22,Wegmans,oz,Chicken Nuggets,Frozen Goods
+2024-09-07,Wegmans Frozen Mixed Vegetables,1.99,0.17,Wegmans,oz,Frozen Veggies,Frozen Goods
+2024-09-07,Wegmans Organic Carrots,0.27,1.49,Wegmans,lb,Carrots,Fresh Produce
+2024-09-07,"Wegmans Organic Waffles, Homestyle, FAMILY PACK",17.99,0.3,Wegmans,oz,Waffle,Frozen Goods
