@@ -1,0 +1,90 @@
+date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
+2025-03-30,"Carrots, 2 lb",1.45,0.725,Aldi,lb,Carrots,Fresh Produce
+2025-03-30,"Fajita Flour Tortillas, 20 count",1.75,0.076,Aldi,oz,Tortillas,Grains
+2025-03-30,"Flat Leaf Spinach, 8 oz",1.75,0.219,Aldi,oz,Spinach,Fresh Produce
+2025-03-30,"Fresh Broccoli Crowns, Each",1.83,1.97,Walmart,lb,Broccoli,Fresh Produce
+2025-03-30,"Fresh Cilantro, Bunch",0.83,0.208,Walmart,oz,Cilantro,Fresh Produce
+2025-03-30,"Fresh Hass Avocados, Each",0.78,N/A,Walmart,N/A,Avocados,Fresh Produce
+2025-03-30,"Fresh Lemon, Each",0.58,N/A,Walmart,N/A,Lemon,Fresh Produce
+2025-03-30,"Fresh Lime, Each",0.25,N/A,Walmart,N/A,Lime,Fresh Produce
+2025-03-30,"Fresh Strawberries, 1 lb Container",3.28,0.205,Walmart,oz,Strawberries,Fresh Produce
+2025-03-30,"Great Value All Natural Boneless Skinless Chicken Breasts, 3 lb (Frozen)",9.48,3.16,Walmart,lb,Chicken,Meat/Protein
+2025-03-30,"Great Value Garlic Powder, 3.4 oz",1.16,0.341,Walmart,oz,Garlic Powder,Condiments/Spices
+2025-03-30,"Great Value Medium Soft Taco Flour Tortillas, 16 oz, 10 Count",1.98,0.124,Walmart,oz,Tortillas,Grains
+2025-03-30,"Great Value Mozzarella String Cheese Sticks, 12 oz Bag, 12 Count (Refrigerated)",3.34,0.278,Walmart,oz,String Cheese,Dairy
+2025-03-30,"Great Value Pure Granulated Sugar, 4 lb",3.14,0.049,Walmart,oz,Granulated Sugar,Baking Goods
+2025-03-30,"Great Value Saltine Crackers, 16 oz, 4 Count",1.74,0.109,Walmart,oz,Crackers,Snacks
+2025-03-30,"Great Value Tomato Ketchup, 32 oz",1.94,0.061,Walmart,oz,Ketchup,Condiments/Spices
+2025-03-30,"Great Value White Sandwich Bread, 20 oz",1.42,0.071,Walmart,oz,Sandwich Bread,Grains
+2025-03-30,"Great Value, Large White Eggs, 12 Count",4.97,0.414,Walmart,count,Eggs,Meat/Protein
+2025-03-30,"Italian Bread Loaf, 16 oz",4.39,0.274,Aldi,oz,Sandwich Bread,Grains
+2025-03-30,"Marketside Fresh Spinach, 10 oz Bag, Fresh",1.98,0.198,Walmart,oz,Spinach,Fresh Produce
+2025-03-30,"Organic Garlic Powder, 2.5 oz",2.05,0.82,Aldi,oz,Garlic Powder,Condiments/Spices
+2025-03-30,"Quick Oats, 42 oz",4.19,0.1,Aldi,oz,Quick Oats,Snacks
+2025-03-30,"Restaurant Style Tortilla Chips, 13 oz",2.09,0.161,Aldi,oz,Tortilla Chips,Snacks
+2025-03-30,"Saltine Crackers, 16 oz",1.85,0.116,Aldi,oz,Crackers,Snacks
+2025-03-30,"USDA Organic Black Beans, 15 oz Can",1.09,0.07,Aldi,oz,Black Beans,Sauces/Canned Goods
+2025-03-30,Wegmans 100% California Extra Virgin Olive Oil,16.99,0.5,Wegmans,fl oz,Olive Oil,Oils/Vinegars
+2025-03-30,Wegmans Amore Alfredo Pasta Sauce,5.99,0.4,Wegmans,oz,Alfredo Sauce,Sauces/Canned Goods
+2025-03-30,Wegmans Baking Powder,2.19,0.27,Wegmans,oz,Baking Powder,Baking Goods
+2025-03-30,Wegmans Black Tea Bags,2.79,0.03,Wegmans,ct,Tea Bags,Beverages
+2025-03-30,Wegmans Canned Chicken Broth,2.49,0.05,Wegmans,oz,Chicken Stock,Sauces/Canned Goods
+2025-03-30,Wegmans Canned French Roast Ground Coffee,4.99,0.45,Wegmans,oz,Coffee,Beverages
+2025-03-30,"Wegmans Chunk Light Yellowfin Tuna in Water, 8 PACK, FAMILY PACK",10.49,1.31,Wegmans,ea,Tuna,Sauces/Canned Goods
+2025-03-30,Wegmans Cinnamon Squares Cereal,1.99,0.17,Wegmans,oz,Cereal,Snacks
+2025-03-30,Wegmans Classic Mayonnaise,3.99,0.13,Wegmans,fl oz,Mayonnaise,Condiments/Spices
+2025-03-30,Wegmans Coarse Crystals Sea Salt,2.49,0.17,Wegmans,oz,Sea Salt,Condiments/Spices
+2025-03-30,Wegmans Confectioners' 10-X Powdered Sugar,2.49,0.08,Wegmans,oz,Powdered Sugar,Baking Goods
+2025-03-30,Wegmans Creamy Peanut Butter,3.89,0.1,Wegmans,oz,Peanut Butter,Sauces/Canned Goods
+2025-03-30,Wegmans Crisp N Sweet Whole Kernel Corn,0.69,0.05,Wegmans,oz,Green Chiles,Sauces/Canned Goods
+2025-03-30,"Wegmans Deluxe Salted Mixed Nuts, FAMILY PACK",13.99,0.41,Wegmans,oz,Nuts,Snacks
+2025-03-30,Wegmans Diced Green Chile Peppers,2.49,0.36,Wegmans,oz,Green Chiles,Sauces/Canned Goods
+2025-03-30,"Wegmans Dressing, Creamy Ranch",1.99,0.12,Wegmans,fl oz,Ranch,Condiments/Spices
+2025-03-30,Wegmans Enriched Long Grain White Rice,6.49,0.65,Wegmans,lb,Rice,Grains
+2025-03-30,Wegmans Enriched Unbleached All Purpose Flour,3.49,0.7,Wegmans,lb,Flour,Baking Goods
+2025-03-30,"Wegmans Extra Thin Sliced Provolone Cheese, 20 Slices",2.99,0.39,Wegmans,oz,Sliced Cheese,Dairy
+2025-03-30,"Wegmans Gordita Style Burrito Tortillas, 10 Inch, 8 Count",2.49,0.12,Wegmans,oz,Tortillas,Grains
+2025-03-30,"Wegmans Grade AA Large Eggs, 12 Count",4.99,0.42,Wegmans,ct,Eggs,Meat/Protein
+2025-03-30,Wegmans Granulated White Sugar,3.49,0.87,Wegmans,lb,Granulated Sugar,Baking Goods
+2025-03-30,Wegmans Greek Vanilla Nonfat Yogurt,0.79,0.15,Wegmans,oz,Greek Yogurt,Dairy
+2025-03-30,Wegmans Habanero Hot Sauce,2.49,0.5,Wegmans,fl oz,Hot Sauce,Condiments/Spices
+2025-03-30,Wegmans Hot Salsa,2.29,0.14,Wegmans,oz,Salsa,Sauces/Canned Goods
+2025-03-30,"Wegmans Italian Classics Balsamic Vinegar of Modena, Two Leaf",4.49,0.27,Wegmans,fl oz,Balsamic Vinegar,Oils/Vinegars
+2025-03-30,Wegmans Italian Classics Vodka Blush Pasta Sauce,2.99,0.12,Wegmans,oz,Pasta Sauce,Sauces/Canned Goods
+2025-03-30,Wegmans Light Brown Sugar,2.49,0.08,Wegmans,oz,Brown Sugar,Baking Goods
+2025-03-30,"Wegmans Mixed Peppers, 3 Pack",4.49,0.28,Wegmans,oz,Bell Peppers,Fresh Produce
+2025-03-30,Wegmans Near Our Stores Wild & Raw Honey Squeeze Bottle,7.99,0.67,Wegmans,oz,Honey,Baking Goods
+2025-03-30,Wegmans Nutritional Yeast,5.79,1.1,Wegmans,oz,Dry Yeast,Baking Goods
+2025-03-30,"Wegmans Onions, Yellow",1.99,1.0,Wegmans,lb,Onion,Fresh Produce
+2025-03-30,Wegmans Organic 100% Apple Juice,2.99,0.05,Wegmans,fl oz,Apple Juice,Beverages
+2025-03-30,Wegmans Organic 2% Reduced Fat Milk,6.99,6.99,Wegmans,gal,Milk,Dairy
+2025-03-30,"Wegmans Organic Black Beans, No Salt Added",1.49,0.1,Wegmans,oz,Black Beans,Sauces/Canned Goods
+2025-03-30,Wegmans Organic Carrots,1.49,0.09,Wegmans,oz,Carrots,Fresh Produce
+2025-03-30,Wegmans Organic Chili Seasoning,4.99,2.4,Wegmans,oz,Chili Powder,Condiments/Spices
+2025-03-30,Wegmans Organic Diced Tomatoes,2.69,0.1,Wegmans,oz,Diced Tomatoes,Sauces/Canned Goods
+2025-03-30,Wegmans Organic Extra Virgin Unrefined Coconut Oil,9.99,0.4,Wegmans,fl oz,Coconut Oil,Oils/Vinegars
+2025-03-30,Wegmans Organic Ground Black Pepper,4.49,1.5,Wegmans,oz,Black Pepper,Condiments/Spices
+2025-03-30,"Wegmans Organic Popcorn, Himalayan Salt, FAMILY PACK",11.99,0.5,Wegmans,ct,Popcorn,Snacks
+2025-03-30,Wegmans Organic Premium Pure Vanilla Extract,7.99,4.0,Wegmans,fl oz,Vanilla Extract,Baking Goods
+2025-03-30,"Wegmans Organic Seasoning, Powder, Garlic",4.99,1.59,Wegmans,oz,Garlic Powder,Condiments/Spices
+2025-03-30,"Wegmans Organic Spices, Ground, Cumin",4.99,2.57,Wegmans,oz,Cumin,Condiments/Spices
+2025-03-30,"Wegmans Organic Spices, Ground, Nutmeg",4.99,2.43,Wegmans,oz,Nutmeg,Condiments/Spices
+2025-03-30,"Wegmans Organic Spices, Ground, Vietnamese Cinnamon",4.99,3.01,Wegmans,oz,Cinnamon,Condiments/Spices
+2025-03-30,Wegmans Organic Tomato Ketchup,3.49,0.11,Wegmans,oz,Ketchup,Condiments/Spices
+2025-03-30,Wegmans Organic Tomato Soup,0.0,0.17,Wegmans,oz,Soups,Sauces/Canned Goods
+2025-03-30,Wegmans Organic Tri-Color Quinoa Blend,7.99,0.25,Wegmans,oz,Quinoa,Grains
+2025-03-30,"Wegmans Organic Vinegar, Apple Cider, with The Mother",4.99,0.15,Wegmans,fl oz,Apple Cider Vinegar,Oils/Vinegars
+2025-03-30,Wegmans Organic White Sandwich Bread Made with Oatmeal,6.49,0.32,Wegmans,oz,Sandwich Bread,Grains
+2025-03-30,Wegmans Organic Yellow Mustard,2.29,0.19,Wegmans,oz,Mustard,Condiments/Spices
+2025-03-30,Wegmans Original Saltine Crackers,1.99,0.12,Wegmans,oz,Crackers,Snacks
+2025-03-30,Wegmans Parmesan Italian Dressing,1.99,0.12,Wegmans,fl oz,Salad Dressing,Condiments/Spices
+2025-03-30,"Wegmans Part-Skim Mozzarella Cheese Sticks, 12 Count",3.49,0.29,Wegmans,oz,String Cheese,Dairy
+2025-03-30,Wegmans Penne Rigate Pasta,0.99,0.06,Wegmans,oz,Pasta,Grains
+2025-03-30,"Wegmans Potatoes, Russet",2.99,0.6,Wegmans,lb,Potatoes,Fresh Produce
+2025-03-30,Wegmans Quick Oats,4.49,0.11,Wegmans,oz,Quick Oats,Snacks
+2025-03-30,Wegmans Red Wine Vinegar,2.49,0.16,Wegmans,fl oz,Red Wine Vinegar,Oils/Vinegars
+2025-03-30,Wegmans Sour Cream,2.69,0.11,Wegmans,oz,Sour Cream,Dairy
+2025-03-30,Wegmans Steak Sauce,2.79,0.28,Wegmans,oz,Steak Sauce,Condiments/Spices
+2025-03-30,Wegmans Uncured Honey Ham,3.69,0.46,Wegmans,oz,Ham,Meat/Protein
+2025-03-30,Wegmans Vegetable Oil,7.99,0.06,Wegmans,fl oz,Vegetable Oil,Oils/Vinegars
+2025-03-30,"Wegmans Vinegar, White Distilled",1.99,0.06,Wegmans,fl oz,White Vinegar,Oils/Vinegars
