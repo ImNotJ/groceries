@@ -1,0 +1,45 @@
+date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
+2025-04-29,"2% Milk, 1 gal",3.25,N/A,Aldi,N/A,Milk,Dairy
+2025-04-29,"All Purpose Flour, 5 lb",2.55,0.51,Aldi,lb,Flour,Baking Goods
+2025-04-29,"Baking Potatoes, 5 lb",3.65,0.73,Aldi,lb,Potatoes,Fresh Produce
+2025-04-29,"Baking Powder, 8.1 oz",2.15,0.265,Aldi,oz,Baking Powder,Baking Goods
+2025-04-29,"Balsamic Vinegar of Modena, 16.9 fl oz",2.75,0.163,Aldi,oz,Balsamic Vinegar,Oils/Vinegars
+2025-04-29,"Bananas, per lb",0.17,0.515,Aldi,lb,Bananas,Fresh Produce
+2025-04-29,"Canned Whole Kernel Golden Sweet Corn, 15.25 oz",0.75,0.049,Aldi,oz,Green Chiles,Sauces/Canned Goods
+2025-04-29,"Carrots, 2 lb",1.45,N/A,Aldi,N/A,Carrots,Fresh Produce
+2025-04-29,"Chopped Green Chiles, 4 oz Can",0.95,0.237,Aldi,oz,Green Chiles,Sauces/Canned Goods
+2025-04-29,"Chunk Light Tuna in Water, 5 oz Can",0.89,0.178,Aldi,oz,Tuna,Sauces/Canned Goods
+2025-04-29,"Creamy Alfredo Sauce, 15 oz",1.89,0.126,Aldi,oz,Alfredo Sauce,Sauces/Canned Goods
+2025-04-29,"Deli Sliced Provolone Cheese, 8 oz",2.05,0.256,Aldi,oz,Sliced Cheese,Dairy
+2025-04-29,"Deluxe Mixed Nuts with Sea Salt, 30 oz",14.29,N/A,Aldi,N/A,Nuts,Snacks
+2025-04-29,"Fajita Flour Tortillas, 20 count",1.65,0.072,Aldi,oz,Tortillas,Grains
+2025-04-29,"Flat Leaf Spinach, 8 oz",1.75,0.219,Aldi,oz,Spinach,Fresh Produce
+2025-04-29,Fresh 93% Lean 7% Fat Ground Beef,6.79,6.79,Aldi,lb,Beef,Meat/Protein
+2025-04-29,Fresh Chicken Breasts,6.11,3.491,Aldi,lb,Chicken,Meat/Protein
+2025-04-29,"Garlic, 3 pack",1.39,0.463,Aldi,ct,Garlic,Fresh Produce
+2025-04-29,"Grade A Large White Eggs, 1 dozen",4.95,0.413,Aldi,ct,Eggs,Meat/Protein
+2025-04-29,"Green Peppers, 3 pack",2.55,0.85,Aldi,ct,Bell Peppers,Fresh Produce
+2025-04-29,"Ground Black Pepper, 3 oz",3.49,1.163,Aldi,oz,Black Pepper,Condiments/Spices
+2025-04-29,"Honey Bear, 12 oz",4.09,0.341,Aldi,oz,Honey,Baking Goods
+2025-04-29,"Italian Bread Loaf, 16 oz",4.39,0.274,Aldi,oz,Sandwich Bread,Grains
+2025-04-29,"Lemons, 2 lb",3.45,1.725,Aldi,lb,Lemon,Fresh Produce
+2025-04-29,"Limes, 1 lb",2.59,2.59,Aldi,lb,Lime,Fresh Produce
+2025-04-29,"Mozzarella String Cheese, 12 count",3.15,0.263,Aldi,oz,String Cheese,Dairy
+2025-04-29,"Nonfat Vanilla Blended Greek Yogurt, 32 oz",3.69,0.115,Aldi,oz,Greek Yogurt,Dairy
+2025-04-29,"Organic Garlic Powder, 2.5 oz",1.99,0.796,Aldi,oz,Garlic Powder,Condiments/Spices
+2025-04-29,"Organic Ground Cumin, 1.5 oz",1.99,1.327,Aldi,oz,Cumin,Condiments/Spices
+2025-04-29,"Organic Pink Lady Apples, 3 lb",4.95,1.65,Aldi,lb,Apples,Fresh Produce
+2025-04-29,"Powdered Sugar, 32 oz",2.15,0.067,Aldi,oz,Powdered Sugar,Baking Goods
+2025-04-29,"Pure Vanilla Extract, 2 oz",3.55,1.775,Aldi,fl oz,Vanilla Extract,Baking Goods
+2025-04-29,"Pure Vegetable Oil, 48 fl oz",3.25,0.068,Aldi,fl oz,Vegetable Oil,Oils/Vinegars
+2025-04-29,"Quick Oats, 42 oz",4.19,0.1,Aldi,oz,Quick Oats,Snacks
+2025-04-29,"Restaurant Style Tortilla Chips, 13 oz",2.09,0.161,Aldi,oz,Tortilla Chips,Snacks
+2025-04-29,"Saltine Crackers, 16 oz",1.85,0.116,Aldi,oz,Crackers,Snacks
+2025-04-29,"Sea Salt Grinder, 3.53 oz",1.89,N/A,Aldi,N/A,Sea Salt,Condiments/Spices
+2025-04-29,"Shredded Mozzarella Cheese, 16 oz",4.05,0.253,Aldi,oz,Shredded Cheese,Dairy
+2025-04-29,"Sour Cream, 16 oz",2.05,0.128,Aldi,oz,Sour Cream,Dairy
+2025-04-29,"Strawberries, 1 lb",2.75,2.75,Aldi,lb,Strawberries,Fresh Produce
+2025-04-29,"Tomato Ketchup, 38 oz",1.85,0.049,Aldi,oz,Ketchup,Condiments/Spices
+2025-04-29,"Tomatoes On the Vine, 24 oz",2.75,0.115,Aldi,oz,Tomatoes,Fresh Produce
+2025-04-29,"USDA Organic Black Beans, 15 oz Can",1.09,0.07,Aldi,oz,Black Beans,Sauces/Canned Goods
+2025-04-29,"White Wine Vinegar, 16.9 fl oz",2.75,0.163,Aldi,fl oz,White Wine Vinegar,Oils/Vinegars
