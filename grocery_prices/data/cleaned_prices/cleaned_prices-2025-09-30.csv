@@ -1,0 +1,34 @@
+date,item_name,price,price_per_unit,store,ppu_unit,alt_name,category
+2025-09-30,"100% Apple Juice, 64 fl oz",0.0,0.0,Aldi,fl oz,Apple Juice,Beverages
+2025-09-30,"Baking Powder, 8.1 oz",0.0,0.0,Aldi,oz,Baking Powder,Baking Goods
+2025-09-30,"Carrots, 2 lb",0.0,0.0,Aldi,lb,Carrots,Fresh Produce
+2025-09-30,"Classic Roast Medium Ground Coffee, 30.5 oz",0.0,0.0,Aldi,oz,Coffee,Beverages
+2025-09-30,"Deluxe Mixed Nuts with Sea Salt, 30 oz",0.0,N/A,Aldi,N/A,Nuts,Snacks
+2025-09-30,"Fajita Flour Tortillas, 20 count",0.0,0.0,Aldi,oz,Tortillas,Grains
+2025-09-30,"Flat Leaf Spinach, 8 oz",0.0,0.0,Aldi,oz,Spinach,Fresh Produce
+2025-09-30,"Fresh Broccoli Crowns, Each",1.83,1.97,Walmart,lb,Broccoli,Fresh Produce
+2025-09-30,"Fresh Color Bell Peppers, 3 Count",0.0,N/A,Walmart,N/A,Bell Peppers,Fresh Produce
+2025-09-30,"Fresh Hass Avocados, Each",0.0,N/A,Walmart,N/A,Avocados,Fresh Produce
+2025-09-30,"Fresh Lemon, Each",0.68,N/A,Walmart,N/A,Lemon,Fresh Produce
+2025-09-30,"Fresh Lime, Each",0.25,N/A,Walmart,N/A,Lime,Fresh Produce
+2025-09-30,"Fresh Strawberries, 1 lb Container",2.32,0.145,Walmart,oz,Strawberries,Fresh Produce
+2025-09-30,"Fresh Whole Yellow Onion, Each",0.78,0.97,Walmart,lb,Onion,Fresh Produce
+2025-09-30,"Great Value Frozen Mixed Vegetables, 12 oz Steamable Bag",0.98,0.082,Walmart,oz,Frozen Veggies,Frozen Goods
+2025-09-30,"Great Value Garlic Powder, 3.4 oz",0.0,N/A,Walmart,N/A,Garlic Powder,Condiments/Spices
+2025-09-30,"Great Value Medium Soft Taco Flour Tortillas, 16 oz, 10 Count",1.98,0.124,Walmart,oz,Tortillas,Grains
+2025-09-30,"Great Value Original Sour Cream, 16 oz Tub",1.88,0.118,Walmart,oz,Sour Cream,Dairy
+2025-09-30,"Great Value Pure Granulated Sugar, 4 lb",0.0,N/A,Walmart,N/A,Granulated Sugar,Baking Goods
+2025-09-30,"Great Value Ready to Bake Regular Chocolate Chip Cookie Dough, 16.5 oz",2.97,0.18,Walmart,oz,Cookie Dough,Frozen Goods
+2025-09-30,"Great Value Tomato Ketchup, 32 oz",1.94,0.061,Walmart,oz,Ketchup,Condiments/Spices
+2025-09-30,"Great Value White Sandwich Bread, 20 oz",1.42,0.071,Walmart,oz,Sandwich Bread,Grains
+2025-09-30,"Honey Smoked Turkey Breast & White Turkey, 1 lb",0.0,0.0,Aldi,oz,Turkey,Meat/Protein
+2025-09-30,"Italian Bread Loaf, 16 oz",0.0,0.0,Aldi,oz,Sandwich Bread,Grains
+2025-09-30,"Organic Garlic Powder, 2.5 oz",0.0,0.0,Aldi,oz,Garlic Powder,Condiments/Spices
+2025-09-30,"Organic Ground Cumin, 1.5 oz",0.0,0.0,Aldi,oz,Cumin,Condiments/Spices
+2025-09-30,"Quick Oats, 42 oz",0.0,0.0,Aldi,oz,Quick Oats,Snacks
+2025-09-30,"Restaurant Style Tortilla Chips, 13 oz",0.0,0.0,Aldi,oz,Tortilla Chips,Snacks
+2025-09-30,"Saltine Crackers, 16 oz",0.0,0.0,Aldi,oz,Crackers,Snacks
+2025-09-30,"Strawberries, 1 lb",0.0,0.0,Aldi,lb,Strawberries,Fresh Produce
+2025-09-30,"Tomato Ketchup, 38 oz",0.0,0.0,Aldi,oz,Ketchup,Condiments/Spices
+2025-09-30,"Tomatoes On the Vine, 24 oz",0.0,0.0,Aldi,oz,Tomatoes,Fresh Produce
+2025-09-30,"USDA Organic Black Beans, 15 oz Can",0.0,0.0,Aldi,oz,Black Beans,Sauces/Canned Goods
